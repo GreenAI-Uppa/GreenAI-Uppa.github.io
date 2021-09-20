@@ -23,8 +23,11 @@ Our research encompasses diverse projects and collaborations around the mathemat
 
 ### Our algorithms 
 
+Neural networks (NNs) have become the most used family of machine learning algorithms to solve supervised task as well as to process natural language. Unless the universality of architectures emerging now, NNs are still prohibitive regarding environmental impact due to electric consumption, as well as deployment in constrained platform such as micro-computers. To tackle this issue, three main components arise naturally: measure of consumption, algorithms design, and architecture search. GreenAI Uppa expect to address these issues, based on both a theoretical and practical deep learning analysis of standard pipeline and new paradigms. More precisely, the main theoretical direction lie on how mathematical statistics (such as PAC-Bayesian theory) can be applied to learn lighter architectures in order to reduce training, inference complexity and environmental impact of machine learning. 
+
 ### Measure the hungriness of your deep learning
 
+We are also mainly focus on more a practical study of recent architectures in terms of power consumption, by using recent softwares like RAPL and nvidia-smi in a dedicated software available here. Gathering with a mathematical background, we have the long term objective to design adaptive architectura that fits dynamically to the size of the data, the difficulty of the problem and the desire environmental constraints.
 
 ### Training
 
