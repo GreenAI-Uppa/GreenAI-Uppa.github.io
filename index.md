@@ -11,12 +11,6 @@ longer intro
 
 [link](#quick-setup)
 
-## Industrial projects
-
-### Crisis management
-
-### AI for Education
-
 ## Our research
 
 ![seminar4](/images/seminar4.png){:class="img-responsive"}
@@ -35,8 +29,29 @@ We are also mainly focus on more a practical study of recent architectures in te
 
 ### Training
 
+## Industrial projects
+
+### Crisis management
+
+### AI for Education
+
+### Sponsors
+
+This project is mainly supported by the I-Site E2S-UPPA, a french consortium composed of [CNRS](https://www.cnrs.fr/), [INRIA](https://www.inria.fr/), [INRAE](https://www.inrae.fr/) that assists companies and public organizations in their energy and environmental transition.
+
+Partnerships with public institutions, as well as SMEs are one of the main motivations for the existence of GreenAI Uppa. 
+ - [AltaNoveo](https://www.cwall.fr/)
+ - [Aquitaine Science Transfert](https://www.ast-innovations.com/)
+ - [Technopole Hélioparc](https://helioparc.fr/)
+ - [Mellisphera](https://www.mellisphera.com/)
+ - [ORIE, Cornell University](https://www.orie.cornell.edu/orie)
+ - [Prof en Poches](https://profenpoche.com/)
+ - [Réseau Francilien en Sciences Informatiques (RFSI)](https://dim-rfsi.fr/)
+
+
 ## Contact
 
+Feel free to contact us if you want to contribute: [contact Paul](paul.gay@univ-pau.fr) or [contact Sébastien](sebastien.loustau@univ-pau.fr)
 
 ## Start the different parts 
 
