@@ -19,6 +19,8 @@ longer intro
 
 ## Our research
 
+![seminar4](/images/seminar4.png){:class="img-responsive"}
+
 Our research encompasses diverse projects and collaborations around the mathematical foundations of power-efficient deep/machine learning algorithms, and the applications of AI to build a more sustainable world. In this section, we present the mathematical as well as the algorithmic part of our activity. 
 
 ### Our algorithms 
