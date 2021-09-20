@@ -35,7 +35,7 @@ We are also mainly focus on more a practical study of recent architectures in te
 
 ### AI for Education
 
-### Sponsors
+## Sponsors
 
 This project is mainly supported by the I-Site E2S-UPPA, a french consortium composed of [CNRS](https://www.cnrs.fr/), [INRIA](https://www.inria.fr/), [INRAE](https://www.inrae.fr/) that assists companies and public organizations in their energy and environmental transition.
 
