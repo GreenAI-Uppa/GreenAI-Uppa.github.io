@@ -27,6 +27,26 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 We are also mainly focus on more a practical study of recent architectures in terms of power consumption, by using recent softwares like RAPL and nvidia-smi in a dedicated software available here. Gathering with a mathematical background, we have the long term objective to design adaptive architectura that fits dynamically to the size of the data, the difficulty of the problem and the desire environmental constraints.
 
+### Seminars and upcoming events
+
+- **Upcoming WORKSHOP at ACML 2021, November 17th** Power-Efficient Deep Learning. Organized with Pierre Alquier from Riken Institute. Details in a dedicated landing page soon.
+- **Next team seminar on 20th, September** Optimization theory - Introduction to Mirror descent.
+[expand]
+ - **September, 13th 2021 - Sébastien Loustau (UPPA)** Kick Off Green AI Uppa
+Summary : Official kick off of the Green AI Uppa project ! After presenting the climatic and mathematical motivations (has the earth ever been this hot before ?), we introduce the context and support we have from the public institutions and the SMEs. We explain how the team will be organized, and inspired from the best of both worlds. Then we take 30 minuts to write our **elevator pitch**. Welcome to Jordy and Matthieu !
+slides disponibles ici
+ - **August, 23th 2021 - Paul Gay (UPPA)** Measuring the Power draw of computers
+Résumé : Inventer de nouveaux algorithmes économes en énergie passe par la mesure de leur consommation électrique. Ces dernières années voient un regain d’intérêt pour mesurer la consommation des centres de calcul, et plus précisément, pour mesurer la consommation électrique des modèles d’IA. Dans ce séminaire, je présenterai les possibilités des outils existants tels que RAPL et NVIDIA-SMI en soulignant leur dépendance avec le type de processeurs ou de cartes graphiques dont la consommation est mesurée. Nous étudierons ainsi briévement les différentes architectures d’ordinateurs afin d’identifier les différentes sources de consommation. L’objectif final est de permettre aux participants de mesurer la consommation électrique de leurs propres algorithmes par l’intermédiaire du logiciel “deep_learning_power_measure” développé au sein de l’UPPA.
+slides disponibles ici
+ - **July, 26th 2021 - Julien Mercier (UPPA)** Comment intégrer de la binarisation de réseau dans les algorithmes de deep learning ?
+Résumé : Au cours de cette présentation, je vous propose d’introduire les avantages et inconvénients de la binarisation. Pour cela nous évoquerons l’algorithme BinaryConnect ainsi que BinaryNetwork et nous présenterons comment et pourquoi ils ont été binarisé.
+slides disponibles ici
+ - **July, 5th 2021 - Sébastien Loustau** Comment intégrer des contraintes environnementales dans les algorithmes de Deep Learning ?
+Résumé : Dans cet exposé, je vous propose d'introduire la théorie PAC-Bayesienne et son lien avec la théorie des jeux pour proposer de nouvelles procédures d'apprentissage séquentiel. Après une introduction simple du problème de prévision avec avis d'experts, on présentera des inégalités PAC-Bayesiennes plus générales et des bornes de regrets parcimonieuses pour des famillles de réseaux de neurones particulières (XNOR-nets notamment). Enfin, on proposera une extension de cette théorie au Transport Optimal pour intégrer de nouvelles pénalités plus génériques et garantir l'intégration de mesures de consommations plus précises.
+Cet exposé est une introduction aux principales motivations de ces articles : Learning with BOT et Sparsity regret bounds for XNOR-Nets
+notes manuscrites disponibles ici
+[/expand]
+
 ### Training
 
 ## Industrial projects
