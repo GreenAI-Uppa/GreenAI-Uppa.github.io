@@ -3,7 +3,7 @@ title:
 feature_text: |
   ## Green AI UPPA 
   Introduction
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "/assets/ossau_lurien.png"
 excerpt: "Longer intro"
 ---
 
@@ -12,6 +12,8 @@ longer intro
 [link](#quick-setup)
 
 ## Industrial projects
+
+Description of the industrial projects
 
 ### Crisis management
 
