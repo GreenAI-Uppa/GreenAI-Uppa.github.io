@@ -17,19 +17,70 @@ Description of the industrial projects
 
 ### Crisis management
 
-### AI for Education
-
 ## Our research
+
+![seminar4](/images/seminar4.png){:class="img-responsive"}
+
+Our research encompasses diverse projects and collaborations around the mathematical foundations of power-efficient deep/machine learning algorithms, and the applications of AI to build a more sustainable world. In this section, we present the mathematical as well as the algorithmic part of our activity. 
 
 ### Our algorithms 
 
+Deep Learning has become extremely popular to solve many supervised machine learning problems. This standardization of machine learning, namely computing on GPU a stochastic gradient descent is not only a plague for science but also a disaster in terms of power consumption. Recently, a growing interest is observed in the deep learning hype in order to reduce computational cost by designing lighter architectures. Several approaches for reducing the computational effort of NNs have been proposed (e.g. binarized networks or pruning methods). Moreover, promising strategies propose to select the connectivity of the network, or more generally the architecture, during the training process. 
+
+ GreenAI Uppa expect to address these issues, based on both a theoretical and practical machine/deep learning analysis of standard pipeline and new paradigms. More precisely, we propose alternatives to standard deep learning pipeline in order to rethink the learning process and show how deep mathematical statistics could help us to select lighter algorithms and reduce training, inference complexity and environmental impact of machine learning.
+
 ### Measure the hungriness of your deep learning
 
+We are also mainly focus on more a practical study of recent architectures in terms of power consumption, by using recent softwares like RAPL and nvidia-smi in a dedicated software available here. Gathering with a mathematical background, we have the long term objective to design adaptive architectura that fits dynamically to the size of the data, the difficulty of the problem and the desire environmental constraints.
+
+### Seminars and upcoming events
+
+- **Upcoming WORKSHOP at ACML 2021, November 17th** Power-Efficient Deep Learning. Organized with [Pierre Alquier](https://pierrealquier.github.io/) from the amazing [Approximate Bayesian Inference Team](https://team-approx-bayes.github.io/) at [Riken Institute](https://www.riken.jp/en/). Details in a dedicated landing page asap.
+- **Next team seminar on 20th, September** Optimization theory - Introduction to Mirror descent.
+
+[expand]
+
+ - **September, 13th 2021 - Sébastien Loustau (UPPA)** Kick Off Green AI Uppa
+Summary : Official kick off of the Green AI Uppa project ! After presenting the climatic and mathematical motivations (has the earth ever been this hot before ?), we introduce the context and support we have from the public institutions and the SMEs. We explain how the team will be organized, and inspired from the best of both worlds. Then we take 30 minuts to write our **elevator pitch**. Welcome to Jordy and Matthieu !
+slides disponibles ici
+ - **August, 23th 2021 - Paul Gay (UPPA)** Measuring the Power draw of computers
+Résumé : Inventer de nouveaux algorithmes économes en énergie passe par la mesure de leur consommation électrique. Ces dernières années voient un regain d’intérêt pour mesurer la consommation des centres de calcul, et plus précisément, pour mesurer la consommation électrique des modèles d’IA. Dans ce séminaire, je présenterai les possibilités des outils existants tels que RAPL et NVIDIA-SMI en soulignant leur dépendance avec le type de processeurs ou de cartes graphiques dont la consommation est mesurée. Nous étudierons ainsi briévement les différentes architectures d’ordinateurs afin d’identifier les différentes sources de consommation. L’objectif final est de permettre aux participants de mesurer la consommation électrique de leurs propres algorithmes par l’intermédiaire du logiciel “deep_learning_power_measure” développé au sein de l’UPPA.
+slides disponibles ici
+ - **July, 26th 2021 - Julien Mercier (UPPA)** Comment intégrer de la binarisation de réseau dans les algorithmes de deep learning ?
+Résumé : Au cours de cette présentation, je vous propose d’introduire les avantages et inconvénients de la binarisation. Pour cela nous évoquerons l’algorithme BinaryConnect ainsi que BinaryNetwork et nous présenterons comment et pourquoi ils ont été binarisé.
+slides disponibles ici
+ - **July, 5th 2021 - Sébastien Loustau** Comment intégrer des contraintes environnementales dans les algorithmes de Deep Learning ?
+Résumé : Dans cet exposé, je vous propose d'introduire la théorie PAC-Bayesienne et son lien avec la théorie des jeux pour proposer de nouvelles procédures d'apprentissage séquentiel. Après une introduction simple du problème de prévision avec avis d'experts, on présentera des inégalités PAC-Bayesiennes plus générales et des bornes de regrets parcimonieuses pour des famillles de réseaux de neurones particulières (XNOR-nets notamment). Enfin, on proposera une extension de cette théorie au Transport Optimal pour intégrer de nouvelles pénalités plus génériques et garantir l'intégration de mesures de consommations plus précises.
+Cet exposé est une introduction aux principales motivations de ces articles : Learning with BOT et Sparsity regret bounds for XNOR-Nets
+notes manuscrites disponibles ici
+
+[/expand]
 
 ### Training
 
+## Industrial projects
+
+### Crisis management
+
+### AI for Education
+
+## Sponsors
+
+This project is mainly supported by the I-Site E2S-UPPA, a french consortium composed of [CNRS](https://www.cnrs.fr/), [INRIA](https://www.inria.fr/), [INRAE](https://www.inrae.fr/) that assists companies and public organizations in their energy and environmental transition.
+
+Partnerships with public institutions, as well as SMEs are one of the main motivations for the existence of GreenAI Uppa. 
+ - [AltaNoveo](https://www.cwall.fr/)
+ - [Aquitaine Science Transfert](https://www.ast-innovations.com/)
+ - [Technopole Hélioparc](https://helioparc.fr/)
+ - [Mellisphera](https://www.mellisphera.com/)
+ - [ORIE, Cornell University](https://www.orie.cornell.edu/orie)
+ - [Prof en Poches](https://profenpoche.com/)
+ - [Réseau Francilien en Sciences Informatiques (RFSI)](https://dim-rfsi.fr/)
+
+
 ## Contact
 
+Feel free to contact us if you want to contribute: contact [Paul](https://paulgay.github.io/) or [Sébastien](https://sebastienloustau.github.io)
 
 ## Start the different parts 
 
