@@ -3,7 +3,7 @@ title:
 feature_text: |
   ## Green AI UPPA 
   Introduction
-feature_image: "/assets/ossau_lurien.png"
+feature_image: "/assets/ossau_lurien_team.png"
 excerpt: "Longer intro"
 ---
 
