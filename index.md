@@ -31,7 +31,9 @@ We are also mainly focus on more a practical study of recent architectures in te
 
 - **Upcoming WORKSHOP at ACML 2021, November 17th** Power-Efficient Deep Learning. Organized with [Pierre Alquier](https://pierrealquier.github.io/) from the amazing [Approximate Bayesian Inference Team](https://team-approx-bayes.github.io/) at [Riken Institute](https://www.riken.jp/en/). Details in a dedicated landing page asap.
 - **Next team seminar on 20th, September** Optimization theory - Introduction to Mirror descent.
+
 [expand]
+
  - **September, 13th 2021 - Sébastien Loustau (UPPA)** Kick Off Green AI Uppa
 Summary : Official kick off of the Green AI Uppa project ! After presenting the climatic and mathematical motivations (has the earth ever been this hot before ?), we introduce the context and support we have from the public institutions and the SMEs. We explain how the team will be organized, and inspired from the best of both worlds. Then we take 30 minuts to write our **elevator pitch**. Welcome to Jordy and Matthieu !
 slides disponibles ici
@@ -45,6 +47,7 @@ slides disponibles ici
 Résumé : Dans cet exposé, je vous propose d'introduire la théorie PAC-Bayesienne et son lien avec la théorie des jeux pour proposer de nouvelles procédures d'apprentissage séquentiel. Après une introduction simple du problème de prévision avec avis d'experts, on présentera des inégalités PAC-Bayesiennes plus générales et des bornes de regrets parcimonieuses pour des famillles de réseaux de neurones particulières (XNOR-nets notamment). Enfin, on proposera une extension de cette théorie au Transport Optimal pour intégrer de nouvelles pénalités plus génériques et garantir l'intégration de mesures de consommations plus précises.
 Cet exposé est une introduction aux principales motivations de ces articles : Learning with BOT et Sparsity regret bounds for XNOR-Nets
 notes manuscrites disponibles ici
+
 [/expand]
 
 ### Training
