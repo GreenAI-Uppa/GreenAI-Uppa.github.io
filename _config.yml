@@ -93,7 +93,7 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
+title: "GreenAiUPPA" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/uppalogocouleur.png" # Site logo, also used in jekyll-seo-tag
 description: "Website of the Green AI uppa research team" # Site description and default description, also used in jekyll-seo-tag
 url: "https://greenai-uppa.github.io/" # Site url, also used in jekyll-seo-tag
