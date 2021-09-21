@@ -29,7 +29,7 @@ We are also mainly focus on more a practical study of recent architectures in te
 
 ### Seminars and upcoming events
 
-- **Upcoming WORKSHOP at ACML 2021, November 17th** Power-Efficient Deep Learning. Organized with Pierre Alquier from Riken Institute. Details in a dedicated landing page soon.
+- **Upcoming WORKSHOP at ACML 2021, November 17th** Power-Efficient Deep Learning. Organized with [Pierre Alquier](https://pierrealquier.github.io/) from the amazing [Approximate Bayesian Inference Team](https://team-approx-bayes.github.io/) at [Riken Institute](https://www.riken.jp/en/). Details in a dedicated landing page asap.
 - **Next team seminar on 20th, September** Optimization theory - Introduction to Mirror descent.
 [expand]
  - **September, 13th 2021 - Sébastien Loustau (UPPA)** Kick Off Green AI Uppa
