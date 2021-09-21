@@ -19,9 +19,9 @@ Our research encompasses diverse projects and collaborations around the mathemat
 
 ### Our algorithms 
 
-Deep Learning has become extremely popular to solve many supervised machine learning problems. This standardization of machine learning, namely computing on GPU a stochastic gradient descent of a cascade of linear and non-linear functions, is not only a plague for science but also a disaster in terms of power consumption. Recently, a growing interest is observed in the deep learning hype in order to reduce computational cost by designing lighter architectures. Several approaches for reducing the computational effort of NNs have been proposed (binarized networks, such as the so-called XNOR-nets, or pruning methods). Moreover, promising strategies propose to select the connectivity of the network, or more generally the architecture, during the training process. 
+Deep Learning has become extremely popular to solve many supervised machine learning problems. This standardization of machine learning, namely computing on GPU a stochastic gradient descent is not only a plague for science but also a disaster in terms of power consumption. Recently, a growing interest is observed in the deep learning hype in order to reduce computational cost by designing lighter architectures. Several approaches for reducing the computational effort of NNs have been proposed (e.g. binarized networks or pruning methods). Moreover, promising strategies propose to select the connectivity of the network, or more generally the architecture, during the training process. 
 
- GreenAI Uppa expect to address these issues, based on both a theoretical and practical machine/deep learning analysis of standard pipeline and new paradigms. More precisely, we propose alternatives to standard deep learning pipeline in order to rethink the learning of neural networks and show how deep mathematical statistics could help us to select lighter deep learning architectures and reduce training, inference complexity and environmental impact of machine learning. 
+ GreenAI Uppa expect to address these issues, based on both a theoretical and practical machine/deep learning analysis of standard pipeline and new paradigms. More precisely, we propose alternatives to standard deep learning pipeline in order to rethink the learning process and show how deep mathematical statistics could help us to select lighter algorithms and reduce training, inference complexity and environmental impact of machine learning.
 
 ### Measure the hungriness of your deep learning
 
@@ -51,7 +51,7 @@ Partnerships with public institutions, as well as SMEs are one of the main motiv
 
 ## Contact
 
-Feel free to contact us if you want to contribute: [contact Paul](paul.gay@univ-pau.fr) or [contact Sébastien](sebastien.loustau@univ-pau.fr)
+Feel free to contact us if you want to contribute: contact [Paul](https://paulgay.github.io/) or [Sébastien](https://sebastienloustau.github.io)
 
 ## Start the different parts 
 
