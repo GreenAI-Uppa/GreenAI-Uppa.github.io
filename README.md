@@ -1,9 +1,28 @@
 # Green AI UPPA website documentation
 
-From the root directory, run:
 
-- `bundle install` to install the gems. 
+### Installation 
 
+- install [ruby](https://jekyllrb.com/docs/installation/)
+
+- install [Jekyll](https://jekyllrb.com/docs/step-by-step/01-setup/)
+```
+gem install jekyll bundler
+```
+
+- clone this repo
+```
+git clone https://github.com/GreenAI-Uppa/GreenAI-Uppa.github.io.git
+```
+
+
+- From the root directory, install the gems
+
+```
+`bundle install` 
+```
+
+### running and modifying the site
 
 - `bundle exec jekyll serve` to visit the website on your machine. It should be accessible at [http://127.0.0.1:4000/](http://127.0.0.1:4000/)
 
