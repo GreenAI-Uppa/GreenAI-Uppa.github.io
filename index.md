@@ -36,24 +36,30 @@ We are also mainly focus on more a practical study of recent architectures in te
 ### Seminars and upcoming events
 
 - **Upcoming WORKSHOP at ACML 2021, November 17th** Power-Efficient Deep Learning. Organized with [Pierre Alquier](https://pierrealquier.github.io/) from the amazing [Approximate Bayesian Inference Team](https://team-approx-bayes.github.io/) at [Riken Institute](https://www.riken.jp/en/). Details in a dedicated landing page asap.
-- **Next team seminar on 20th, September** Optimization theory - Introduction to Mirror descent.
-
+- **Next team seminar on 11th, October** Matthieu François
+- **25th, October** Paul Gay
+- **8th, November** Jordy Palafox
+- **22th, November** Sébastien Loustau
+- **6th, December** Mellisphera project
 [expand]
 
+ - **September, 27th 2021 - Sébastien Loustau (UPPA)** Introduction to convex optimization
+Summary : In this lecture, I will introduce convex optimization theory and mirror descent. We start with a theoretical motivation and studyt of (stochastic) gradient descent, and then moove to the non-euclidean setting to derive mirror descent algorithm as a generalization of gradient descent. We finally apply it to the context of expert advices to recover the classical regret bound for exponential weighted averages previously presented in the first seminar in july, and discuss possible applications to Green AI.
+<br>[slides here]('/seminars/sem5.pdf')
  - **September, 13th 2021 - Sébastien Loustau (UPPA)** Kick Off Green AI Uppa
 Summary : Official kick off of the Green AI Uppa project ! After presenting the climatic and mathematical motivations (has the earth ever been this hot before ?), we introduce the context and support we have from the public institutions and the SMEs. We explain how the team will be organized, and inspired from the best of both worlds. Then we take 30 minuts to write our **elevator pitch**. Welcome to Jordy and Matthieu !
-slides disponibles ici
+<br>[slides here]('/seminars/sem4.pdf')
  - **August, 23th 2021 - Paul Gay (UPPA)** Measuring the Power draw of computers
 Summary : The ability of measuring power and consumption of machine learning algorithms is necessary to design new efficient ones. Nowadays, there is a growing interest in the machine learning and IT community for measuring the consumption at different scale, from the AI model to the entire data center. In this talk, we survey recent tools and softwares based on RAPL and NVIDIA-SMI and highlight the dependancy to the hardware considered (CPU, GPU), as well as the different sources of consumption in the architecture of a computer. The final goal is to give to engineers and data scientists the capacity to measure the consumption of deep/machine learning algorithms via our open source software [deep_learning_power_measure](https://github.com/GreenAI-Uppa/deep_learning_power_measure) developed by Green AI Uppa.
-slides disponibles ici
+<br>[slides here]('/seminars/sem3.pdf')
  - **July, 26th 2021 - Julien Mercier (UPPA)** How to binarize a neural network ?
 Summary : In this talk, I propose to present the main pros and cons of binarization via the gradient. We present two main historical attempt: [BinaryConnect](https://arxiv.org/abs/1511.00363) and [BinaryNetwork](https://arxiv.org/abs/1602.02830), based on two recent papers.
-slides disponibles ici
+<br>[slides here]('/seminars/sem2.pdf')
  - **July, 5th 2021 - Sébastien Loustau** Comment intégrer des contraintes environnementales dans les algorithmes de Deep Learning ?
 Résumé : Dans cet exposé, je vous propose d'introduire la théorie PAC-Bayesienne et son lien avec la théorie des jeux pour proposer de nouvelles procédures d'apprentissage séquentiel. Après une introduction simple du problème de prévision avec avis d'experts, on présentera des inégalités PAC-Bayesiennes plus générales et des bornes de regrets parcimonieuses pour des famillles de réseaux de neurones particulières (XNOR-nets notamment). Enfin, on proposera une extension de cette théorie au Transport Optimal pour intégrer de nouvelles pénalités plus génériques et garantir l'intégration de mesures de consommations plus précises.
 Cet exposé est une introduction aux principales motivations de ces articles : Learning with BOT et Sparsity regret bounds for XNOR-Nets
 notes manuscrites disponibles ici
-
+<br>[slides here]('/seminars/sem1.pdf')
 [/expand]
 
 ### Training
