@@ -7,7 +7,7 @@ feature_image: "/assets/ossau_lurien.png"
 excerpt: "Longer intro"
 ---
 
-# Introduction
+## Introduction
 
 The Green AI research team develops solutions for people working with data or intersted in data and environment. 
 
