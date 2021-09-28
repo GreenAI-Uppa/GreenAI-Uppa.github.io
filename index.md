@@ -2,9 +2,9 @@
 title: 
 feature_text: |
   ## Green AI UPPA 
-  Introduction
 feature_image: "/assets/ossau_lurien.png"
 excerpt: "Longer intro"
+aside: false 
 ---
 
 ## Introduction
@@ -77,6 +77,9 @@ notes manuscrites disponibles ici
 
 ### Training
 
+We have a long experience in creating training content on machine learning and deep learning towards student and industrial learners 
+
+Contact us if you are interested. 
 ## Industrial projects
 
 ### Crisis management
