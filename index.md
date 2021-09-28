@@ -84,6 +84,24 @@ Contact us if you are interested.
 
 ### Crisis management
 
+ALTANOVEO is specialised in very high resolution visualization and has developped for 10 years CWall. 
+
+CWall is a high resolution collaborative software solution designed to be deployed on video walls.
+
+CWall is multi-site, multi-source and multi-application. It offers real-time collaboration among people working in the same room or remotely by sharing thier computer screens, video streams,  web application and so on. 
+
+CWall shows its full potential for : 
+
+joint study of resources at a very high resolution across a wide range of disciplines, 
+simultaneous display of several streams and information into different windows, particularly in crisis 
+management or monitoring situations.
+
+![example](images/ALTANOVEO-4660-1024x683.jpg "Title")
+
+Our main purpose is to integrate AI on Cwall. This process will help to do crisis management with KPIs, advices... 
+
+Based on low consumption algorithms, this project start with an analysis of social networks and open source data as climate crisis images. Being able to summarize open informations and foresee their impact will be a great addition upgrade to this solution. 
+
 ### AI for Education
 
 ## Sponsors
