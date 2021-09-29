@@ -46,15 +46,16 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 We are also mainly focus on more a practical study of recent architectures in terms of power consumption, by using recent softwares like RAPL and nvidia-smi in a dedicated software available here. Gathering with a mathematical background, we have the long term objective to design adaptive architectura that fits dynamically to the size of the data, the difficulty of the problem and the desire environmental constraints.
 
-### Seminars and upcoming events
+### Upcoming seminars and events
 
-- **Upcoming WORKSHOP at ACML 2021, November 17th** Power-Efficient Deep Learning. Organized with [Pierre Alquier](https://pierrealquier.github.io/) from the amazing [Approximate Bayesian Inference Team](https://team-approx-bayes.github.io/) at [Riken Institute](https://www.riken.jp/en/). Details in a dedicated landing page asap.
-- **Next team seminar on 11th, October** Matthieu François
-- **25th, October** Paul Gay
-- **8th, November** Jordy Palafox
-- **22th, November** Sébastien Loustau
-- **6th, December** Mellisphera project
-[expand]
+- **WORKSHOP at ACML 2021, November 17th** Power-Efficient Deep Learning. Organized with [Pierre Alquier](https://pierrealquier.github.io/) from the [Approximate Bayesian Inference Team](https://team-approx-bayes.github.io/) at [Riken Institute](https://www.riken.jp/en/). Details in a dedicated landing page asap.
+- **Next team seminar on 11th, October** Matthieu François, team member
+- **25th, October** Paul Gay, team member
+- **8th, November** Jordy Palafox, team member
+- **22th, November** Sébastien Loustau, team member
+- **6th, December** Mellisphera project, team member
+
+### Past seminars
 
  - **September, 27th 2021 - Sébastien Loustau (UPPA)** Introduction to convex optimization
 Summary : In this lecture, I will introduce convex optimization theory and mirror descent. We start with a theoretical motivation and studyt of (stochastic) gradient descent, and then moove to the non-euclidean setting to derive mirror descent algorithm as a generalization of gradient descent. We finally apply it to the context of expert advices to recover the classical regret bound for exponential weighted averages previously presented in the first seminar in july, and discuss possible applications to Green AI.
@@ -126,8 +127,9 @@ Partnerships with public institutions, as well as SMEs are one of the main motiv
  - [Réseau Francilien en Sciences Informatiques (RFSI)](https://dim-rfsi.fr/)
 
 
-## Who are we ?
+## Team members
 
+We wish to bring together different people from different communities to launch interdisciplinary collaborations, as well as underrepresented populations with one share commitment: take collective actions on the world's greatest crisis and build a safe and healthy planet for the next generations.
 
 ### Sébastien Loustau
 
