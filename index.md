@@ -129,7 +129,7 @@ Partnerships with public institutions, as well as SMEs are one of the main motiv
 
 ## Team members
 
-We wish to bring together different people from different communities to launch interdisciplinary collaborations, as well as underrepresented populations with one share commitment: take collective actions on the world's greatest crisis and build a safe and healthy planet for the next generations.
+We wish to bring together different people from different communities but with one share commitment: take collective actions on the world's greatest crisis and build a safe and healthy planet for the next generations.
 
 ### Sébastien Loustau
 
