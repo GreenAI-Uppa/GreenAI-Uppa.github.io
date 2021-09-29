@@ -133,6 +133,7 @@ We wish to bring together different people from different communities to launch 
 
 ### Sébastien Loustau
 
+<img src="images/sebastien.png" align="center" width="200"/>
 After a PHD thesis defended in 2008, at [Institut de Marseille](https://www.i2m.univ-amu.fr) he worked as Associated professor at [Université d'Angers](https://www.univ-angers.fr/fr/index.html) in the lab [LAREMA](https://math.univ-angers.fr/LAREMA/) until 2015 and he defended his Habilitation thesis in 2014.
 He found the AI start-up [LumeanAI](https://www.lumenai.fr/) in 2015 and the non-profit organization [IAPau](http://www.iapau.fr/) in 2016.
 Since 2020, he is researcher at the [LMAP](https://lma-umr5142.univ-pau.fr/fr/index.html) at [UPPA](https://www.univ-pau.fr/fr/index.html) and found with Paul Gay the Green IA Uppa Group.
@@ -143,6 +144,7 @@ For contact, send an email at sebastien[dot]loustau[at]univ-pau.fr
 
 ### Paul Gay
 
+<img src="images/paul.png" align="center" width="200"/>
 Currently reshearcher engineer at the [LMAP](https://lma-umr5142.univ-pau.fr/fr/index.html), he graduated in computer sciences from [INSA Rouen](http://asi.insa-rouen.fr/) from 2006 to 2011. He did his PHD between [LIUM](https://lium.univ-lemans.fr/) in France and  [IDIAP Reshearch Institut](https://www.idiap.ch/en) in Switzerland up to 2014  on unsupervised Audio-visual person identification in broadcast data. After a period of Teaching in Avignon in ATER position in [LIA](https://lia.univ-avignon.fr/) and a Post-doc in Italy, at [IIT/PAVIS](https://pavis.iit.it/) (2014 - 2018), he joined LumenAI as R&D Engineer from 2019 to 2020.
 For contact, send an email at paul[dot]gay[at]univ-pau.fr 
 
@@ -150,14 +152,16 @@ For contact, send an email at paul[dot]gay[at]univ-pau.fr
 
 ### Matthieu Francois
 
+<img src="images/matthieu.png" align="center" width="200"/>
 He obtained his Master's degree in 2020 at [Université de Grenoble Alpes](https://www.univ-grenoble-alpes.fr/). After some experiences as Data Consultant, he joined Green AI UPPa Team in Septembre 2021.
 For contact, send an email at matthieu[dot]francois[at]univ-pau.fr \
 [Web page](https://www.linkedin.com/in/matthieufran%C3%A7ois/)
 
 ### Jordy Palafox
 
+<img src="images/jordy.png" align="center" width="220"/>
 He defended his PHd Thesis in 2018 at [UPPA](https://www.univ-pau.fr/fr/index.html) [LMAP](https://lma-umr5142.univ-pau.fr/fr/index.html). After a post-doc in 2018-2019 at La Rochelle in the lab [LASIE](https://lasie.univ-larochelle.fr/), he taught at CY Tech two years and followed training in Data Science. He joined Green AI Pau group in Septembre 2021.
-For contact, send an email at palafox[dot]jordy[at]univ-pau.fr \
+For contact, send an email at jordy[dot]palafox[at]univ-pau.fr \
 [Web page](https://www.linkedin.com/in/jpalafox1242/)
 
 ## Contact
