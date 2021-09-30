@@ -29,3 +29,8 @@ git clone https://github.com/GreenAI-Uppa/GreenAI-Uppa.github.io.git
 - See the [alembic template](https://alembic.darn.es/) if you wish to modify it.
 
 - Once you pushed your modification, the [online website](https://greenai-uppa.github.io/) should be updated
+
+### Modify the news feed
+Open the `_config.yml` file, and then search for the news section
+news:
+   date: "description of your news"
