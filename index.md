@@ -7,7 +7,7 @@ excerpt: "Longer intro"
 aside: true 
 ---
 
-## Introduction
+# Introduction
 
 The GreenAi UPPA team is an engaged lab that improves state-of-the-art machine learning algorithms. Concerned with our impact on earth, we develop low consumption algorithms and tackle environmental challenges. Unlike other research groups, our activities are dedicated to the full pipeline from the math grounding to R&D prototype and in production deployment with industrial partners. 
 
