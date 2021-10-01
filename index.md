@@ -7,14 +7,9 @@ excerpt: "Longer intro"
 aside: true 
 ---
 
-
+## Introduction
 
 The GreenAi UPPA team is an engaged lab that improves state-of-the-art machine learning algorithms. Concerned with our impact on earth, we develop low consumption algorithms and tackle environmental challenges. Unlike other research groups, our activities are dedicated to the full pipeline from the math grounding to R&D prototype and in production deployment with industrial partners. 
-<details><summary>+</summary>
-Machine/Deep Learning are more and more popular and easily deployed, with new applications every day. Unfortunately, <a href="https://openai.com/blog/ai-and-compute/">the amount of compute is growing exponentially</a>, leading to a non-negligible carbon footprint for AI and IT (<a href="https://theshiftproject.org/article/impact-environnemental-du-numerique-5g-nouvelle-etude-du-shift/">The Shift Project, 2021</a>). If you are interested in the design of new algorithms, as well as the measure of the hungriness of machine learning algorithms, see below or directly test our <a href="https://github.com/GreenAI-Uppa/">softwares</a>. 
-<br>
-We also collaborate with industrial partners to tackle environmental challenges and reduce carbon footprint of human activities. For instance, <a href="#ai-for-education">Prof en Poche</a> applies our light AI for Education Technology. With <a href="#crisis-management">Altanoveo</a> we investigate NLP for climate crisis management issues. We also focus on farming practices through smart beekeeping with  <a href="https://www.mellisphera.com/en/">Mellisphera</a>.
-</details>
 
 ## Our research
 
