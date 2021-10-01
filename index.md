@@ -9,7 +9,7 @@ aside: true
 
 # Introduction
 
-The GreenAi UPPA team is an engaged lab that improves state-of-the-art machine learning algorithms. Concerned with our impact on earth, we develop low consumption algorithms and tackle environmental challenges. Unlike other research groups, our activities are dedicated to the full pipeline from the math grounding to R&D prototype and in production deployment with industrial partners. 
+The GreenAi UPPA team is an engaged lab that improves state-of-the-art machine learning algorithms. Concerned with our impact on earth, we develop low consumption algorithms and tackle environmental challenges. Unlike other research groups, our activities are dedicated to the full pipeline from the math grounding to R&D prototype and in production deployment with industrial partners. We are based in Pau, France, in front of the Pyrénées. 
 
 ## Our research
 
@@ -23,7 +23,9 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
  GreenAi UPPA expects to address these issues, based on both a theoretical and practical machine/deep learning analysis of standard pipeline and new paradigms. More precisely, we propose alternatives to standard deep learning pipelines in order to rethink the learning process and show how mathematical statistics could help us to select lighter algorithms and reduce training, inference complexity and environmental impact of machine learning.
 
-**Measure the hungriness of your deep learning**: We measure the power consumption of recent architectures through our [IAPowerMeter](https://github.com/GreenAI-Uppa/deep_learning_power_measure) based on RAPL and nvidia-smi. 
+**Measure the hungriness of your deep learning**: We measure the power consumption of recent architectures on different hardwares through our [IAPowerMeter](https://github.com/GreenAI-Uppa/deep_learning_power_measure) based on RAPL and nvidia-smi. 
+
+![seminar4](/images/jetson.jpg){:class="img-responsive"}
 
 ### Upcoming seminars and events
 
