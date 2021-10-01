@@ -29,15 +29,18 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 - **WORKSHOP at ACML 2021, November 17th** Power-Efficient Deep Learning. Organized with [Pierre Alquier](https://pierrealquier.github.io/) from the [Approximate Bayesian Inference Team](https://team-approx-bayes.github.io/) at [Riken Institute](https://www.riken.jp/en/). Details in a dedicated landing page asap.
 - **Next team seminar on 11th, October** Matthieu François, team member
-- **25th, October** Paul Gay, team member
-- **8th, November** Jordy Palafox, team member
-- **22th, November** Sébastien Loustau, team member
-- **6th, December** Mellisphera project, team member
+<details>
+  <summary>...</summary>
+<span>&#8226;October 25th, October Paul Gay, team member</span><br>
+<span>&#8226;November 8th, Jordy Palafox, team member</span><br>
+<span>&#8226;November 22th, Sébastien Loustau, team member</span><br>
+<span>&#8226;December 6th,  Mellisphera project, team member</span>
+</details>
 
 ### Past seminars
 
  - **September, 27th 2021 - Sébastien Loustau (UPPA)** Introduction to convex optimization
-Summary : In this lecture, I will introduce convex optimization theory and mirror descent. We start with a theoretical motivation and studyt of (stochastic) gradient descent, and then moove to the non-euclidean setting to derive mirror descent algorithm as a generalization of gradient descent. We finally apply it to the context of expert advices to recover the classical regret bound for exponential weighted averages previously presented in the first seminar in july, and discuss possible applications to Green AI.
+ Summary : In this lecture, I will introduce convex optimization theory and mirror descent. We start with a theoretical motivation and studyt of (stochastic) gradient descent, and then moove to the non-euclidean setting to derive mirror descent algorithm as a generalization of gradient descent. We finally apply it to the context of expert advices to recover the classical regret bound for exponential weighted averages previously presented in the first seminar in july, and discuss possible applications to Green AI.
 <br>[slides here]('/seminars/sem5.pdf')
  - **September, 13th 2021 - Sébastien Loustau (UPPA)** Kick Off GreenAi Uppa
 Summary : Official kick off of the GreenAi UPPA project ! After presenting the climatic and mathematical motivations (has the earth ever been this hot before ?), we introduce the context and support we have from the public institutions and the SMEs. We explain how the team will be organized, and inspired from the best of both worlds. Then we take 30 minuts to write our **elevator pitch**. Welcome to Jordy and Matthieu !
@@ -53,7 +56,6 @@ Résumé : Dans cet exposé, je vous propose d'introduire la théorie PAC-Bayesi
 Cet exposé est une introduction aux principales motivations de ces articles : Learning with BOT et Sparsity regret bounds for XNOR-Nets
 notes manuscrites disponibles ici
 <br>[slides here]('/seminars/sem1.pdf')
-[/expand]
 
 ### Training
 We have a long experience in creating training content on machine learning and deep learning towards student and industrial learners. 
