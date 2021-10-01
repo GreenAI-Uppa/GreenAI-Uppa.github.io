@@ -12,7 +12,7 @@ The GreenAi UPPA team is an engaged lab that improves state-of-the-art machine l
 
 ## Our research
 
-![seminar4](/images/seminar4.png){:class="img-responsive"}
+![mirrordescent](/images/seminar4.png){:class="img-responsive"}
 
 Our research encompasses diverse projects and collaborations around the mathematical foundations of power-efficient deep/machine learning algorithms, and the applications of AI to build a more sustainable world. In this section, we present the mathematical as well as the algorithmic part of our activity. 
 
@@ -24,7 +24,7 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 **Measure the hungriness of your deep learning**: We measure the power consumption of recent architectures on different hardwares through our [IAPowerMeter](https://github.com/GreenAI-Uppa/deep_learning_power_measure) based on RAPL and nvidia-smi. 
 
-![seminar4](/images/jetson.jpg){:class="img-responsive"}
+![jetson](/images/jetson.jpg){:class="img-responsive"}
 
 ### Upcoming seminars and events
 
