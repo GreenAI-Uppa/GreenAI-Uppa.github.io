@@ -146,6 +146,6 @@ For contact, send an email at jordy[dot]palafox[at]univ-pau.fr \
 
 ## Contact
 
-Feel free to contact us if you want to contribute: contact [Paul](https://paulgay.github.io/) or [Sébastien](https://sebastienloustau.github.io)
+Feel free to contact us if you want to contribute: contact [Paul](mailto:paul.gay@univ-pau.fr) or [Sébastien](https://sebastienloustau.github.io)
 
 
