@@ -121,7 +121,7 @@ For contact, send an email at sebastien[dot]loustau[at]univ-pau.fr
 ### Paul Gay
 
 <img src="images/paul.png" align="center" width="200"/>
-Currently researcher engineer at the [LMAP](https://lma-umr5142.univ-pau.fr/fr/index.html), Paul graduated in computer science from [INSA Rouen](http://asi.insa-rouen.fr/) from 2006 to 2011. He did his PHD between [LIUM](https://lium.univ-lemans.fr/) in France and  [IDIAP Reshearch Institut](https://www.idiap.ch/en) in Switzerland up to 2014 on unsupervised Audio-visual person identification in broadcast data. After a period of Teaching in Avignon in ATER position in [LIA](https://lia.univ-avignon.fr/) and a Post-doc in Italy, at [IIT/PAVIS](https://pavis.iit.it/) (2014 - 2018), he joined LumenAI as R&D Engineer from 2019 to 2020.
+Currently researcher engineer at the [LMAP](https://lma-umr5142.univ-pau.fr/fr/index.html), Paul his PHD between [LIUM](https://lium.univ-lemans.fr/) in France and  [IDIAP Reshearch Institut](https://www.idiap.ch/en) in Switzerland up to 2014 on unsupervised Audio-visual person identification in broadcast data. After a period of Teaching in Avignon in ATER position in [LIA](https://lia.univ-avignon.fr/) and a Post-doc in computer vision, at [IIT/PAVIS](https://pavis.iit.it/) (2016 - 2018), he joined LumenAI as R&D Engineer in graph analysis from 2019 to 2020.
 For contact, send an email at paul[dot]gay[at]univ-pau.fr 
 
 [Web page](https://paulgay.github.io/index.html)
