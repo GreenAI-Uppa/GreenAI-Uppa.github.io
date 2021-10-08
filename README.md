@@ -31,7 +31,7 @@ git clone https://github.com/GreenAI-Uppa/GreenAI-Uppa.github.io.git
 - Once you pushed your modification, the [online website](https://greenai-uppa.github.io/) should be updated
 
 ### Modify the news feed
-Open the `_config.yml` file, and then search for the news section
+Open the `_config.yml` file, and then search for the news section. As you will see, the format is simple:
 ```
 news:
    date: "description of your news"
