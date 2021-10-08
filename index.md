@@ -29,7 +29,8 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 ### Upcoming seminars and events
 
 - **WORKSHOP at ACML 2021, November 17th** Power-Efficient Deep Learning. Organized with [Pierre Alquier](https://pierrealquier.github.io/) from the [Approximate Bayesian Inference Team](https://team-approx-bayes.github.io/) at [Riken Institute](https://www.riken.jp/en/). Details in a dedicated landing page asap.
-- **Next team seminar on 11th, October** Matthieu François, team member
+- **Next team seminar on 11th, October Matthieu François**, team member, AI addition to crisis management
+Summary : Human impact on our planet is increasing the scale and the number of environmental disasters. During this seminar I'll present our join project with Altanoveo. This project is about AI integration to climate or industrial crisis management methods. I will describe the potential of IA in this domain and present two models on tweet classification and fire detection on natural images.
 <details>
   <summary>...</summary>
 <span>&#8226;October 25th, October Paul Gay, team member</span><br>
