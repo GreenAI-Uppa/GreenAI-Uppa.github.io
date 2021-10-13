@@ -113,7 +113,7 @@ We wish to bring together different people from different communities but with o
 <img src="images/sebastien.png" align="center" width="200"/>
 After a PHD thesis defended in 2008, at [Institut de Marseille](https://www.i2m.univ-amu.fr) Sebastien worked as Associated professor at [Université d'Angers](https://www.univ-angers.fr/fr/index.html) in the lab [LAREMA](https://math.univ-angers.fr/LAREMA/) where he defended his Habilitation thesis in 2014.
 He found the AI start-up [LumeanAI](https://www.lumenai.fr/) in 2015 and the non-profit organization [IAPau](http://www.iapau.fr/) in 2016.
-Since 2020, he is researcher at the [LMAP](https://lma-umr5142.univ-pau.fr/fr/index.html) at [UPPA](https://www.univ-pau.fr/fr/index.html) and found with Paul Gay the GreenAi UPPA Group.
+Since 2020, he is researcher at the [LMAP](https://lma-umr5142.univ-pau.fr/fr/index.html) at [UPPA](https://www.univ-pau.fr/fr/index.html) and created the GreenAi UPPA Group.
 His research interest are online learning, mathematical statistics, information theory for machine learning  and more recently, in the applications of these activities to deep learning techniques and environmental challenges. 
 For contact, send an email at sebastien[dot]loustau[at]univ-pau.fr
 
@@ -122,7 +122,7 @@ For contact, send an email at sebastien[dot]loustau[at]univ-pau.fr
 ### Paul Gay
 
 <img src="images/paul.png" align="center" width="200"/>
-Currently researcher engineer at the [LMAP](https://lma-umr5142.univ-pau.fr/fr/index.html), Paul his PHD between [LIUM](https://lium.univ-lemans.fr/) in France and  [IDIAP Reshearch Institut](https://www.idiap.ch/en) in Switzerland up to 2014 on unsupervised Audio-visual person identification in broadcast data. After a period of Teaching in Avignon in ATER position in [LIA](https://lia.univ-avignon.fr/) and a Post-doc in computer vision, at [IIT/PAVIS](https://pavis.iit.it/) (2016 - 2018), he joined LumenAI as R&D Engineer in graph analysis from 2019 to 2020.
+Currently researcher engineer at the [LMAP](https://lma-umr5142.univ-pau.fr/fr/index.html), Paul obtained his phd between [LIUM](https://lium.univ-lemans.fr/) in France and  [IDIAP Reshearch Institut](https://www.idiap.ch/en) in Switzerland in 2014 on unsupervised Audio-visual person identification in broadcast data. Then, he went through a teaching period at the [LIA](https://lia.univ-avignon.fr/) (2015) a Post-doc in computer vision, at [IIT/PAVIS](https://pavis.iit.it/) (2016 - 2018), and worked at the [LumenAI](https://www.lumenai.fr/) on community detection (2019 - 2020).
 For contact, send an email at paul[dot]gay[at]univ-pau.fr 
 
 [Web page](https://paulgay.github.io/index.html)

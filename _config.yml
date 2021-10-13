@@ -136,11 +136,11 @@ navigation_workshop:
 - title: Home
   url: /power_efficient_deep_learning/
 - title: Efficient Deep Learning Competition
-  url: /data_challenge/
+  url: /acml_competition/
 - title: ACML 2021
   url: http://www.acml-conf.org/2021/
 - title: AI Power Meter
-  url: https://github.com/GreenAI-Uppa/deep_learning_power_measure
+  url: https://github.com/GreenAI-Uppa/IAPowerMeter
 
 navigation_footer:
 - title: Created by David Darnes
@@ -156,11 +156,11 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
 
 ## the news will appear on the right side 
 news: 
-   17/11/2021: 'Join us at our <a href="/power_efficient_deep_learning/">ACML Workshop</a> on the power consumption of AI!'
-   11/10/2021: "Upcoming seminar by Matthieu François on AI and crisis management"
+   17/11/2021: 'Join us at our ACML Workshop on the power consumption of AI!'
+   25/10/2021: "Upcoming seminar by Paul Gay on power efficient transformers"
    10/09/2021: "CoCa4AI project is accepted : Comprehensive Carbon Footprint for AI Data Centers"
 
-#17/11/2021: 'Power-Efficient Deep Learning WORKSHOP at ACML : . Organized with <a href="https://pierrealquier.github.io/">Pierre Alquier</a> from the <a href="https://team-approx-bayes.github.io/"> Approximate Bayesian Inference Team</a> at the Riken Institute. Details in a dedicated landing page asap.'
+#17/11/2021: 'Join us at our <a href="/power_efficient_deep_learning/">ACML Workshop</a> on the power consumption of AI!'
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: "#0d94e7"
   facebook: "#3B5998"
