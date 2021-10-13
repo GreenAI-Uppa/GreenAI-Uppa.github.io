@@ -127,8 +127,8 @@ navigation_header:
   url: /#industrial-projects
 - title: Sponsors
   url: /#sponsors 
-- title: Contact
-  url: /#contact
+- title: Team 
+  url: /#team-members
 - title: AI Power Meter
   url: https://github.com/GreenAI-Uppa/deep_learning_power_measure
 
