@@ -36,3 +36,18 @@ Open the `_config.yml` file, and then search for the news section. As you will s
 news:
    date: "description of your news"
 ```
+
+### Modify the navigation bar
+in `_config.yml`, got to the navigation part:
+
+```
+navigation_header:
+- title: Home
+  url: /
+- title: Research
+  url: /#our-research
+...
+```
+As you can see, the title will be displayed on the web page, and the url correspond to the page
+- `/` indicates the main page
+- `/#our-research` indicates a subsection, and corresponds to a markdown title, in lower case, and with the spaces replaced by `-`
