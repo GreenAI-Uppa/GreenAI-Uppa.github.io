@@ -89,7 +89,7 @@ It is specialized in creation on new numerical educative solutions and more spec
 
 Mathia is an app which recommands educational material to children. The recommendation is powered by a clustering performed on the children profile and which includes their skills and personal difficulties. Our goal is to improve these tasks and reduce the consumption of energies.
 
-<img src='images/pep.png' align="center" width="200"/>
+<img src='images/pep.png' align="center" width="400"/>
 
 ## Sponsors
 
