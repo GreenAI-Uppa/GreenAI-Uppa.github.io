@@ -1,7 +1,8 @@
 ---
 title: 
 feature_text: |
-  ## Competition : Be low power on cifar 
+  ## Efficient Deep Learning Competition
+  ###  Be low power on cifar
 layout: workshop
 feature_image: "/assets/ossau_lurien.png"
 excerpt: "Longer intro"
@@ -10,9 +11,9 @@ aside: false
 
 Submit your algorithm, and be ranked according to your energy consumption.
 
-##### What
+#### What
 
-A CIFAR-10 challenge where participants record their energy consumtion in order to optimize the generalization ability of NNs over CIFAR-10 under a given energy budget. 
+A competition where participants record their energy consumtion in order to optimize the generalization ability of NNs over the CIFAR-10 dataset.
 
 #### Why 
 
