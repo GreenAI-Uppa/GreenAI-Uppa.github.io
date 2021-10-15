@@ -9,9 +9,9 @@ aside: false
 ---
 
 Measure of consumption, light environmental impact, in this workshop, we expect to address these issues, based on both a theoretical and practical deep learning analysis of
-standard pipeline and new paradigms. Join us to discover how energy hungry your deep learning is, and join the competition to improve it.
+standard pipeline and new paradigms. 
 
-
+Join us to discover how energy hungry your deep learning is, and join the competition to improve it.
 
 ## Program:
 
@@ -41,6 +41,8 @@ Guillaume Bellec
 ---
 **8:00** Contributions
 
+To be announced on the 12/11/2021
+
 ---
 
 
@@ -55,4 +57,23 @@ Green AI Team Tutorial: Energy consumption of AI
 
 ---
 **11:15**
-Low power deep learning competition
+**Competition results**
+
+The winners will be announced, and the more promising approaches will be described as well general feedbacks about the competition and some lesssons we'll have learned about measuring the hungriness of Deep learning and what we can do about it.  
+
+
+## Call for papers
+
+We invite contributions to the 2021 workshop on power efficient deep learning, and welcome paper submissions on artificial intelligence, power consumption, AI carbon footprint and related areas.
+
+Candidates must submit a two page proposal on the topic of their intervention. Top contributions will be selected by a board of reviewers, and they will be chosen to present their work at the workshop.
+
+
+Key dates:
+- 05/11/2021 Submission date
+- 12/11/2021 End of reviewing period and final decisions
+- 17/11/2021 Workshop date
+
+
+All participants are encouraged to share some material, in order to facilitate interactions during the live sessions. If you are too shy to send a video or a poster, consider sharing some slides describing your research interests in connection to the workshop topic. You can also send us a link to a paper or to some code, and we update this information in the program.
+

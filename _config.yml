@@ -135,16 +135,21 @@ navigation_header:
 navigation_workshop:
 - title: Home
   url: /power_efficient_deep_learning/
-- title: Efficient Deep Learning Competition
+- title: Call for papers
+  url: /power_efficient_deep_learning/#call-for-papers
+- title: EDL Competition
   url: /acml_competition/
 - title: ACML 2021
   url: http://www.acml-conf.org/2021/
 - title: AI Power Meter
   url: https://github.com/GreenAI-Uppa/IAPowerMeter
 
+
+workshop_footer:
+- title: contact coca4ai@posteo.de
+
 navigation_footer:
-- title: Created by David Darnes
-  url: https://darn.es
+- title: Université de Pau et des Pays de L'Adour 
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/seb_loustau
