@@ -29,17 +29,19 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 ### Upcoming seminars and events
 
 - **WORKSHOP at ACML 2021, November 17th** Power-Efficient Deep Learning. Organized with [Pierre Alquier](https://pierrealquier.github.io/) from the [Approximate Bayesian Inference Team](https://team-approx-bayes.github.io/) at [Riken Institute](https://www.riken.jp/en/). Details in a dedicated landing page asap.
-- **Next team seminar on 11th, October Matthieu François**, team member, AI addition to crisis management
-Summary : Human impact on our planet is increasing the scale and the number of environmental disasters. During this seminar I'll present our join project with Altanoveo. This project is about AI integration to climate or industrial crisis management methods. I will describe the potential of IA in this domain and present two models on tweet classification and fire detection on natural images.
+- **Next team seminar on 25th, October - Paul Gay (UPPA)**, Power efficient transformers:  
+ As transformers are becoming the standard NLP tool, questions are raised about ethics, bias and energy consumption. This last topic is of importance as these models are the biggest ones in the large and hungry power deep learning model trend. In this seminar, I will present in the first part a conmprehensive tutorial on the principles of attention and how the transformers have conquered the state of the art. This details will equip us for the second part in which I will survey a number of methods which are concerned in making the transformers lighter and more available for practicionners with low computation resources.
 <details>
   <summary>...</summary>
-<span>&#8226;October 25th, October Paul Gay, team member</span><br>
 <span>&#8226;November 8th, Jordy Palafox, team member</span><br>
 <span>&#8226;November 22th, Sébastien Loustau, team member</span><br>
 <span>&#8226;December 6th,  Mellisphera project, team member</span>
 </details>
 
 ### Past seminars
+
+ - **October, 11th 2021 - Matthieu François**, team member, AI addition to crisis management
+Summary : Human impact on our planet is increasing the scale and the number of environmental disasters. During this seminar I'll present our join project with Altanoveo. This project is about AI integration to climate or industrial crisis management methods. I will describe the potential of IA in this domain and present two models on tweet classification and fire detection on natural images.
 
  - **September, 27th 2021 - Sébastien Loustau (UPPA)** Introduction to convex optimization
  Summary : In this lecture, I will introduce convex optimization theory and mirror descent. We start with a theoretical motivation and studyt of (stochastic) gradient descent, and then moove to the non-euclidean setting to derive mirror descent algorithm as a generalization of gradient descent. We finally apply it to the context of expert advices to recover the classical regret bound for exponential weighted averages previously presented in the first seminar in july, and discuss possible applications to Green AI.
