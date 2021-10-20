@@ -161,7 +161,7 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
 
 ## the news will appear on the right side 
 news: 
-   17/11/2021: 'Join us at our <a href="https://greenai-uppa.github.io/acml_competition/">ACML Workshop</a> on the power consumption of AI!'
+   17/11/2021: 'Join us at our <a href="https://greenai-uppa.github.io/power_efficient_deep_learning/">ACML Workshop</a> on the power consumption of AI!'
    25/10/2021: "Upcoming seminar by Paul Gay on power efficient transformers"
    10/09/2021: '<a href="https://greenai-uppa.github.io/Coca4AI/"> CoCa4AI</a> project is accepted : Comprehensive Carbon Footprint for AI Data Centers'
 
