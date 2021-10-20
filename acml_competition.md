@@ -31,6 +31,13 @@ Then, Algo1 will be ranked first in the **95%** category, Algo3 will be second, 
 
 The [https://github.com/GreenAI-Uppa/IAPowerMeter](IA Power Meter) will be used to measure the amount of energy used by the program inference. You can already use it to check how good you are.
 
+Keras or pytorch are the same? but we allow for any library as some useful features such as binary networks might not be well supported
+Evaluation is a tricky process, as so many things are coming into account, and 
+We reserve the right to modify the ranking if the paper supports with enough evidence that the solution is interesting
+
+Not allowing cloud or external, everything must run on our machine
+
+
 ### submission
 Every team should supply:
 - a docker with your submission, so that we can run it on our server. 

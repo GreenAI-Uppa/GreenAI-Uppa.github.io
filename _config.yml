@@ -139,8 +139,8 @@ navigation_workshop:
   url: /power_efficient_deep_learning/#call-for-papers
 - title: EDL Competition
   url: /acml_competition/
-- title: ACML 2021
-  url: http://www.acml-conf.org/2021/
+- title: ACML Registration
+  url: http://www.acml-conf.org/2021/participants/registration/
 - title: AI Power Meter
   url: https://github.com/GreenAI-Uppa/IAPowerMeter
 
