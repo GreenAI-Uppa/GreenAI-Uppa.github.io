@@ -75,6 +75,8 @@ To be announced on the 12/11/2021
 **10:30 (UTC)**
 ### Green AI Team Tutorial: Energy consumption of AI
 
+TODO homogenize and recrop the pictures
+
 <img src="../images/paul.png" align="center" width="200"/>
 **bio** Paul Gay is a researcher engineer at the LMAP. He obtained his phd at the université of maine (https://lium.univ-lemans.fr/) in 2014 on unsupervised Audio-visual person identification in broadcast data. Then, he went through a teaching period at the [LIA](https://lia.univ-avignon.fr/) (2015) a Post-doc in computer vision, at [IIT/PAVIS](https://pavis.iit.it/) (2016 - 2018), and worked at the [LumenAI](https://www.lumenai.fr/) on community detection (2019 - 2020). 
 
