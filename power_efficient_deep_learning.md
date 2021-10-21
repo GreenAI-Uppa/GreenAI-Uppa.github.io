@@ -81,6 +81,8 @@ To be announced on the November, 12th 2021.
 
 **Abstract** The ability of measuring power and consumption of machine learning algorithms is necessary to design new efficient ones. Nowadays, there is a growing interest in the machine learning and IT community for measuring the consumption at different scale, from the AI model to the entire data center. In this talk, we survey recent tools and softwares based on RAPL and NVIDIA-SMI and highlight the dependancy to the hardware considered (CPU, GPU), as well as the different sources of consumption in the architecture of a computer. The final goal is to give to engineers and data scientists the capacity to measure the consumption of deep/machine learning algorithms via the open source software [AIPowerMeter](https://greenai-uppa.github.io/AIPowerMeter/) designed by [GreenAIUppa](/).
 
+**abstract** The ability of measuring power and consumption of machine learning algorithms is necessary to design new efficient ones. Nowadays, there is a growing interest in the machine learning and IT community for measuring the consumption at different scale, from the AI model to the entire data center. In this talk, we survey recent tools and softwares based on RAPL and NVIDIA-SMI and highlight the dependancy to the hardware considered (CPU, GPU), as well as the different sources of consumption in the architecture of a computer. The final goal is to give to engineers and data scientists the capacity to measure the consumption of deep/machine learning algorithms via our open source software [AIPowerMeter](https://github.com/GreenAI-Uppa/AIPowerMeter) developed by the GreenAiUPPA team.
+
 --- 
 **11:30 (UTC)**   Anne-Cécile Orgerie
 ### Measuring and modeling the energy consumption of ICT distributed systems
