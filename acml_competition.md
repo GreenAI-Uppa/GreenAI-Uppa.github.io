@@ -26,8 +26,7 @@ Unlike previous competitions on specific low power devices to enhance portabilit
 
 #### Evaluation
 
-The best algorithm will be promoted for different levels of accuracy. The different thresholds are **90%**, **95%**, and **99%**. 
-TODO Check with the values of benchmark algorithms to decide the threshold
+The best algorithm will be promoted for different levels of accuracy. The different thresholds are **80%**, **90%**, and **95%**. 
 
 For instance: if three algorithms have the follwing performances: 
 - Algo1 : 96.5% accuracy and 150Kj of energy consumption
@@ -49,7 +48,7 @@ Every team should supply:
 - a two page description of your method. The winners will present their approach at the workshop in a 5 minutes presentation.
 
 
-You can check our template submission for more practical information. TODO add link to the repo with the samples
+We will add soon a submission template with more practical information. 
 
 The website will be updated with a link to a submission procedure later this month. 
 

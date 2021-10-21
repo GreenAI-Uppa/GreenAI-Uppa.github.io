@@ -31,7 +31,7 @@ Sébastien Loustau
 Johannes Lederer
 ### Sparse Deep Learning 
 
-<img src="../images/dsc_4736_cropped_low.jpg" align="center" width="200"/>
+<img src="../images/johannes_lederer.png" align="center" width="200"/>
 **Bio** Johannes is Professor of Mathematical Statistics at the Ruhr-University Bochum. After receiving a MSc in Physics, he completed his Doctor of Sciences at ETH Zürich. He then held positions at UC Berkeley, Cornell University, and University of Washington prior to his appointment in Bochum. His research interests include high-dimensional statistics, empirical process theory, and deep learning.
 
 **abstract** Sparsity is popular in statistics and machine learning, because it can avoid overfitting, speed up computations, and facilitate interpretations. In deep learning, however, the full potential of sparsity still needs to be explored. In this presentation, we first discuss sparsity in the framework of high-dimensional statistics and corresponding statistical theories. We then use these insights to further our understanding of sparsity in deep learning.
@@ -43,7 +43,7 @@ Guillaume Bellec
 
 ### Spiking neural networks 
 
-<img src="../images/guillaume_bellec.jpg" align="center" width="200"/>
+<img src="../images/guillaume_lebellec_circle.png" align="center" width="200"/>
 **bio** Guillaume Bellec develops theories to advance our under-standing of brains and intelligent machines. He studied artificial intelligence during his Master in Paris and he completed his PhD with Wolfgang Maass in the Institute for Theoretical Computer Science of TU Graz in Austria. He is now a postdoc with Wulfram Gerstner in the Laboratory of Computational Neuroscience at EPFL in Switzerland. His work is most well-known for showing that powerful artificial intelligence can emerge from simple mathematical models of biologically realistic neural networks. This work is having a direct impact on the development of neuromorphic-hardware for energy efficient artificial intelligence applications.
 
 
@@ -84,7 +84,7 @@ TODO homogenize and recrop the pictures
 **11:30 (UTC)**   Anne-Cécile Orgerie
 ### Measuring and modeling the energy consumption of ICT distributed systems
 
-<img src="../images/ORGERIE_Anne-Cecile.JPG" align="center" width="200"/>
+<img src="../images/anne_cecile_orgerie_circle.png" align="center" width="200"/>
 **bio** Anne-Cécile Orgerie is research scientist at CNRS, in the IRISA laboratory in Rennes. She got her PhD in 2011 in Lyon. She belongs to the Myriads team, dealing with large-scale distributed systems, Cloud computing and edge infrastructures. Her research interests include measuring, modeling, simulating and improving the energy efficiency of ICT distributed systems. She is currently the director of the working group EcoInfo studying the environmental impact of ICT devices.
 
 **abstract** ICT distributed systems are increasingly spanning worldwide, with digital services hosted all around the globe and often belonging to complex systems, utilizing many other services and hardware resources themselves. Along with this increase comes an alarming growth of ICT devices and their related energy consumption. Despite the distributed systems' complexity, understanding how they consume energy is important in order to hunt wasted Joules. This talk will deal with measuring the energy consumption of ICT infrastructures, deriving models from these measurements and implementing these models into simulation tools that can be used to experiment new energy-efficient strategies.
@@ -101,7 +101,7 @@ The winners will be announced, and the more promising approaches will be describ
 We invite contributions to the 2021 workshop on power efficient deep learning, and welcome paper submissions on artificial intelligence, power consumption, AI carbon footprint and related areas.
 Candidates must submit a two page proposal on the topic of their intervention. Top contributions will be selected by a board of reviewers, and they will be chosen to present their work at the workshop.
 
-This workshop is a non-archival venue and there will be no published proceedings. The papers will be posted on the workshop website. It will be possible to submit to other conferences and journals both in parallel to and after this workshop. At least one author from each accepted paper must register for the workshop. Please see the ACML 2020 Website for information about registration
+This workshop is a non-archival venue and there will be no published proceedings. The papers will be posted on the workshop website. It will be possible to submit to other conferences and journals both in parallel to and after this workshop. At least one author from each accepted paper must register for the workshop. Please see the [ACML 2021 registration](http://www.acml-conf.org/2021/participants/registration/).
 
 Key dates:
 - 05/11/2021 Submission date For the papers
