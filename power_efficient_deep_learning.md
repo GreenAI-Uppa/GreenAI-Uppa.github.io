@@ -3,7 +3,7 @@ title:
 feature_text: |
   ## ACML 2021 Power efficient deep learning Workshop 
 layout: workshop
-feature_image: "/assets/ossau_lurien.png"
+feature_image: "/assets/singapore.jpg"
 excerpt: "Longer intro"
 aside: false 
 ---
