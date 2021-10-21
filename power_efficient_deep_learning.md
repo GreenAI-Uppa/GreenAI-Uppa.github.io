@@ -3,12 +3,12 @@ title:
 feature_text: |
   ## ACML 2021 Power efficient deep learning Workshop 
 layout: workshop
-feature_image: "/assets/ossau_lurien.png"
+feature_image: "/assets/background_workshop.png"
 excerpt: "Longer intro"
 aside: false 
 ---
 
-Measure of consumption, light environmental impact, in this workshop, we expect to address these issues, based on both a theoretical and practical deep learning analysis of
+"**Measure of energy consumption**", "**light environmental impact AI**", in this workshop we expect to address these issues, based on both a theoretical and practical deep learning analysis of
 standard pipeline and new paradigms. 
 
 Join us to discover how energy hungry your deep learning is, and go to [the competition](/acml_competition) to improve it.
@@ -75,10 +75,10 @@ To be announced on the 12/11/2021
 **10:30 (UTC)**
 ### Green AI Team Tutorial: Energy consumption of AI
 
-TODO homogenize and recrop the pictures
-
 <img src="../images/paul.png" align="center" width="200"/>
 **bio** Paul Gay is a researcher engineer at the LMAP. He obtained his phd at the université of maine (https://lium.univ-lemans.fr/) in 2014 on unsupervised Audio-visual person identification in broadcast data. Then, he went through a teaching period at the [LIA](https://lia.univ-avignon.fr/) (2015) a Post-doc in computer vision, at [IIT/PAVIS](https://pavis.iit.it/) (2016 - 2018), and worked at the [LumenAI](https://www.lumenai.fr/) on community detection (2019 - 2020). 
+
+**abstract** The ability of measuring power and consumption of machine learning algorithms is necessary to design new efficient ones. Nowadays, there is a growing interest in the machine learning and IT community for measuring the consumption at different scale, from the AI model to the entire data center. In this talk, we survey recent tools and softwares based on RAPL and NVIDIA-SMI and highlight the dependancy to the hardware considered (CPU, GPU), as well as the different sources of consumption in the architecture of a computer. The final goal is to give to engineers and data scientists the capacity to measure the consumption of deep/machine learning algorithms via our open source software [AIPowerMeter](https://github.com/GreenAI-Uppa/AIPowerMeter) developed by the GreenAiUPPA team.
 
 --- 
 **11:30 (UTC)**   Anne-Cécile Orgerie
