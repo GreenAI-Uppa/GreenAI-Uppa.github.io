@@ -15,7 +15,6 @@ Submit your algorithm, and be ranked according to your energy consumption.
 
 A competition where participants optimize both their energy consumption and the generalization ability of their models over the CIFAR-10 dataset with common GPU architectures.
 
-
 **A prize of 1000 euros** will reward the best teams. 
 
 #### Why 
@@ -60,7 +59,7 @@ The website will be updated with a link to a submission procedure later this mon
 
 #### Important dates
 
-- Submission deadline : 5/11/2021
+- Submission deadline : 5/11/2021 (yeah it's pretty soon!)
 - Ranking Notification : 12/11/2021
 - Final Workshop : 17/11/2021
 
