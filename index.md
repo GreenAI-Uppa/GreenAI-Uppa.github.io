@@ -83,6 +83,9 @@ Our main purpose is to integrate AI on Cwall in order to index the vast amount o
 
 Based on low consumption algorithms, this project start with an analysis of social networks and open source data as climate crisis images. Being able to summarize open informations and foresee their impact will be a perfect addition upgrade to CWall. 
 
+![altanoveo](images/ALTANOVEO.jpg){:class="img-responsive"}
+
+
 ### AI for Education
 
 The start-up [ProfenPoche](https://profenpoche.com/) was founded in 2015 by Vincent Escudé and Samuel Imbert. 
@@ -97,6 +100,8 @@ Hizkia designs all its products: hardware and software. It does software develop
 
 Hizkia has designed a **video-counting device for fish passage**. In the current version, operators have to watch the videos to note the species of fish and their size. Our purpose is to have the videos processed by an AI that would be able to recognize the species of fish, count and measure them automatically. This application of Computer Vision to biodiversity monitoring contains next level challenges : object tracking from frame to frame, denoising images, correct lighting and species labels, and tackle problems of quantization and selection of high resolutions images and videos.
 
+![hizkia](images/HIZKIA.png){:class="img-responsive"}
+
 ### Improving bee health and pollination
 
 Mellisphera is building data-driven solutions for hive monitoring and pollination management. Founded in 2018, the company offers to beekeepers and growers, tools and algorithms to assess in real time colony health, colony dynamics and pollination activity.
@@ -107,6 +112,8 @@ The main benefits of this technology are:
 -  Improved pollination and yield: 75% of the fruits we eat are pollinator dependent at some extent. Good pollination is essential for growers achieve yield and quality. Mellisphera monitors pollination on kiwi, sunflower and apple yards. 
 
 Our challenge is to improve beekeeping practices by offering predictive tools that are at the same time accurate and scalable over different regions and countries. To achieve this goal, we are relying on mechanistic and AI powered models. They are developed in our research apiaries as in those from multiple beekeepers contributing around the world. We are partnering with [Broodminder](www.broodminder.com) into a global team with the shared ambition to offer one of the best-in-class solutions.
+
+![mellisphera](images/mellisphera.jpeg){:class="img-responsive"}
 
 ## Sponsors
 
