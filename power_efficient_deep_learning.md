@@ -106,8 +106,10 @@ This workshop is a non-archival venue and there will be no published proceedings
 
 Submit your paper by mail at : paul dot gay at univ-pau.fr
 
-Important dates:
-- 05/11/2021 Submission deadline (contributions and  [competition](/acml_competition))
+Important dates (UTC):
+
+- 05/11/2021 Submission deadline for paper contributions
+- 08/11/2021 Submission deadline for the [competition](/acml_competition)
 - 12/11/2021 End of reviewing period and final decisions
 - 17/11/2021 Workshop date
 

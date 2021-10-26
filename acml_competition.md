@@ -57,9 +57,9 @@ We will add soon a submission template with more practical information.
 
 The website will be updated with a link to a submission procedure later this month. 
 
-#### Important dates
+#### Important dates (UTC)
 
-- Submission deadline : 5/11/2021 (yeah it's pretty soon!)
+- Submission deadline : 08/11/2021 
 - Ranking Notification : 12/11/2021
 - Final Workshop : 17/11/2021
 
