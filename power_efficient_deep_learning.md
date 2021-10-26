@@ -8,9 +8,9 @@ excerpt: "Longer intro"
 aside: false 
 ---
 
-Neural networks (NN) have become the most used family of machine learning algorithms to solve supervised task as well as to process natural language. Unless the universality of architectures emerging now, NNs are still prohibitive regarding environmental impact due to electric consumption.
+Neural networks (NN) have become the most used family of machine learning algorithms. Among the universality of architectures emerging now, NNs are still prohibitive regarding environmental impact due to electric consumption.
 
-In this workshop, we expect to address these issues, based on both a theoretical and practical deep learning analysis of standard pipeline and new paradigms. The main theoretical discussions lie on how mathematical statistics or recent mathematical models can be applied to learn lighter architectures in order to reduce training and inference. We also propose to use recent softwares like RAPL and nvidia-smi in a dedicated tutorial and competition. 
+In this workshop, we expect to address these issues, based on both a theoretical and practical deep learning analysis of standard pipeline and new paradigms. The main theoretical discussions lie on how mathematical statistics or recent mathematical models can be applied to learn lighter architectures in order to reduce training and inference. We also propose to use recent softwares like RAPL and nvidia-smi in a dedicated tutorial and competition where the energy consumed by deep learning algorithms will be measured and reduced. 
 
 Join us to discover how energy hungry your deep learning is, and go to [the competition](/acml_competition) to improve it.
 
