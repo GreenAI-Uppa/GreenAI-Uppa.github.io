@@ -45,15 +45,21 @@ In practice, we will run 200 iterations of predicting the full cifar10 dataset o
 
 The energy consumption depends not only on the algorithm, but also on the whole pipeline, the efficient use of the gpu, and other dedicated hardwares parts. Unfortunately, it is hard to integrate all these aspects in the competition. We encourage interesting contributions to be [submitted as papers at the workshop](/power_efficient_deep_learning/#call-for-papers).
 
-### Submission
+#### Registration
+
+Send a mail with a team id at `paul.gay@univ-pau.fr`. 
+
+You will be received a link where you will drop your submission.
+
+#### Submission
 Every team should supply:
 
-- a docker with your submission, so that we can run it on our server
+- either an archive containing a script (or a docker) and your trained model following [this template](https://github.com/GreenAI-Uppa/AIPowerMeter/tree/main/examples/acml_competition)
+
+It boils down to a python script which loads your model and provides a `predict` function that we can access to run the inference.
 
 - a two page description of your method. The winners will present their approach at the workshop in a 5 minutes presentation.
 
-
-We will add soon a submission template with more practical information. 
 
 The website will be updated with a link to a submission procedure later this month. 
 
