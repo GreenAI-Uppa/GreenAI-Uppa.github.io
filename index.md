@@ -30,7 +30,7 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 - **WORKSHOP at ACML 2021, November 17th** Power-Efficient Deep Learning. Organized with [Pierre Alquier](https://pierrealquier.github.io/) from the [Approximate Bayesian Inference Team](https://team-approx-bayes.github.io/) at [Riken Institute](https://www.riken.jp/en/). Details in a dedicated landing page asap.
 
-- **Next team seminar on 25th, October - Paul Gay (UPPA)**, team member, Adaptive Learning and Clustering methods
+- **Next team seminar on 8th, November - Jordy Palafox**, team member, Adaptive Learning and Clustering methods:
 
 In the context of adaptive learning, clustering methods are used to recognize students with the same profil. Here, we will interested in the clustering algorithm used by Porf en Poche which is a combinaison of two methods : the KMedoids and the Louvain algorithm to obtain a robust method. After introducing it, we will measure the consumption of the algorithm and explore how to reduce it.
 We will conclude with some recent methods using deep learning based on autoencoders.
@@ -44,7 +44,7 @@ We will conclude with some recent methods using deep learning based on autoencod
 
 ### Past seminars
 
-- **October, 25th 2021 - Paul Gay**, Power efficient transformers: 
+- **October, 25th 2021 - Paul Gay (UPPA)**, Power efficient transformers: 
 
 Summary: As transformers are becoming the standard NLP tool, questions are raised about ethics, bias and energy consumption. This last topic is of importance as these models are the biggest ones in the large and hungry power deep learning model trend. In this seminar, I will present in the first part a conmprehensive tutorial on the principles of attention and how the transformers have conquered the state of the art. This details will equip us for the second part in which I will survey a number of methods which are concerned in making the transformers lighter and more available for practicionners with low computation resources.
 
@@ -62,7 +62,7 @@ Summary: Human impact on our planet is increasing the scale and the number of en
 Summary: Official kick off of the GreenAi UPPA project ! After presenting the climatic and mathematical motivations (has the earth ever been this hot before ?), we introduce the context and support we have from the public institutions and the SMEs. We explain how the team will be organized, and inspired from the best of both worlds. Then we take 30 minuts to write our **elevator pitch**. Welcome to Jordy and Matthieu !
 <br>[slides here](/seminars/sem4.pdf)
 
-- **August, 23th 2021 - Paul Gay (UPPA)** Measuring the Power draw of computers:
+- **August, 23rd 2021 - Paul Gay (UPPA)** Measuring the Power draw of computers:
   
 Summary: The ability of measuring power and consumption of machine learning algorithms is necessary to design new efficient ones. Nowadays, there is a growing interest in the machine learning and IT community for measuring the consumption at different scale, from the AI model to the entire data center. In this talk, we survey recent tools and softwares based on RAPL and NVIDIA-SMI and highlight the dependancy to the hardware considered (CPU, GPU), as well as the different sources of consumption in the architecture of a computer. The final goal is to give to engineers and data scientists the capacity to measure the consumption of deep/machine learning algorithms via our open source software [deep_learning_power_measure](https://github.com/GreenAI-Uppa/deep_learning_power_measure) developed by Green AI Uppa.
 <br>[slides here](/seminars/sem3.pdf)
