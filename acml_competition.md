@@ -47,9 +47,9 @@ The energy consumption depends not only on the algorithm, but also on the whole 
 
 #### Registration
 
-Send a mail with a team id at `paul.gay@univ-pau.fr`. 
+Send a mail with a team id at `paul dot gay at univ-pau.fr`. 
 
-You will be received a link where you will drop your submission.
+You will receive a link to an online storage where you will drop your submission.
 
 #### Submission
 Every team should supply:
@@ -60,8 +60,6 @@ It boils down to a python script which loads your model and provides a `predict`
 
 - a two page description of your method. The winners will present their approach at the workshop in a 5 minutes presentation.
 
-
-The website will be updated with a link to a submission procedure later this month. 
 
 #### Important dates (UTC)
 
