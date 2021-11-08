@@ -32,7 +32,7 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 - **Next team seminar on 8th, November - Jordy Palafox**, team member, Adaptive Learning and Clustering methods:
 
-In the context of adaptive learning, clustering methods are used to recognize students with the same profil. Here, we will interested in the clustering algorithm used by Porf en Poche which is a combinaison of two methods : the KMedoids and the Louvain algorithm to obtain a robust method. After introducing it, we will measure the consumption of the algorithm and explore how to reduce it.
+In the context of adaptive learning, clustering methods are used to recognize students with the same profil. Here, we will focus on the clustering algorithm used by Porf en Poche which is a combinaison of two methods : the KMedoids and the Louvain algorithm to obtain a robust method. After introducing it, we will measure the consumption of the algorithm and explore how to reduce it.
 We will conclude with some recent methods using deep learning based on autoencoders.
 
 <details>
