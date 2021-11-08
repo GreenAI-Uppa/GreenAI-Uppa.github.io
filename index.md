@@ -30,10 +30,7 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 - **WORKSHOP at ACML 2021, November 17th** Power-Efficient Deep Learning. Organized with [Pierre Alquier](https://pierrealquier.github.io/) from the [Approximate Bayesian Inference Team](https://team-approx-bayes.github.io/) at [Riken Institute](https://www.riken.jp/en/). Details in a dedicated landing page asap.
 
-- **Next team seminar on 8th, November - Jordy Palafox**, team member, Adaptive Learning and Clustering methods:
 
-In the context of adaptive learning, clustering methods are used to recognize students with the same profil. Here, we will focus on the clustering algorithm used by Porf en Poche which is a combinaison of two methods : the KMedoids and the Louvain algorithm to obtain a robust method. After introducing it, we will measure the consumption of the algorithm and explore how to reduce it.
-We will conclude with some recent methods using deep learning based on autoencoders.
 
 <details>
   <summary>...</summary>
@@ -43,6 +40,11 @@ We will conclude with some recent methods using deep learning based on autoencod
 </details>
 
 ### Past seminars
+
+- **November 8th, 2021 - Jordy Palafox**, team member, Adaptive Learning and Clustering methods:
+
+In the context of adaptive learning, clustering methods are used to recognize students with the same profil. Here, we will focus on the clustering algorithm used by Prof en Poche which is a combinaison of two methods : the KMedoids and the Louvain algorithm to obtain a robust method. After introducing it, we will measure the consumption of the algorithm and explore how to reduce it.
+We will conclude with some recent methods using deep learning based on autoencoders.
 
 - **October, 25th 2021 - Paul Gay (UPPA)**, Power efficient transformers: 
 
