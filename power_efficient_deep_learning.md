@@ -12,7 +12,6 @@ Neural networks (NN) have become the most used family of machine learning algori
 
 In this workshop, we expect to address these issues, based on both a theoretical and practical deep learning analysis of standard pipeline and new paradigms. The main theoretical discussions lie on how mathematical statistics or recent mathematical models can be applied to learn lighter architectures in order to reduce training and inference. We also propose to use recent softwares like RAPL and nvidia-smi in a dedicated tutorial and competition where the energy consumed by deep learning algorithms will be measured and reduced. 
 
-Join us to discover how energy hungry your deep learning is, and go to [the competition](/acml_competition) to improve it.
 
 ## Program
 
@@ -66,11 +65,6 @@ dedicated neuromorphic-chips
 
 
 ---
-**9:00** Contributions
-
-To be announced on the November, 12th 2021.
-
----
 
 
 **10:30 (UTC)** Paul Gay (UPPA)
@@ -90,13 +84,6 @@ To be announced on the November, 12th 2021.
 
 **Abstract** ICT distributed systems are increasingly spanning worldwide, with digital services hosted all around the globe and often belonging to complex systems, utilizing many other services and hardware resources themselves. Along with this increase comes an alarming growth of ICT devices and their related energy consumption. Despite the distributed systems' complexity, understanding how they consume energy is important in order to hunt wasted Joules. This talk will deal with measuring the energy consumption of ICT infrastructures, deriving models from these measurements and implementing these models into simulation tools that can be used to experiment new energy-efficient strategies.
 
----
-**12:15 (UTC)**
-**Competition results**
-
-The winners will be announced, and the more promising approaches will be described as well general feedbacks about the competition and some lesssons we'll have learned about measuring the hungriness of Deep learning and what we can do about it.  
-
-
 ## Call for papers
 
 We invite contributions to the 2021 workshop on power efficient deep learning, and welcome paper submissions on artificial intelligence, power consumption, AI carbon footprint and related areas.
@@ -105,13 +92,6 @@ Candidates must submit a two page proposal on the topic of their intervention. T
 This workshop is a non-archival venue and there will be no published proceedings. The papers will be posted on the workshop website. It will be possible to submit to other conferences and journals both in parallel to and after this workshop. At least one author from each accepted paper must register for the workshop. Please see the [ACML 2021 registration](http://www.acml-conf.org/2021/participants/registration/).
 
 Submit your paper by mail at : paul dot gay at univ-pau.fr
-
-Important dates (UTC):
-
-- 05/11/2021 Submission deadline for paper contributions
-- 08/11/2021 Submission deadline for the [competition](/acml_competition)
-- 12/11/2021 End of reviewing period and final decisions
-- 17/11/2021 Workshop date
 
 
 
