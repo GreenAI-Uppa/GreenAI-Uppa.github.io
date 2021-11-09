@@ -34,9 +34,7 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 <details>
   <summary>...</summary>
-<span>&#8226;November 8th, Jordy Palafox, team member</span><br>
 <span>&#8226;November 22th, Sébastien Loustau, team member</span><br>
-<span>&#8226;December 6th,  Mellisphera project, team member</span>
 </details>
 
 ### Past seminars
@@ -116,7 +114,7 @@ Mathia is an app which recommands educational material to children. The recommen
 
 ### Computer vision and Hydrobiology
 
-[Hizkia](https://www.hizkia.eu/) is an IT services company. Her experience in computer and video applications for hydrobiology began with INRA (French national institute for agronomic research) more than 15 years ago.
+[Hizkia Informatique](https://www.hizkia.eu/) is an IT services company. Her experience in computer and video applications for hydrobiology began with INRA (French national institute for agronomic research) more than 15 years ago.
 Hizkia designs all its products: hardware and software. It does software development and the installation and maintenance of equipment. Hizkia also has 30 years’ experience in industrial service.
 
 Hizkia has designed a **video-counting device for fish passage**. In the current version, operators have to watch the videos to note the species of fish and their size. Our purpose is to have the videos processed by an AI that would be able to recognize the species of fish, count and measure them automatically. This application of Computer Vision to biodiversity monitoring contains next level challenges : object tracking from frame to frame, denoising images, correct lighting and species labels, and tackle problems of quantization and selection of high resolutions images and videos.
@@ -138,7 +136,7 @@ Our challenge is to improve beekeeping practices by offering predictive tools th
 
 ## Sponsors
 
-This project is mainly supported by the I-Site E2S-UPPA, a french consortium composed of [CNRS](https://www.cnrs.fr/), [INRIA](https://www.inria.fr/), [INRAE](https://www.inrae.fr/) that assists companies and public organizations in their energy and environmental transition.
+This project is mainly supported by the I-Site [E2S-UPPA](https://e2s-uppa.eu/fr/index.html), a french consortium composed of [CNRS](https://www.cnrs.fr/), [INRIA](https://www.inria.fr/), [INRAE](https://www.inrae.fr/) that assists companies and public organizations in their energy and environmental transition.
 
 Partnerships with public institutions, as well as SMEs are one of the main motivations for the existence of GreenAi Uppa. 
  - [AltaNoveo](https://www.cwall.fr/)
@@ -148,7 +146,7 @@ Partnerships with public institutions, as well as SMEs are one of the main motiv
  - [ORIE, Cornell University](https://www.orie.cornell.edu/orie)
  - [Prof en Poches](https://profenpoche.com/)
  - [Réseau Francilien en Sciences Informatiques (RFSI)](https://dim-rfsi.fr/)
-
+ - [Hizkia Informatique](https://www.hizkia.eu/)
 
 ## Team members
 
@@ -159,7 +157,7 @@ We wish to bring together different people from different communities but with o
 <img src="images/sebastien.png" align="center" width="200"/>
 After a PHD thesis defended in 2008, at [Institut de Marseille](https://www.i2m.univ-amu.fr) Sebastien worked as Associated professor at [Université d'Angers](https://www.univ-angers.fr/fr/index.html) in the lab [LAREMA](https://math.univ-angers.fr/LAREMA/) where he defended his Habilitation thesis in 2014.
 He found the AI start-up [LumeanAI](https://www.lumenai.fr/) in 2015 and the non-profit organization [IAPau](http://www.iapau.fr/) in 2016.
-Since 2020, he is researcher at the [LMAP](https://lma-umr5142.univ-pau.fr/fr/index.html) at [UPPA](https://www.univ-pau.fr/fr/index.html) and created the GreenAi UPPA Group.
+Since 2020, he is researcher at the [LMAP](https://lma-umr5142.univ-pau.fr/fr/index.html) at [Université de Pau et des Pays de l'Adour](https://www.univ-pau.fr/fr/index.html) and created the GreenAi UPPA Group.
 His research interest are online learning, mathematical statistics, information theory for machine learning  and more recently, in the applications of these activities to deep learning techniques and environmental challenges. 
 For contact, send an email at sebastien[dot]loustau[at]univ-pau.fr
 
