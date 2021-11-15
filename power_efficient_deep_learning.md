@@ -67,7 +67,7 @@ dedicated neuromorphic-chips
 ---
 
 
-**10:30 (UTC)** Paul Gay (UPPA)
+**9:30 (UTC)** Paul Gay (UPPA)
 ### Green AI Team Tutorial: Energy consumption of AI
 
 <img src="../images/paul.png" align="center" width="200"/>
@@ -76,7 +76,7 @@ dedicated neuromorphic-chips
 **Abstract** The ability of measuring power and consumption of machine learning algorithms is necessary to design new efficient ones. Nowadays, there is a growing interest in the machine learning and IT community for measuring the consumption at different scale, from the AI model to the entire data center. In this talk, we survey recent tools and softwares based on RAPL and NVIDIA-SMI and highlight the dependancy to the hardware considered (CPU, GPU), as well as the different sources of consumption in the architecture of a computer. The final goal is to give to engineers and data scientists the capacity to measure the consumption of deep/machine learning algorithms via the open source software [AIPowerMeter](https://greenai-uppa.github.io/AIPowerMeter/) designed by [GreenAIUppa](/).
 
 --- 
-**11:30 (UTC)**   Anne-Cécile Orgerie
+**10:30 (UTC)**   Anne-Cécile Orgerie
 ### Measuring and modeling the energy consumption of ICT distributed systems
 
 <img src="../images/anne_cecile_orgerie_circle.png" align="center" width="200"/>
