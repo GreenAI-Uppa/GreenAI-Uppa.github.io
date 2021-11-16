@@ -39,10 +39,13 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 ### Past seminars
 
+<details>
+  <summary>
 - **November 8th, 2021 - Jordy Palafox**, team member, Adaptive Learning and Clustering methods:
-
+  </summary>
 In the context of adaptive learning, clustering methods are used to recognize students with the same profil. Here, we will focus on the clustering algorithm used by Prof en Poche which is a combinaison of two methods : the KMedoids and the Louvain algorithm to obtain a robust method. After introducing it, we will measure the consumption of the algorithm and explore how to reduce it.
 We will conclude with some recent methods using deep learning based on autoencoders.
+</details>
 
 - **October, 25th 2021 - Paul Gay (UPPA)**, Power efficient transformers: 
 
