@@ -137,13 +137,13 @@ navigation_workshop:
   url: /power_efficient_deep_learning/
 - title: Call for papers
   url: /power_efficient_deep_learning/#call-for-papers
-- title: EDL Competition
-  url: /acml_competition/
 - title: ACML Registration
   url: http://www.acml-conf.org/2021/participants/registration/
 - title: AI Power Meter
   url: https://github.com/GreenAI-Uppa/IAPowerMeter
 
+#- title: EDL Competition
+#  url: /acml_competition/
 
 workshop_footer:
 - title: contact paul dot gay  at  univ-pau.fr 
