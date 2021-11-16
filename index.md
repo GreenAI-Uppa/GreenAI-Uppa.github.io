@@ -34,7 +34,7 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 <details style="cursor: pointer">
   <summary>
-    TOTO
+    **TOTO**
   </summary>
   <p>November 22th, Sébastien Loustau, team member</p>
 </details>
