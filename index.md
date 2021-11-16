@@ -117,28 +117,6 @@ In this talk, I will introduce alternatives to standard gradient descents to lea
   </p>
 </details>
 
-
-
-- **September, 27th 2021 - Sébastien Loustau (UPPA)** 
-
- Summary: 
-
-- **September, 13th 2021 - Sébastien Loustau (UPPA)** 
-
-Summary: 
-
-- **August, 23rd 2021 - Paul Gay (UPPA)** 
-  
-Summary: 
-
-- **July, 26th 2021 - Julien Mercier (UPPA)** 
-
-Summary: 
-
-- **July, 5th 2021 - Sébastien Loustau** 
-
-Résumé : 
-
 ### Training
 
 We have a long experience in creating training content on machine learning and deep learning towards student and industrial learners. 
