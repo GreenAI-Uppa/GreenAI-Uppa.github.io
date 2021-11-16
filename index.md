@@ -32,9 +32,11 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 
 
-<details>
-  <!-- <summary, style="cursor: pointer">...</summary> -->
-November 22th, Sébastien Loustau, team member
+<details style="cursor: pointer">
+  <summary>
+    TOTO
+  </summary>
+  <p>November 22th, Sébastien Loustau, team member</p>
 </details>
 
 ### Past seminars
