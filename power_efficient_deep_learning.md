@@ -16,7 +16,7 @@ In this workshop, we expect to address these issues, based on both a theoretical
 ## Program
 
 **7:00 am (UTC)**
-Sébastien Loustau (UPPA) [slides]("/seminars/cml_morning_introduction.pdf") 
+Sébastien Loustau (UPPA) [slides](/seminars/cml_morning_introduction.pdf) 
 ###  Introduction on Low Power deep learning 
 
 
