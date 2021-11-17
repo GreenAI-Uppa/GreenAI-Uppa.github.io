@@ -53,6 +53,7 @@ In this talk, I will introduce alternatives to standard gradient descents to lea
   </summary>
   <p>
     <b>Abstract:</b> As transformers are becoming the standard NLP tool, questions are raised about ethics, bias and energy consumption. This last topic is of importance as these models are the biggest ones in the large and hungry power deep learning model trend. In this seminar, I will present in the first part a conmprehensive tutorial on the principles of attention and how the transformers have conquered the state of the art. This details will equip us for the second part in which I will survey a number of methods which are concerned in making the transformers lighter and more available for practicionners with low computation resources.</p>
+<br>[slides here](/seminars/sem7.pdf)
 </details>
 
 <details style="cursor: pointer">
