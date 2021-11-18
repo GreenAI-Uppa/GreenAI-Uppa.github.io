@@ -30,13 +30,13 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 - **WORKSHOP at ACML 2021, November 17th** Power-Efficient Deep Learning. Organized with [Pierre Alquier](https://pierrealquier.github.io/) from the [Approximate Bayesian Inference Team](https://team-approx-bayes.github.io/) at [Riken Institute](https://www.riken.jp/en/). Details in a dedicated landing page asap.
 
-- **Next team seminar on 22th, October - Sébastien Loustau (UPPA)**, team member, Forget SGD - Deep learning theory for a new optimizer.
+- **Next team seminar on 22th, November - Sébastien Loustau (UPPA)**, team member, Forget SGD - Deep learning theory for a new optimizer.
 
 In this talk, I will introduce alternatives to standard gradient descents to learn power-efficient deep learning algorithms. After a gentle start about optimization with mirror descents,  we present recent theoretical advances on Pac-Bayesian sparse deep learning, leading to a new greedy optimizer to learn sparse and potentially binarized deep networks. We finally introduce new divergences to the prior, and rely this framework with metric task systems.
 
 - **Seminar for the Approximate Bayesian Inference Team** [git](https://team-approx-bayes.github.io/), team member, Deep learning theory for power-efficient algorithms.
 
-### Past seminars
+### Past seminars and events
 
 <details style="cursor: pointer">
   <summary>
