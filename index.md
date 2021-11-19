@@ -56,6 +56,8 @@ In this talk, I will introduce alternatives to standard gradient descents to lea
 
 <br>
 
+<a href="/seminars/sem7.pdf">Slides here</a>
+
 [slides here](/seminars/sem7.pdf)
 
 </details>
