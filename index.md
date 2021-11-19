@@ -58,8 +58,6 @@ In this talk, I will introduce alternatives to standard gradient descents to lea
 
 <a href="/seminars/sem7.pdf">Slides here</a>
 
-[slides here](/seminars/sem7.pdf)
-
 </details>
 
 <details style="cursor: pointer">
@@ -69,9 +67,7 @@ In this talk, I will introduce alternatives to standard gradient descents to lea
   <p>
     <b>Abstract:</b> Human impact on our planet is increasing the scale and the number of environmental disasters. During this seminar I'll present our join project with Altanoveo. This project is about AI integration to climate or industrial crisis management methods. I will describe the potential of IA in this domain and present two models on tweet classification and fire detection on natural images.
 <br>
-
-[slides here](/seminars/sem6.pdf)
-
+<a href="/seminars/sem6.pdf">Slide here</a>
   </p>
 </details>
 
@@ -82,9 +78,7 @@ In this talk, I will introduce alternatives to standard gradient descents to lea
   <p>
     <b>Abstract:</b> In this lecture, I will introduce convex optimization theory and mirror descent. We start with a theoretical motivation and studyt of (stochastic) gradient descent, and then moove to the non-euclidean setting to derive mirror descent algorithm as a generalization of gradient descent. We finally apply it to the context of expert advices to recover the classical regret bound for exponential weighted averages previously presented in the first seminar in july, and discuss possible applications to Green AI.
 <br>
-
-[slides here](/seminars/sem5.pdf)
-
+<a href="/seminars/sem5.pdf">Slide here</a>
  </p>
 </details>
 
@@ -95,9 +89,7 @@ In this talk, I will introduce alternatives to standard gradient descents to lea
   <p>
     <b>Abstract:</b> Official kick off of the GreenAi UPPA project ! After presenting the climatic and mathematical motivations (has the earth ever been this hot before ?), we introduce the context and support we have from the public institutions and the SMEs. We explain how the team will be organized, and inspired from the best of both worlds. Then we take 30 minuts to write our **elevator pitch**. Welcome to Jordy and Matthieu !
 <br>
-
-[slides here](/seminars/sem4.pdf)
-
+<a href="/seminars/sem4.pdf">Slide here</a>
   </p>
 </details>
 
@@ -108,9 +100,7 @@ In this talk, I will introduce alternatives to standard gradient descents to lea
   <p>
     <b>Abstract:</b> The ability of measuring power and consumption of machine learning algorithms is necessary to design new efficient ones. Nowadays, there is a growing interest in the machine learning and IT community for measuring the consumption at different scale, from the AI model to the entire data center. In this talk, we survey recent tools and softwares based on RAPL and NVIDIA-SMI and highlight the dependancy to the hardware considered (CPU, GPU), as well as the different sources of consumption in the architecture of a computer. The final goal is to give to engineers and data scientists the capacity to measure the consumption of deep/machine learning algorithms via our open source software [deep_learning_power_measure](https://github.com/GreenAI-Uppa/deep_learning_power_measure) developed by Green AI Uppa.
 <br>
-
-[slides here](/seminars/sem3.pdf)
-
+<a href="/seminars/sem3.pdf">Slide here</a>
   </p>
 </details>
 
@@ -121,9 +111,8 @@ In this talk, I will introduce alternatives to standard gradient descents to lea
   <p>
     <b>Abstract:</b> In this talk, I propose to present the main pros and cons of binarization via the gradient. We present two main historical attempt: [BinaryConnect](https://arxiv.org/abs/1511.00363) and [BinaryNetwork](https://arxiv.org/abs/1602.02830), based on two recent papers.
 <br>
+<a href="/seminars/sem2.pdf">Slide here</a>
 
-[slides here](/seminars/sem2.pdf)
- 
   </p>
 </details>
 
@@ -137,9 +126,8 @@ In this talk, I will introduce alternatives to standard gradient descents to lea
     notes manuscrites disponibles ici
   
 <br>
-    
-[slides here](/seminars/sem1.pdf)
-  
+<a href="/seminars/sem1.pdf">    Slide here</a>
+ 
   </p>
 </details>
 
