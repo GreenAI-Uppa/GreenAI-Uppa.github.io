@@ -126,7 +126,7 @@ In this talk, I will introduce alternatives to standard gradient descents to lea
     notes manuscrites disponibles ici
   
 <br>
-<a href="/seminars/sem1.pdf">    Slide here</a>
+<a href="/seminars/sem1.pdf">Slide here</a>
  
   </p>
 </details>
