@@ -41,6 +41,8 @@ Deep Learning has become extremely popular to solve many supervised machine lear
   </p>
 </details>
 
+<div class="hb-small-break" style="margin-top:0px;margin-bottom:40px;"></div>
+
 **November, 17th 2021 Workshop at ACML**, Power-Efficient Deep Learning. Organized with [Pierre Alquier](https://pierrealquier.github.io/) from the [Approximate Bayesian Inference Team](https://team-approx-bayes.github.io/) at [Riken Institute](https://www.riken.jp/en/). Details in a dedicated landing page asap.
 
 <details style="cursor: pointer">
