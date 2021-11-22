@@ -34,7 +34,7 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 <details style="cursor: pointer">
   <summary>
-    <b>Next team seminar on 22th, November - Sébastien Loustau (UPPA)</b>, team member, Forget SGD - Deep learning theory for a new optimizer
+    <b> November 22th, 2021 - Sébastien Loustau (UPPA)</b>, team member, Forget SGD - Deep learning theory for a new optimizer
   </summary>
   <p>
     <b>Abstract:</b> In this talk, I will introduce alternatives to standard gradient descents to learn power-efficient deep learning algorithms. After a gentle start about optimization with mirror descents,  we present recent theoretical advances on Pac-Bayesian sparse deep learning, leading to a new greedy optimizer to learn sparse and potentially binarized deep networks. We finally introduce new divergences to the prior, and rely this framework with metric task systems.
@@ -45,7 +45,7 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 <details style="cursor: pointer">
   <summary>
-    <b>November 8th, 2021 - Jordy Palafox</b>, team member, Adaptive Learning and Clustering methods
+    <b> November 8th, 2021 - Jordy Palafox</b>, team member, Adaptive Learning and Clustering methods
   </summary>
   <p>
     <b>Abstract:</b> In the context of adaptive learning, clustering methods are used to recognize students with the same profil. Here, we will focus on the clustering algorithm used by Prof en Poche which is a combinaison of two methods : the KMedoids and the Louvain algorithm to obtain a robust method. After introducing it, we will measure the consumption of the algorithm and explore how to reduce it. We will conclude with some recent methods using deep learning based on autoencoders.
