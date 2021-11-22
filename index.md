@@ -28,8 +28,6 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 ### Upcoming seminars and events
 
-- **WORKSHOP at ACML 2021, November 17th** 
-
 - **Seminar for the Approximate Bayesian Inference Team** [git](https://team-approx-bayes.github.io/), team member, Deep learning theory for power-efficient algorithms.
 
 ### Past seminars and events
@@ -43,7 +41,7 @@ Deep Learning has become extremely popular to solve many supervised machine lear
   </p>
 </details>
 
-**WORKSHOP at ACML 2021, November 17th**</b>, Power-Efficient Deep Learning. Organized with [Pierre Alquier](https://pierrealquier.github.io/) from the [Approximate Bayesian Inference Team](https://team-approx-bayes.github.io/) at [Riken Institute](https://www.riken.jp/en/). Details in a dedicated landing page asap.
+**WORKSHOP at ACML 2021, November 17th**, Power-Efficient Deep Learning. Organized with [Pierre Alquier](https://pierrealquier.github.io/) from the [Approximate Bayesian Inference Team](https://team-approx-bayes.github.io/) at [Riken Institute](https://www.riken.jp/en/). Details in a dedicated landing page asap.
 
 <details style="cursor: pointer">
   <summary>
