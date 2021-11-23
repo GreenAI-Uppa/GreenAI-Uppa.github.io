@@ -54,6 +54,8 @@ Deep Learning has become extremely popular to solve many supervised machine lear
   </p>
 </details>
 
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
 <details style="cursor: pointer">
   <summary>
     <b>&#8226; October, 25th 2021 - Paul Gay (UPPA)</b>, team member, Power efficient transformers
@@ -67,6 +69,8 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 </details>
 
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
 <details style="cursor: pointer">
   <summary>
     <b>&#8226; October, 11th 2021 - Matthieu François</b>, team member, AI addition to crisis management
@@ -77,6 +81,8 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 <a href="/seminars/sem6.pdf">Slide here</a>
   </p>
 </details>
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
 <details style="cursor: pointer">
   <summary>
@@ -89,6 +95,8 @@ Deep Learning has become extremely popular to solve many supervised machine lear
  </p>
 </details>
 
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
 <details style="cursor: pointer">
   <summary>
     <b>&#8226; September, 13th 2021 - Sébastien Loustau</b>, team member, Kick Off GreenAi Uppa
@@ -100,6 +108,8 @@ Deep Learning has become extremely popular to solve many supervised machine lear
   </p>
 </details>
 
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
 <details style="cursor: pointer">
   <summary>
     <b>&#8226; August, 23rd 2021 - Paul Gay</b>, team member, Measuring the Power draw of computers
@@ -110,6 +120,8 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 <a href="/seminars/sem3.pdf">Slide here</a>
   </p>
 </details>
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
 <details style="cursor: pointer">
   <summary>
@@ -123,6 +135,8 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
   </p>
 </details>
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
 <details style="cursor: pointer">
   <summary>
