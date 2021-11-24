@@ -22,13 +22,13 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
  GreenAi UPPA expects to address these issues, based on both a theoretical and practical machine/deep learning analysis of standard pipeline and new paradigms. More precisely, we propose alternatives to standard deep learning pipelines in order to rethink the learning process and show how mathematical statistics could help us to select lighter algorithms and reduce training, inference complexity and environmental impact of machine learning.
 
-**Measure the hungriness of your deep learning**: We measure the power consumption of recent architectures on different hardwares through our [IAPowerMeter](https://github.com/GreenAI-Uppa/deep_learning_power_measure) based on RAPL and nvidia-smi. 
+**Measure the hungriness of your deep learning**: We measure the power consumption of recent architectures on different hardwares through our [AIPowerMeter](https://github.com/GreenAI-Uppa/deep_learning_power_measure) based on RAPL and nvidia-smi. 
 
 ![jetson](/images/jetson.jpg){:class="img-responsive"}
 
 ### Upcoming seminars and events
 
-- **Seminar for the Approximate Bayesian Inference Team** [git](https://team-approx-bayes.github.io/), team member, Deep learning theory for power-efficient algorithms.
+- **Seminar for the Approximate Bayesian Inference Team** ([link](https://team-approx-bayes.github.io/)), team member, Deep learning theory for power-efficient algorithms.
 
 ### Past seminars and events
 
