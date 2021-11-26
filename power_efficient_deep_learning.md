@@ -84,14 +84,6 @@ dedicated neuromorphic-chips
 
 **Abstract** ICT distributed systems are increasingly spanning worldwide, with digital services hosted all around the globe and often belonging to complex systems, utilizing many other services and hardware resources themselves. Along with this increase comes an alarming growth of ICT devices and their related energy consumption. Despite the distributed systems' complexity, understanding how they consume energy is important in order to hunt wasted Joules. This talk will deal with measuring the energy consumption of ICT infrastructures, deriving models from these measurements and implementing these models into simulation tools that can be used to experiment new energy-efficient strategies.
 
-## Call for papers
-
-We invite contributions to the 2021 workshop on power efficient deep learning, and welcome paper submissions on artificial intelligence, power consumption, AI carbon footprint and related areas.
-Candidates must submit a two page proposal on the topic of their intervention. Top contributions will be selected by a board of reviewers, and they will be chosen to present their work at the workshop.
-
-This workshop is a non-archival venue and there will be no published proceedings. The papers will be posted on the workshop website. It will be possible to submit to other conferences and journals both in parallel to and after this workshop. At least one author from each accepted paper must register for the workshop. Please see the [ACML 2021 registration](http://www.acml-conf.org/2021/participants/registration/).
-
-Submit your paper by mail at : paul dot gay at univ-pau.fr
 
 
 
