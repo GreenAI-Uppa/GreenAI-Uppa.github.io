@@ -28,7 +28,7 @@ Sébastien Loustau (UPPA) [slides](/seminars/acml_morning_introduction.pdf)
 ---
 
 **7:30 (UTC)**
-Johannes Lederer (Ruhr-University Bochum)
+Johannes Lederer (Ruhr-University Bochum)[slides](/seminars/JohannesLederer.pdf) 
 ### Sparse Deep Learning 
 
 <img src="../images/johannes_lederer.png" align="center" width="200"/>
@@ -39,11 +39,11 @@ Johannes Lederer (Ruhr-University Bochum)
 ---
 
 **8:15 (UTC)**
-Guillaume Bellec (EPFL)
+Guillaume Bellec (EPFL)[slides](/seminars/Bellec.pdf) 
 
 ### Spiking neural networks 
 
-<img src="../images/guillaume_lebellec_circle.png" align="center" width="200"/> [slides](/seminars/Bellec.pdf) 
+<img src="../images/guillaume_lebellec_circle.png" align="center" width="200"/> 
 **Bio** Guillaume Bellec develops theories to advance our under-standing of brains and intelligent machines. He studied artificial intelligence during his Master in Paris and he completed his PhD with Wolfgang Maass in the Institute for Theoretical Computer Science of TU Graz in Austria. He is now a postdoc with Wulfram Gerstner in the Laboratory of Computational Neuroscience at EPFL in Switzerland. His work is most well-known for showing that powerful artificial intelligence can emerge from simple mathematical models of biologically realistic neural networks. This work is having a direct impact on the development of neuromorphic-hardware for energy efficient artificial intelligence applications.
 
 
@@ -67,7 +67,7 @@ dedicated neuromorphic-chips
 ---
 
 
-**9:30 (UTC)** Paul Gay (UPPA)
+**9:30 (UTC)** Paul Gay (UPPA)[slides](/seminars/paul_gay_workshop_acml_2022.pdf)
 ### Green AI Team Tutorial: Energy consumption of AI
 
 <img src="../images/paul.png" align="center" width="200"/>
@@ -76,7 +76,7 @@ dedicated neuromorphic-chips
 **Abstract** The ability of measuring power and consumption of machine learning algorithms is necessary to design new efficient ones. Nowadays, there is a growing interest in the machine learning and IT community for measuring the consumption at different scale, from the AI model to the entire data center. In this talk, we survey recent tools and softwares based on RAPL and NVIDIA-SMI and highlight the dependancy to the hardware considered (CPU, GPU), as well as the different sources of consumption in the architecture of a computer. The final goal is to give to engineers and data scientists the capacity to measure the consumption of deep/machine learning algorithms via the open source software [AIPowerMeter](https://greenai-uppa.github.io/AIPowerMeter/) designed by [GreenAIUppa](/).
 
 --- 
-**10:30 (UTC)**   Anne-Cécile Orgerie
+**10:30 (UTC)**   Anne-Cécile Orgeriei (Université de Rennes) [slides](/seminars/ACML_Workshop_2021-Orgerie.pdf)
 ### Measuring and modeling the energy consumption of ICT distributed systems
 
 <img src="../images/anne_cecile_orgerie_circle.png" align="center" width="200"/>
