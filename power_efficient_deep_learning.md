@@ -16,7 +16,7 @@ In this workshop, we expect to address these issues, based on both a theoretical
 ## Program
 
 **7:00 am (UTC)**
-Sébastien Loustau (UPPA) [slides]("/seminars/acml_morning_introduction.pdf") 
+Sébastien Loustau (UPPA) [slides](/seminars/acml_morning_introduction.pdf) 
 ###  Introduction on Low Power deep learning 
 
 
@@ -43,7 +43,7 @@ Guillaume Bellec (EPFL)
 
 ### Spiking neural networks 
 
-<img src="../images/guillaume_lebellec_circle.png" align="center" width="200"/>
+<img src="../images/guillaume_lebellec_circle.png" align="center" width="200"/> [slides](/seminars/Bellec.pdf) 
 **Bio** Guillaume Bellec develops theories to advance our under-standing of brains and intelligent machines. He studied artificial intelligence during his Master in Paris and he completed his PhD with Wolfgang Maass in the Institute for Theoretical Computer Science of TU Graz in Austria. He is now a postdoc with Wulfram Gerstner in the Laboratory of Computational Neuroscience at EPFL in Switzerland. His work is most well-known for showing that powerful artificial intelligence can emerge from simple mathematical models of biologically realistic neural networks. This work is having a direct impact on the development of neuromorphic-hardware for energy efficient artificial intelligence applications.
 
 

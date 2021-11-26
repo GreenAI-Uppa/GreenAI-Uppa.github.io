@@ -4,3 +4,12 @@ styles: true
 ---
 
 @import "alembic";
+
+.hb-small-break{
+    height: 1px;
+    width: 70px;
+    margin: 20px auto 25px;
+    background: #ebebeb;
+    display: block;
+    border: none;
+}

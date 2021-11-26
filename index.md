@@ -22,98 +22,136 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
  GreenAi UPPA expects to address these issues, based on both a theoretical and practical machine/deep learning analysis of standard pipeline and new paradigms. More precisely, we propose alternatives to standard deep learning pipelines in order to rethink the learning process and show how mathematical statistics could help us to select lighter algorithms and reduce training, inference complexity and environmental impact of machine learning.
 
-**Measure the hungriness of your deep learning**: We measure the power consumption of recent architectures on different hardwares through our [IAPowerMeter](https://github.com/GreenAI-Uppa/deep_learning_power_measure) based on RAPL and nvidia-smi. 
+**Measure the hungriness of your deep learning**: We measure the power consumption of recent architectures on different hardwares through our [AIPowerMeter](https://github.com/GreenAI-Uppa/deep_learning_power_measure) based on RAPL and nvidia-smi. 
 
 ![jetson](/images/jetson.jpg){:class="img-responsive"}
 
 ### Upcoming seminars and events
 
-- **WORKSHOP at ACML 2021, November 17th** Power-Efficient Deep Learning. Organized with [Pierre Alquier](https://pierrealquier.github.io/) from the [Approximate Bayesian Inference Team](https://team-approx-bayes.github.io/) at [Riken Institute](https://www.riken.jp/en/). Details in a dedicated landing page asap.
+- **Seminar for the Approximate Bayesian Inference Team** ([link](https://team-approx-bayes.github.io/)), team member, Deep learning theory for power-efficient algorithms.
 
-- **Next team seminar on 22th, October - Sébastien Loustau (UPPA)**, team member, Forget SGD - Deep learning theory for a new optimizer.
-
-In this talk, I will introduce alternatives to standard gradient descents to learn power-efficient deep learning algorithms. After a gentle start about optimization with mirror descents,  we present recent theoretical advances on Pac-Bayesian sparse deep learning, leading to a new greedy optimizer to learn sparse and potentially binarized deep networks. We finally introduce new divergences to the prior, and rely this framework with metric task systems.
-
-- **Seminar for the Approximate Bayesian Inference Team** [git](https://team-approx-bayes.github.io/), team member, Deep learning theory for power-efficient algorithms.
-
-### Past seminars
+### Past seminars and events
 
 <details style="cursor: pointer">
   <summary>
-    <b>November 8th, 2021 - Jordy Palafox</b>, team member, Adaptive Learning and Clustering methods
+    <b>&#8226; November, 22th 2021 - Sébastien Loustau (UPPA)</b>, team member, Forget SGD - Deep learning theory for a new optimizer
+  </summary>
+  <p>
+    <b>Abstract:</b> In this talk, I will introduce alternatives to standard gradient descents to learn power-efficient deep learning algorithms. After a gentle start about optimization with mirror descents,  we present recent theoretical advances on Pac-Bayesian sparse deep learning, leading to a new greedy optimizer to learn sparse and potentially binarized deep networks. We finally introduce new divergences to the prior, and rely this framework with metric task systems.
+  </p>
+</details>
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
+**November, 17th 2021 Workshop at ACML**, Power-Efficient Deep Learning. Organized with [Pierre Alquier](https://pierrealquier.github.io/) from the [Approximate Bayesian Inference Team](https://team-approx-bayes.github.io/) at [Riken Institute](https://www.riken.jp/en/). Details in a dedicated landing page asap.
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
+<details style="cursor: pointer">
+  <summary>
+    <b>&#8226; November 8th, 2021 - Jordy Palafox</b>, team member, Adaptive Learning and Clustering methods
   </summary>
   <p>
     <b>Abstract:</b> In the context of adaptive learning, clustering methods are used to recognize students with the same profil. Here, we will focus on the clustering algorithm used by Prof en Poche which is a combinaison of two methods : the KMedoids and the Louvain algorithm to obtain a robust method. After introducing it, we will measure the consumption of the algorithm and explore how to reduce it. We will conclude with some recent methods using deep learning based on autoencoders.
   </p>
 </details>
 
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
 <details style="cursor: pointer">
   <summary>
-    <b>October, 25th 2021 - Paul Gay (UPPA)</b>, team member, Power efficient transformers
+    <b>&#8226; October, 25th 2021 - Paul Gay (UPPA)</b>, team member, Power efficient transformers
   </summary>
   <p>
     <b>Abstract:</b> As transformers are becoming the standard NLP tool, questions are raised about ethics, bias and energy consumption. This last topic is of importance as these models are the biggest ones in the large and hungry power deep learning model trend. In this seminar, I will present in the first part a conmprehensive tutorial on the principles of attention and how the transformers have conquered the state of the art. This details will equip us for the second part in which I will survey a number of methods which are concerned in making the transformers lighter and more available for practicionners with low computation resources.</p>
+
+<br>
+
+<a href="/seminars/sem7.pdf">Slides here</a>
+
 </details>
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
 <details style="cursor: pointer">
   <summary>
-    <b>October, 11th 2021 - Matthieu François</b>, team member, AI addition to crisis management
+    <b>&#8226; October, 11th 2021 - Matthieu François</b>, team member, AI addition to crisis management
   </summary>
   <p>
     <b>Abstract:</b> Human impact on our planet is increasing the scale and the number of environmental disasters. During this seminar I'll present our join project with Altanoveo. This project is about AI integration to climate or industrial crisis management methods. I will describe the potential of IA in this domain and present two models on tweet classification and fire detection on natural images.
-<br>[slides here](/seminars/sem6.pdf)
+<br>
+<a href="/seminars/sem6.pdf">Slide here</a>
   </p>
 </details>
 
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
 <details style="cursor: pointer">
   <summary>
-    <b>September, 27th 2021 - Sébastien Loustau</b>, team member, Introduction to convex optimization
+    <b>&#8226; September, 27th 2021 - Sébastien Loustau</b>, team member, Introduction to convex optimization
   </summary>
   <p>
     <b>Abstract:</b> In this lecture, I will introduce convex optimization theory and mirror descent. We start with a theoretical motivation and studyt of (stochastic) gradient descent, and then moove to the non-euclidean setting to derive mirror descent algorithm as a generalization of gradient descent. We finally apply it to the context of expert advices to recover the classical regret bound for exponential weighted averages previously presented in the first seminar in july, and discuss possible applications to Green AI.
-<br>[slides here](/seminars/sem5.pdf)
-  </p>
+<br>
+<a href="/seminars/sem5.pdf">Slide here</a>
+ </p>
 </details>
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
 <details style="cursor: pointer">
   <summary>
-    <b>September, 13th 2021 - Sébastien Loustau</b>, team member, Kick Off GreenAi Uppa
+    <b>&#8226; September, 13th 2021 - Sébastien Loustau</b>, team member, Kick Off GreenAi Uppa
   </summary>
   <p>
     <b>Abstract:</b> Official kick off of the GreenAi UPPA project ! After presenting the climatic and mathematical motivations (has the earth ever been this hot before ?), we introduce the context and support we have from the public institutions and the SMEs. We explain how the team will be organized, and inspired from the best of both worlds. Then we take 30 minuts to write our **elevator pitch**. Welcome to Jordy and Matthieu !
-<br>[slides here](/seminars/sem4.pdf)
+<br>
+<a href="/seminars/sem4.pdf">Slide here</a>
   </p>
 </details>
 
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
 <details style="cursor: pointer">
   <summary>
-    <b>August, 23rd 2021 - Paul Gay</b>, team member, Measuring the Power draw of computers
+    <b>&#8226; August, 23rd 2021 - Paul Gay</b>, team member, Measuring the Power draw of computers
   </summary>
   <p>
-    <b>Abstract:</b> The ability of measuring power and consumption of machine learning algorithms is necessary to design new efficient ones. Nowadays, there is a growing interest in the machine learning and IT community for measuring the consumption at different scale, from the AI model to the entire data center. In this talk, we survey recent tools and softwares based on RAPL and NVIDIA-SMI and highlight the dependancy to the hardware considered (CPU, GPU), as well as the different sources of consumption in the architecture of a computer. The final goal is to give to engineers and data scientists the capacity to measure the consumption of deep/machine learning algorithms via our open source software [deep_learning_power_measure](https://github.com/GreenAI-Uppa/deep_learning_power_measure) developed by Green AI Uppa.
-<br>[slides here](/seminars/sem3.pdf)
+    <b>Abstract:</b> The ability of measuring power and consumption of machine learning algorithms is necessary to design new efficient ones. Nowadays, there is a growing interest in the machine learning and IT community for measuring the consumption at different scale, from the AI model to the entire data center. In this talk, we survey recent tools and softwares based on RAPL and NVIDIA-SMI and highlight the dependancy to the hardware considered (CPU, GPU), as well as the different sources of consumption in the architecture of a computer. The final goal is to give to engineers and data scientists the capacity to measure the consumption of deep/machine learning algorithms via our open source software <a href="https://github.com/GreenAI-Uppa/deep_learning_power_measure">deep_learning_power_measure</a> developed by Green AI Uppa.
+<br>
+<a href="/seminars/sem3.pdf">Slide here</a>
   </p>
 </details>
 
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
 <details style="cursor: pointer">
   <summary>
-    <b>July, 26th 2021 - Julien Mercier</b>, team member, How to binarize a neural network 
+    <b>&#8226; July, 26th 2021 - Julien Mercier</b>, team member, How to binarize a neural network 
   </summary>
   <p>
-    <b>Abstract:</b> In this talk, I propose to present the main pros and cons of binarization via the gradient. We present two main historical attempt: [BinaryConnect](https://arxiv.org/abs/1511.00363) and [BinaryNetwork](https://arxiv.org/abs/1602.02830), based on two recent papers.
-<br>[slides here](/seminars/sem2.pdf)
+    <b>Abstract:</b> In this talk, I propose to present the main pros and cons of binarization via the gradient. We present two main historical attempt: 
+    <a href="https://arxiv.org/abs/1511.00363">BinaryConnect</a> and <a href="https://arxiv.org/abs/1602.02830">BinaryNetwork</a>, based on two recent papers.
+<br>
+<a href="/seminars/sem2.pdf">Slide here</a>
+
   </p>
 </details>
 
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
 <details style="cursor: pointer">
   <summary>
-    <b>July, 5th 2021 - Sébastien Loustau</b>, team member, Comment intégrer des contraintes environnementales dans les algorithmes de Deep Learning 
+    <b>&#8226; July, 5th 2021 - Sébastien Loustau</b>, team member, Comment intégrer des contraintes environnementales dans les algorithmes de Deep Learning 
   </summary>
   <p>
     <b>Abstract:</b> Dans cet exposé, je vous propose d'introduire la théorie PAC-Bayesienne et son lien avec la théorie des jeux pour proposer de nouvelles procédures d'apprentissage séquentiel. Après une introduction simple du problème de prévision avec avis d'experts, on présentera des inégalités PAC-Bayesiennes plus générales et des bornes de regrets parcimonieuses pour des famillles de réseaux de neurones particulières (XNOR-nets notamment). Enfin, on proposera une extension de cette théorie au Transport Optimal pour intégrer de nouvelles pénalités plus génériques et garantir l'intégration de mesures de consommations plus précises.
     Cet exposé est une introduction aux principales motivations de ces articles : Learning with BOT et Sparsity regret bounds for XNOR-Nets
     notes manuscrites disponibles ici
-    <br>[slides here](/seminars/sem1.pdf)
+  
+<br>
+<a href="/seminars/sem1.pdf">Slide here</a>
+ 
   </p>
 </details>
 
