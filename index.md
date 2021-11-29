@@ -34,7 +34,7 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 <details style="cursor: pointer">
   <summary>
-    <b>&#8226; November, 22th 2021 - Sébastien Loustau (UPPA)</b>, team member, Forget SGD - Deep learning theory for a new optimizer
+    <b>&#8226; November, 22th 2021 - Sébastien Loustau</b>, team member, Forget SGD - Deep learning theory for a new optimizer
   </summary>
   <p>
     <b>Abstract:</b> In this talk, I will introduce alternatives to standard gradient descents to learn power-efficient deep learning algorithms. After a gentle start about optimization with mirror descents,  we present recent theoretical advances on Pac-Bayesian sparse deep learning, leading to a new greedy optimizer to learn sparse and potentially binarized deep networks. We finally introduce new divergences to the prior, and rely this framework with metric task systems.
@@ -49,7 +49,7 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 <details style="cursor: pointer">
   <summary>
-    <b>&#8226; November 8th, 2021 - Jordy Palafox</b>, team member, Adaptive Learning and Clustering methods
+    <b>&#8226; November, 8th 2021 - Jordy Palafox</b>, team member, Adaptive Learning and Clustering methods
   </summary>
   <p>
     <b>Abstract:</b> In the context of adaptive learning, clustering methods are used to recognize students with the same profil. Here, we will focus on the clustering algorithm used by Prof en Poche which is a combinaison of two methods : the KMedoids and the Louvain algorithm to obtain a robust method. After introducing it, we will measure the consumption of the algorithm and explore how to reduce it. We will conclude with some recent methods using deep learning based on autoencoders.
@@ -60,7 +60,7 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 <details style="cursor: pointer">
   <summary>
-    <b>&#8226; October, 25th 2021 - Paul Gay (UPPA)</b>, team member, Power efficient transformers
+    <b>&#8226; October, 25th 2021 - Paul Gay</b>, team member, Power efficient transformers
   </summary>
   <p>
     <b>Abstract:</b> As transformers are becoming the standard NLP tool, questions are raised about ethics, bias and energy consumption. This last topic is of importance as these models are the biggest ones in the large and hungry power deep learning model trend. In this seminar, I will present in the first part a conmprehensive tutorial on the principles of attention and how the transformers have conquered the state of the art. This details will equip us for the second part in which I will survey a number of methods which are concerned in making the transformers lighter and more available for practicionners with low computation resources.</p>
