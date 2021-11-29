@@ -142,12 +142,10 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 <details style="cursor: pointer">
   <summary>
-    <b>&#8226; July, 5th 2021 - Sébastien Loustau</b>, team member, Comment intégrer des contraintes environnementales dans les algorithmes de Deep Learning 
+    <b>&#8226; July, 5th 2021 - Sébastien Loustau</b>, team member, How to penalize deep learning with power measurements ?
   </summary>
   <p>
-    <b>Abstract:</b> Dans cet exposé, je vous propose d'introduire la théorie PAC-Bayesienne et son lien avec la théorie des jeux pour proposer de nouvelles procédures d'apprentissage séquentiel. Après une introduction simple du problème de prévision avec avis d'experts, on présentera des inégalités PAC-Bayesiennes plus générales et des bornes de regrets parcimonieuses pour des famillles de réseaux de neurones particulières (XNOR-nets notamment). Enfin, on proposera une extension de cette théorie au Transport Optimal pour intégrer de nouvelles pénalités plus génériques et garantir l'intégration de mesures de consommations plus précises.
-    Cet exposé est une introduction aux principales motivations de ces articles : Learning with BOT et Sparsity regret bounds for XNOR-Nets
-    notes manuscrites disponibles ici
+    <b>Abstract:</b> In this talk, I propose to introduce the main theoretical foundations of online learning and PAC-Bayesian theory and how it could be used to build new power-efficient algorithms. After a gentle start dedicated to the problem of prediction with expert's advices, I will present the PAC-Bayesian paradigm and how it is related to the context of aggregation of expert's advices and stochastic algorithms. We apply this theory to learn sparse deep nets where the networks are coming from recent advances in binarization (BinaryConnect, XNor-nets, Xnor-nets ++). We finally sketch how to generalize these results to more suitable divergences such as Optimal Transport, a nice and promising field in order to measure the cost of choosing sequentially a particular algorithm in terms of electric consumption. This talk is based on the two following papers: <a href="https://hal.archives-ouvertes.fr/hal-03262687/document">Learning with BOT</a> and <a href="https://hal.archives-ouvertes.fr/hal-03262679v3/document">Sparsity regret bounds for XNOR-Nets</a>. 
   
 <br>
 <a href="/seminars/sem1.pdf">Slide here</a>
