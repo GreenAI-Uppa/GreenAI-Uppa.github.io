@@ -3,6 +3,7 @@
 {% if page.collectionpage %}
   {% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
   {% assign feature_text = collectiondata.feature_text %}
+  {% assign feature_text_logo = collectiondata.feature_text_logo %}
   {% assign feature_image = collectiondata.feature_image %}
 {% endif %}
 
