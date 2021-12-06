@@ -29,9 +29,22 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 ### Upcoming seminars and events
 
-- **Seminar for the Approximate Bayesian Inference Team** ([link](https://team-approx-bayes.github.io/)), team member, Deep learning theory for power-efficient algorithms.
+- **The 13th, 15th, 20th December 2021**, new arrival in the GreenAI team !
+- **The 20th December 2021**, upcoming seminar of Matthieu François.
+- **The 3rd January 2022**, upcoming seminar of Sébastien Loustau, and Team progress summary with new team members !
+- **The 17th January 2022**, upcoming seminar of Jordy Palafox.
 
 ### Past seminars and events
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
+  **December, 6th 2021 - Simon Gosset & Martin Chauvin**, CarbonAI team, CarbonAI an opensource project presentation. [video here](https://office365uppa.sharepoint.com/teams/LancementGreenAI/Documents%20partages/s%C3%A9minaires/Recordings/R%C3%A9union%20dans%20%C2%AB%C2%A0s%C3%A9minaires%C2%A0%C2%BB-20211206_090541-Enregistrement%20de%20la%20r%C3%A9union.mp4?web=1)
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
+**November, 29th 2021 Seminar for the Approximate Bayesian Inference Team***, Deep learning theory for power-efficient algorithms. [link](https://team-approx-bayes.github.io/) 
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
 <details style="cursor: pointer">
   <summary>
@@ -40,11 +53,13 @@ Deep Learning has become extremely popular to solve many supervised machine lear
   <p>
     <b>Abstract:</b> In this talk, I will introduce alternatives to standard gradient descents to learn power-efficient deep learning algorithms. After a gentle start about optimization with mirror descents,  we present recent theoretical advances on Pac-Bayesian sparse deep learning, leading to a new greedy optimizer to learn sparse and potentially binarized deep networks. We finally introduce new divergences to the prior, and rely this framework with metric task systems.
   </p>
+  <br>
+  <a href="/seminars/approxbayes.pdf">Slides here</a>
 </details>
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
-**November, 17th 2021 Workshop at ACML**, Power-Efficient Deep Learning. Organized with [Pierre Alquier](https://pierrealquier.github.io/) from the [Approximate Bayesian Inference Team](https://team-approx-bayes.github.io/) at [Riken Institute](https://www.riken.jp/en/). Details in a dedicated landing page asap.
+**November, 17th 2021 Workshop at ACML**, Power-Efficient Deep Learning. Organized with [Pierre Alquier](https://pierrealquier.github.io/) from the [Approximate Bayesian Inference Team](https://team-approx-bayes.github.io/) at [Riken Institute](https://www.riken.jp/en/).
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 

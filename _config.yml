@@ -116,14 +116,6 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
   180: '/assets/logos/greenai180.png'
   512: '/assets/logos/greenai512.png'
   1024: '/assets/logos/greenai1024.png'
-  # 16: '/assets/logos/logo@16px.png'
-  # 32: '/assets/logos/logo@32px.png'
-  # 96: '/assets/logos/logo@96px.png'
-  # 120: '/assets/logos/logo@120px.png'
-  # 144: '/assets/logos/logo@144px.png'
-  # 180: '/assets/logos/logo@180px.png'
-  # 512: '/assets/logos/logo@512px.png'
-  # 1024: '/assets/logos/logo@1024px.png'
   
 # 9. Site navigation
 navigation_header:
@@ -169,8 +161,9 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
 
 ## the news will appear on the right side 
 news: 
-   29/11/2021: 'Seminar for Riken: Deep learning theory for power-efficient algorithms'
-   06/12/2021: 'Upcoming seminar: CarbonAI'
+   20/12/2021: 'Upcoming seminar: AI for news & Crisis'
+   03/01/2022: 'Upcoming seminar with S. Loustau and the team grows !'
+   17/01/2022: 'Upcoming seminar with J. Palafox'
 
 pins:
   ACML: <a href="https://greenai-uppa.github.io/power_efficient_deep_learning/">click here</a>
