@@ -46,8 +46,8 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
-<details style="cursor: pointer">
-  <summary>
+<details>
+  <summary style="cursor: pointer">
     <b>&#8226; November, 22th 2021 - Sébastien Loustau</b>, team member, Forget SGD - Deep learning theory for a new optimizer
   </summary>
   <p>
@@ -63,8 +63,8 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
-<details style="cursor: pointer">
-  <summary>
+<details>
+  <summary style="cursor: pointer">
     <b>&#8226; November, 8th 2021 - Jordy Palafox</b>, team member, Adaptive Learning and Clustering methods
   </summary>
   <p>
@@ -74,8 +74,8 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
-<details style="cursor: pointer">
-  <summary>
+<details>
+  <summary style="cursor: pointer">
     <b>&#8226; October, 25th 2021 - Paul Gay</b>, team member, Power efficient transformers
   </summary>
   <p>
@@ -89,8 +89,8 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
-<details style="cursor: pointer">
-  <summary>
+<details>
+  <summary style="cursor: pointer">
     <b>&#8226; October, 11th 2021 - Matthieu François</b>, team member, AI addition to crisis management
   </summary>
   <p>
@@ -102,8 +102,8 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
-<details style="cursor: pointer">
-  <summary>
+<details>
+  <summary style="cursor: pointer">
     <b>&#8226; September, 27th 2021 - Sébastien Loustau</b>, team member, Introduction to convex optimization
   </summary>
   <p>
@@ -115,8 +115,8 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
-<details style="cursor: pointer">
-  <summary>
+<details>
+  <summary style="cursor: pointer">
     <b>&#8226; September, 13th 2021 - Sébastien Loustau</b>, team member, Kick Off GreenAi Uppa
   </summary>
   <p>
@@ -128,8 +128,8 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
-<details style="cursor: pointer">
-  <summary>
+<details>
+  <summary style="cursor: pointer">
     <b>&#8226; August, 23rd 2021 - Paul Gay</b>, team member, Measuring the Power draw of computers
   </summary>
   <p>
@@ -141,8 +141,8 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
-<details style="cursor: pointer">
-  <summary>
+<details>
+  <summary style="cursor: pointer">
     <b>&#8226; July, 26th 2021 - Julien Mercier</b>, team member, How to binarize a neural network 
   </summary>
   <p>
@@ -156,8 +156,8 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
-<details style="cursor: pointer">
-  <summary>
+<details>
+  <summary style="cursor: pointer">
     <b>&#8226; July, 5th 2021 - Sébastien Loustau</b>, team member, How to penalize deep learning with power measurements ?
   </summary>
   <p>
