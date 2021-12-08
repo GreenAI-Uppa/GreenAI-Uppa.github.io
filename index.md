@@ -197,10 +197,11 @@ Based on low consumption algorithms, this project start with an analysis of soci
 
 ### AI for Education
 
-The start-up [ProfenPoche](https://profenpoche.com/) was founded in 2015 by Vincent Escudé and Samuel Imbert. 
-It is specialized in creation on new numerical educative solutions and more specifically, propose to provide a teacher to a needed student using smartphone, tablet or computer. They also created **Mathia** using AI as a innovative product in order to give them the love of mathematics of primary school children which is based on AI. In 2019, they were rewarded for Mathia as laureate of P2IA (Partenariat d’Innovation en Intelligence Artificielle) launched by the Ministère de l'Education Nationale et de la Jeunesse.
+The start-up [ProfenPoche](https://profenpoche.com/) was founded in 2015 by Vincent Escudé, Paul Escudé and Samuel Imbert. 
+It is specialized in creation on new numerical educative solutions and more specifically, propose to provide a teacher to a needed student using smartphone, tablet or computer. They created **Mathia** using AI as a innovative product in order to give the love of mathematics to children. In 2019, they were rewarded for Mathia as laureate of P2IA (Partenariat d’Innovation en Intelligence Artificielle) launched by the Ministère de l'Education Nationale et de la Jeunesse.
 
 Mathia is an app which recommands educational material to children. The recommendation is powered by a clustering performed on the children profile and which includes their skills and personal difficulties. Our goal is to improve these tasks and reduce the consumption of energies.
+![pep](images/pep.png){:class="img-responsive"}
 
 ### Computer vision and Hydrobiology
 
