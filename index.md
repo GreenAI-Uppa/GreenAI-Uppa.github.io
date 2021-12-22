@@ -1,7 +1,7 @@
 ---
 title: 
 feature_text: |
-  ## GreenAi UPPA 
+  ## GreenAI UPPA 
 feature_text_logo: "/assets/horizontal_dark_logo.png"
 feature_image: "/assets/ossau_lurien_bright.png"
 excerpt: "Longer intro"
@@ -9,7 +9,7 @@ aside: true
 ---
 
 
-The GreenAi UPPA team is an engaged lab that improves state-of-the-art machine learning algorithms. Concerned with our impact on earth, we develop low consumption algorithms and tackle environmental challenges. Unlike other research groups, our activities are dedicated to the full pipeline from the math grounding to R&D prototype and in production deployment with industrial partners. We are based in Pau, France, in front of the Pyrénées. 
+The GreenAI UPPA team is an engaged lab that improves state-of-the-art machine learning algorithms. Concerned with our impact on earth, we develop low consumption algorithms and tackle environmental challenges. Unlike other research groups, our activities are dedicated to the full pipeline from the math grounding to R&D prototype and in production deployment with industrial partners. We are based in Pau, France, in front of the Pyrénées. 
 
 ## Our research
 
@@ -21,7 +21,7 @@ Our research encompasses diverse projects and collaborations around the mathemat
 
 Deep Learning has become extremely popular to solve many supervised machine learning problems. This standardization of machine learning, namely computing on GPU a stochastic gradient descent is not only a plague for science but also a disaster in terms of power consumption. Recently, a growing interest is observed in the deep learning hype in order to reduce computational cost by designing lighter architectures. Several approaches for reducing the computational effort of NNs have been proposed (e.g. binarized networks or pruning methods). Moreover, promising strategies propose to select the connectivity of the network, or more generally the architecture, during the training process. 
 
- GreenAi UPPA expects to address these issues, based on both a theoretical and practical machine/deep learning analysis of standard pipeline and new paradigms. More precisely, we propose alternatives to standard deep learning pipelines in order to rethink the learning process and show how mathematical statistics could help us to select lighter algorithms and reduce training, inference complexity and environmental impact of machine learning.
+ GreenAI UPPA expects to address these issues, based on both a theoretical and practical machine/deep learning analysis of standard pipeline and new paradigms. More precisely, we propose alternatives to standard deep learning pipelines in order to rethink the learning process and show how mathematical statistics could help us to select lighter algorithms and reduce training, inference complexity and environmental impact of machine learning.
 
 **Measure the hungriness of your deep learning**: We measure the power consumption of recent architectures on different hardwares through our [AIPowerMeter](https://github.com/GreenAI-Uppa/deep_learning_power_measure) based on RAPL and nvidia-smi. 
 
@@ -117,10 +117,10 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; September, 13th 2021 - Sébastien Loustau</b>, team member, Kick Off GreenAi Uppa
+    <b>&#8226; September, 13th 2021 - Sébastien Loustau</b>, team member, Kick Off GreenAI Uppa
   </summary>
   <p>
-    <b>Abstract:</b> Official kick off of the GreenAi UPPA project ! After presenting the climatic and mathematical motivations (has the earth ever been this hot before ?), we introduce the context and support we have from the public institutions and the SMEs. We explain how the team will be organized, and inspired from the best of both worlds. Then we take 30 minuts to write our **elevator pitch**. Welcome to Jordy and Matthieu !
+    <b>Abstract:</b> Official kick off of the GreenAI UPPA project ! After presenting the climatic and mathematical motivations (has the earth ever been this hot before ?), we introduce the context and support we have from the public institutions and the SMEs. We explain how the team will be organized, and inspired from the best of both worlds. Then we take 30 minuts to write our **elevator pitch**. Welcome to Jordy and Matthieu !
 <br>
 <a href="/seminars/sem4.pdf">Slide here</a>
   </p>
@@ -229,7 +229,7 @@ Our challenge is to improve beekeeping practices by offering predictive tools th
 
 This project is mainly supported by the I-Site [E2S-UPPA](https://e2s-uppa.eu/fr/index.html), a french consortium composed of [CNRS](https://www.cnrs.fr/), [INRIA](https://www.inria.fr/), [INRAE](https://www.inrae.fr/) that assists companies and public organizations in their energy and environmental transition.
 
-Partnerships with public institutions, as well as SMEs are one of the main motivations for the existence of GreenAi Uppa. 
+Partnerships with public institutions, as well as SMEs are one of the main motivations for the existence of GreenAI Uppa. 
  - [AltaNoveo](https://www.cwall.fr/)
  - [Aquitaine Science Transfert](https://www.ast-innovations.com/)
  - [Technopole Hélioparc](https://helioparc.fr/)
@@ -248,7 +248,7 @@ We wish to bring together different people from different communities but with o
 <img src="images/sebastien.png" align="center" width="200"/>
 After a PHD thesis defended in 2008, at [Institut de Marseille](https://www.i2m.univ-amu.fr) Sebastien worked as Associated professor at [Université d'Angers](https://www.univ-angers.fr/fr/index.html) in the lab [LAREMA](https://math.univ-angers.fr/LAREMA/) where he defended his Habilitation thesis in 2014.
 He found the AI start-up [LumeanAI](https://www.lumenai.fr/) in 2015 and the non-profit organization [IAPau](http://www.iapau.fr/) in 2016.
-Since 2020, he is researcher at the [LMAP](https://lma-umr5142.univ-pau.fr/fr/index.html) at [Université de Pau et des Pays de l'Adour](https://www.univ-pau.fr/fr/index.html) and created the GreenAi UPPA Group.
+Since 2020, he is researcher at the [LMAP](https://lma-umr5142.univ-pau.fr/fr/index.html) at [Université de Pau et des Pays de l'Adour](https://www.univ-pau.fr/fr/index.html) and created the GreenAI UPPA Group.
 His research interest are online learning, mathematical statistics, information theory for machine learning  and more recently, in the applications of these activities to deep learning techniques and environmental challenges. 
 For contact, send an email at sebastien[dot]loustau[at]univ-pau.fr
 
@@ -265,28 +265,34 @@ For contact, send an email at paul[dot]gay[at]univ-pau.fr
 ### Matthieu Francois
 
 <img src="images/matthieu.png" align="center" width="200"/>
-Matthieu obtained his Master's degree in 2020 at [Université de Grenoble Alpes](https://www.univ-grenoble-alpes.fr/). After some experiences as Data Scientist, he joined GreenAi UPPA Team in Septembre 2021.
+Matthieu obtained his Master's degree in 2020 at [Université de Grenoble Alpes](https://www.univ-grenoble-alpes.fr/). After some experiences as Data Scientist, he joined GreenAI UPPA Team in Septembre 2021.
 For contact, send an email at matthieu[dot]francois[at]univ-pau.fr \
 [Web page](https://www.linkedin.com/in/matthieufran%C3%A7ois/)
 
 ### Jordy Palafox
 
 <img src="images/jordy.png" align="center" width="220"/>
-Jordy defended his Phd Thesis in 2018 at [UPPA](https://www.univ-pau.fr/fr/index.html) [LMAP](https://lma-umr5142.univ-pau.fr/fr/index.html). After a post-doc in 2018-2019 at La Rochelle in the lab [LASIE](https://lasie.univ-larochelle.fr/), he taught at CY Tech two years and followed training in Data Science. He joined GreenAi UPPA group in Septembre 2021.
+Jordy defended his Phd Thesis in 2018 at [UPPA](https://www.univ-pau.fr/fr/index.html) [LMAP](https://lma-umr5142.univ-pau.fr/fr/index.html). After a post-doc in 2018-2019 at La Rochelle in the lab [LASIE](https://lasie.univ-larochelle.fr/), he taught at CY Tech two years and followed training in Data Science. He joined GreenAI UPPA group in Septembre 2021.
 For contact, send an email at jordy[dot]palafox[at]univ-pau.fr \
 [Web page](https://www.linkedin.com/in/jpalafox1242/)
 
 ### Nicolas Tirel
 
 <img src="images/nicolas.png" align="center" width="220"/>
-Nicolas graduated from the engineering school (CYTech)[https://cytech.cyu.fr/] (ex-EISTI) at Pau, France in 2021 with a speciality in Computer Science and Artificial Intelligence. He is passionated about Data Science since he went to Taïwan for an Exchange Semester during his school time. Thus, he decided to join GreenAI UPPA team on a project about two fields that are really meaningful for him : education and environment. For contact, send an email at nicolas[dot]tirel[at]univ-pau.fr \
+Nicolas graduated from the engineering school [CYTech](https://cytech.cyu.fr/) (ex-EISTI) at Pau, France in 2021 with a speciality in Computer Science and Artificial Intelligence. He is passionated about Data Science since he went to Taïwan for an Exchange Semester during his school time. Thus, he decided to join GreenAI UPPA team on a project about two fields that are really meaningful for him : education and environment. For contact, send an email at nicolas[dot]tirel[at]univ-pau.fr \
 [Web page](https://www.linkedin.com/in/nicolas-tirel-427b42172/)
 
 ### Simon Lebeaud
 
 <img src="images/simon.png" align="center" width="220"/>
-Simon obtained is engineering degree in 2021 at the (National Institute of Applied Sciences)[https://www.insa-rouen.fr/], Rouen Normandie, with a computer science major. Right after graduating he joined GreenAI UPPA in January 2022, where he started a collaboration with (Hizkia Informatique)[https://www.hizkia.eu/]. For contact, send an email at simon[dot]lebeaud[at]univ-pau.fr
+Simon obtained is engineering degree in 2021 at the [National Institute of Applied Sciences](https://www.insa-rouen.fr/), Rouen Normandie, with a computer science major. Right after graduating he joined GreenAI UPPA in January 2022, where he started a collaboration with [Hizkia Informatique](https://www.hizkia.eu/). For contact, send an email at simon[dot]lebeaud[at]univ-pau.fr \
 [Web page](www.linkedin.com/in/simon-lebeaud)
+
+### Fatou Kiné Sow
+
+<img src="images/fatou.png" align="center" width="220"/>
+Fatou obtained her master’s degree in Big Data in 2021 at [Université de Pau et des Pays de l’Adour](https://www.univ-pau.fr/). After a year of experience as Data Scientist, she joined Green AI in December 2021 in collaboration with Prof en Poche on a computer vision and AR project.  For contact, send an email at fksow[at]univ-pau.fr \
+[Web page](https://www.linkedin.com/in/fatou-kine-sow-6b2145152/)
 
 ## Contact
 
