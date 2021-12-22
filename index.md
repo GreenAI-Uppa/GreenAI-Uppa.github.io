@@ -265,7 +265,7 @@ For contact, send an email at paul[dot]gay[at]univ-pau.fr
 ### Matthieu Francois
 
 <img src="images/matthieu.png" align="center" width="200"/>
-Matthieu obtained his Master's degree in 2020 at [Université de Grenoble Alpes](https://www.univ-grenoble-alpes.fr/). After some experiences as Data Consultant, he joined GreenAi UPPA Team in Septembre 2021.
+Matthieu obtained his Master's degree in 2020 at [Université de Grenoble Alpes](https://www.univ-grenoble-alpes.fr/). After some experiences as Data Scientist, he joined GreenAi UPPA Team in Septembre 2021.
 For contact, send an email at matthieu[dot]francois[at]univ-pau.fr \
 [Web page](https://www.linkedin.com/in/matthieufran%C3%A7ois/)
 
@@ -275,6 +275,18 @@ For contact, send an email at matthieu[dot]francois[at]univ-pau.fr \
 Jordy defended his Phd Thesis in 2018 at [UPPA](https://www.univ-pau.fr/fr/index.html) [LMAP](https://lma-umr5142.univ-pau.fr/fr/index.html). After a post-doc in 2018-2019 at La Rochelle in the lab [LASIE](https://lasie.univ-larochelle.fr/), he taught at CY Tech two years and followed training in Data Science. He joined GreenAi UPPA group in Septembre 2021.
 For contact, send an email at jordy[dot]palafox[at]univ-pau.fr \
 [Web page](https://www.linkedin.com/in/jpalafox1242/)
+
+### Nicolas Tyrel
+
+<img src="images/nicolas.png" align="center" width="220"/>
+Nicolas graduated from the engineering school (CYTech)[https://cytech.cyu.fr/] (ex-EISTI) at Pau, France in 2021 with a speciality in Computer Science and Artificial Intelligence. He is passionated about Data Science since he went to Taïwan for an Exchange Semester during his school time. Thus, he decided to join GreenAI UPPA team on a project about two fields that are really meaningful for him : education and environment. For contact, send an email at nicolas[dot]tirel[at]univ-pau.fr \
+[Web page](https://www.linkedin.com/in/nicolas-tirel-427b42172/)
+
+### Simon Lebeaud
+
+<img src="images/simon.png" align="center" width="220"/>
+Simon obtained is engineering degree in 2021 at the (National Institute of Applied Sciences)[https://www.insa-rouen.fr/], Rouen Normandie, with a computer science major. Right after graduating he joined GreenAI UPPA in January 2022, where he started a collaboration with (Hizkia Informatique)[https://www.hizkia.eu/]. For contact, send an email at simon[dot]lebeaud[at]univ-pau.fr
+
 
 ## Contact
 
