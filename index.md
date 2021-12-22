@@ -120,7 +120,7 @@ Deep Learning has become extremely popular to solve many supervised machine lear
     <b>&#8226; September, 13th 2021 - Sébastien Loustau</b>, team member, Kick Off GreenAI Uppa
   </summary>
   <p>
-    <b>Abstract:</b> Official kick off of the GreenAI UPPA project ! After presenting the climatic and mathematical motivations (has the earth ever been this hot before ?), we introduce the context and support we have from the public institutions and the SMEs. We explain how the team will be organized, and inspired from the best of both worlds. Then we take 30 minuts to write our **elevator pitch**. Welcome to Jordy and Matthieu !
+    <b>Abstract:</b> Official kick off of the GreenAI UPPA project ! After presenting the climatic and mathematical motivations (has the earth ever been this hot before ?), we introduce the context and support we have from the public institutions and the SMEs. We explain how the team will be organized, and inspired from the best of both worlds. Then we take 30 minuts to write our <b>elevator pitch</b>. Welcome to Jordy and Matthieu !
 <br>
 <a href="/seminars/sem4.pdf">Slide here</a>
   </p>
@@ -293,6 +293,13 @@ Simon obtained is engineering degree in 2021 at the [National Institute of Appli
 <img src="images/fatou.png" align="center" width="220"/>
 Fatou obtained her master’s degree in Big Data in 2021 at [Université de Pau et des Pays de l’Adour](https://www.univ-pau.fr/). After a year of experience as Data Scientist, she joined Green AI in December 2021 in collaboration with Prof en Poche on a computer vision and AR project.  For contact, send an email at fksow[at]univ-pau.fr \
 [Web page](https://www.linkedin.com/in/fatou-kine-sow-6b2145152/)
+
+### Yanis Chaigneau
+
+<img src="images/yanis.png" align="center" width="220"/>
+Yanis obtained his engineering degree in 2021 at the [ISAE-SUPAERO](https://www.isae-supaero.fr/fr/), Toulouse, France, with a major in computer science and artificial intelligence as well as in environmental and energy studies. After some work in planetology and energy, he joined GreenAI UPPA in January 2022, as a part of a collaboration between the laboratory and Mellisphera. For contact, send an email at yanis[dot]chaigneau[at]univ-pau.fr \
+[Web page](https://www.linkedin.com/in/yanis-chaigneau/)
+
 
 ## Contact
 
