@@ -276,7 +276,7 @@ Jordy defended his Phd Thesis in 2018 at [UPPA](https://www.univ-pau.fr/fr/index
 For contact, send an email at jordy[dot]palafox[at]univ-pau.fr \
 [Web page](https://www.linkedin.com/in/jpalafox1242/)
 
-### Nicolas Tyrel
+### Nicolas Tirel
 
 <img src="images/nicolas.png" align="center" width="220"/>
 Nicolas graduated from the engineering school (CYTech)[https://cytech.cyu.fr/] (ex-EISTI) at Pau, France in 2021 with a speciality in Computer Science and Artificial Intelligence. He is passionated about Data Science since he went to Taïwan for an Exchange Semester during his school time. Thus, he decided to join GreenAI UPPA team on a project about two fields that are really meaningful for him : education and environment. For contact, send an email at nicolas[dot]tirel[at]univ-pau.fr \
