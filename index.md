@@ -30,11 +30,28 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 ### Upcoming seminars and events
 
 - **The 13th, 15th, 20th December 2021**, new arrival in the GreenAI team !
-- **The 20th December 2021**, upcoming seminar of Matthieu François.
 - **The 3rd January 2022**, upcoming seminar of Sébastien Loustau, and Team progress summary with new team members !
 - **The 17th January 2022**, upcoming seminar of Jordy Palafox.
 
 ### Past seminars and events
+
+<details>
+  <summary style="cursor: pointer">
+    <b>&#8226; December, 20th 2021 - Matthieu François</b>, team member, AI in crisis management - Media management with AI
+  </summary>
+  <p>
+    <b>Abstract:</b> Crisis management requires the management of a large amount of heterogeneous information. This seminar focuses on the processing of media (TV news, tweets), whose monitoring is crucial for decision makers to understand the perception of a crisis by the general public.
+
+It will be presented first efforts to build a monitoring system: (i) open-source libraries are used to extract speech and text embedded in videos (ii) Named-Entity Recognition is applied to bring a summary of the information to a human operator.
+
+In particular, an important issue is the construction of a model able to detect concepts appearing during the crisis and thus unknown to the model at the time of learning.
+
+We will study three complementary strategies based on regular expressions, word embedding comparisons and a BERT model learned online as training data arrives.
+
+  </p>
+  <br>
+  <a href="/seminars/approxbayes.pdf">Slides here</a>
+</details>
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
