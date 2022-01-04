@@ -50,7 +50,7 @@ We will study three complementary strategies based on regular expressions, word 
 
   </p>
   <br>
-  <a href="/seminars/approxbayes.pdf">Slides here</a>
+  <a href="/seminars/sem8.pdf">Slides here</a>
 </details>
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
