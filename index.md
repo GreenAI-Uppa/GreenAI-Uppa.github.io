@@ -29,11 +29,27 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 ### Upcoming seminars and events
 
-- **The 13th, 15th, 20th December 2021**, new arrival in the GreenAI team !
-- **The 3rd January 2022**, upcoming seminar of Sébastien Loustau, and Team progress summary with new team members !
+
 - **The 17th January 2022**, upcoming seminar of Jordy Palafox.
+  <p>
+    <b> Abstract: </b> In this talk, we give some details about code optimization of the MathIA engine realized by Prof en Poche. We explore some clues about k-medoids clustering methods. After that,  we take care about the consumption of the algorithm measured by AIPowerMeter compared to the real consumption obtained with Schneider Power meters.
+  </p>
+
+- **The 31th January 2022**, upcoming seminar of Paul Gay.
+
+
+- **The 14th February 2022**, upcoming seminar of Sébastien Loustau.
 
 ### Past seminars and events
+
+**The 3rd January 2022**, upcoming seminar of Sébastien Loustau, and Team progress summary with new team members !
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
+**The 13th, 15th, 20th December 2021**, new arrival in the GreenAI team !
+
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
 <details>
   <summary style="cursor: pointer">
