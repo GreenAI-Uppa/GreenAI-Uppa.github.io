@@ -38,7 +38,7 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; January, 17th 2022 - Jordy Palafox</b>, team member
+    <b>&#8226; January, 17th 2022 - Jordy Palafox</b>, team member, Clustering and recommandation system for adaptative learning 
   </summary>
   <p>
     <b>Abstract:</b> In this talk, we give some details about code optimization of the MathIA engine realized by Prof en Poche. We explore some clues about k-medoids clustering methods. After that,  we take care about the consumption of the algorithm measured by AIPowerMeter compared to the real consumption obtained with Schneider Power meters.
