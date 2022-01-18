@@ -161,9 +161,9 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
 
 ## the news will appear on the right side 
 news: 
-   20/12/2021: 'Upcoming seminar: AI for news & Crisis'
-   03/01/2022: 'Upcoming seminar with S. Loustau and the team grows !'
-   17/01/2022: 'Upcoming seminar with J. Palafox'
+   24/01/2022: 'Reading Group'
+   31/01/2022: 'Upcoming seminar with Paul gay'
+   14/02/2022: 'Upcoming seminar with Sébastien Loustau'
 
 pins:
   ACML: <a href="https://greenai-uppa.github.io/power_efficient_deep_learning/">click here</a>
