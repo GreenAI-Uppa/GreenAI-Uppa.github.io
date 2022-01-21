@@ -39,7 +39,7 @@ Deep Learning has become extremely popular to solve many supervised machine lear
   <br>
 </details>
 
-- **The 14th February 2022**, upcoming seminar of Sébastien Loustau.
+<b>&#8226; The 14th February 2022</b>, upcoming seminar of Sébastien Loustau.
 
 ### Past seminars and events
 
