@@ -162,7 +162,7 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
 ## the news will appear on the right side 
 news: 
    24/01/2022: 'Reading Group'
-   31/01/2022: 'Upcoming seminar with Paul gay'
+   31/01/2022: 'Social computing for environnment applications with Paul gay'
    14/02/2022: 'Upcoming seminar with Sébastien Loustau'
 
 pins:
