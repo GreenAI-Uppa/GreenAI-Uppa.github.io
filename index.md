@@ -273,7 +273,7 @@ Our challenge is to improve beekeeping practices by offering predictive tools th
 This project is mainly supported by the I-Site [E2S-UPPA](https://e2s-uppa.eu/fr/index.html), a french consortium composed of [CNRS](https://www.cnrs.fr/), [INRIA](https://www.inria.fr/), [INRAE](https://www.inrae.fr/) that assists companies and public organizations in their energy and environmental transition.
 
 Partnerships with public institutions, as well as SMEs are one of the main motivations for the existence of GreenAI Uppa. 
- - [AltaNoveo](https://www.cwall.fr/)
+ - [Altanoveo](https://www.cwall.fr/)
  - [Aquitaine Science Transfert](https://www.ast-innovations.com/)
  - [Technopole Hélioparc](https://helioparc.fr/)
  - [Mellisphera](https://www.mellisphera.com/)
