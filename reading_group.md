@@ -8,8 +8,6 @@ excerpt: "Longer intro"
 aside: true 
 ---
 
-# Reading Group
-
 Every 6 weeks, we have a cycle of reading group where each team member presents two researchs articles.
 
 ## Wave 2 : 24/01/22
