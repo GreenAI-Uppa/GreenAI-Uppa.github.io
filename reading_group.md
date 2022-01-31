@@ -19,18 +19,18 @@ Every 6 weeks, we have a cycle of reading group where each team member presents 
 <a href="reading/vague-janvier-2022/BNN.pdf">Slides here</a>
 
 [1] « XNOR-Net: ImageNet Classification Using Binary
-Convolutional Neural Networks », M. Rastegari, V. Ordonez, J. Redmon, A. Farhadi. See : https://arxiv.org/pdf/1603.05279.pdf 
+Convolutional Neural Networks », M. Rastegari, V. Ordonez, J. Redmon, A. Farhadi. See the full article <a href="https://arxiv.org/pdf/1603.05279.pdf ">here</a>. 
 <p float="left">
   <img src="/images/reading/vague-janvier-2022/mf/PXL_20220131_095525754.jpg" alt="alt text" title="handwritten note 1" width="150"/>
   <img src="/images/reading/vague-janvier-2022/mf/PXL_20220131_095539290.jpg" alt="alt text" title="handwritten note 2" width="150"/>
 </p>
 
-[2] « XNOR-Net++: Improved binary neural networks » , A. Bulat, G. Tzimiropoulos. See https://arxiv.org/pdf/1909.13863.pdf
+[2] « XNOR-Net++: Improved binary neural networks » , A. Bulat, G. Tzimiropoulos. See the full article <a href="https://arxiv.org/pdf/1909.13863.pdf">here</a>. 
 
 
-[3] « BinaryConnect: Training Deep Neural Networks with binary weights during propagations »,  M. Courbariaux, Y. Bengio, J-P. David. See : https://arxiv.org/pdf/1511.00363.pdf
+[3] « BinaryConnect: Training Deep Neural Networks with binary weights during propagations »,  M. Courbariaux, Y. Bengio, J-P. David. See the full article <a href="https://arxiv.org/pdf/1511.00363.pdf">here</a>. 
 
-[4] « Binarized Neural Networks: Training Neural Networks with Weights and Activations Constrained to +1 or −1 », M. Courbariaux, I. Hubara, D. Soudry, R. El-Yaniv, Y. Bengio. See : https://arxiv.org/pdf/1602.02830.pdf
+[4] « Binarized Neural Networks: Training Neural Networks with Weights and Activations Constrained to +1 or −1 », M. Courbariaux, I. Hubara, D. Soudry, R. El-Yaniv, Y. Bengio. See the full article <a href="https://arxiv.org/pdf/1602.02830.pdf">here</a>. 
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
@@ -41,12 +41,12 @@ Convolutional Neural Networks », M. Rastegari, V. Ordonez, J. Redmon, A. Farhad
 For more details, see :
 
 [1] « Multi-scale dense networkds for resource efficient image classification » , G. Huang, D. Chen,T. Li, F. Wu
-L. van der Maaten, K. Weinberger. See :
-https://arxiv.org/pdf/1703.09844.pdf
+L. van der Maaten, K. Weinberger. See the full article <a href="https://arxiv.org/pdf/1703.09844.pdf">here</a>.
 
 [2] « SPINN : Synergistic Progressive Inference of Neural Networks over device and cloud », S. Laskaridis, S. I. Venieris,
-M. Almeida, I. Leontiadis, N. D. Lane. See :
-https://arxiv.org/pdf/2008.06402.pdf
+M. Almeida, I. Leontiadis, N. D. Lane. See the full article <a href="https://arxiv.org/pdf/2008.06402.pdf">here</a>.
+
+
 
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
@@ -59,18 +59,18 @@ See the jupyte-notebook <a href="reading/vague-janvier-2022/Pruning_SNIP_FORCE/F
 See the complete <a href="https://www.semanticscholar.org/paper/Skeletonization%3A-A-Technique-for-Trimming-the-Fat-a-Mozer-Smolensky/a87953825b0bea2a5d52bfccf09d2518295c5053">article</a>. 
 
 
-[2] « SNIP: Single-shot Network Pruning based on Connection Sensitivity », N. Lee, T. Ajanthan, P. H. S. Torr. See http://arxiv.org/abs/1810.02340
+[2] « SNIP: Single-shot Network Pruning based on Connection Sensitivity », N. Lee, T. Ajanthan, P. H. S. Torr. See the full article <a href="http://arxiv.org/abs/1810.02340">here</a>.
 
 
-[3] « Progressive Skeletonization: Trimming more fat from a network at initialization », P. de Jorge, A. Sanyal, H. S. Behl, P. H. S. Torr, G. Rogez, et P. K. Dokania,  March 2021. See http://arxiv.org/abs/2006.09081
+[3] « Progressive Skeletonization: Trimming more fat from a network at initialization », P. de Jorge, A. Sanyal, H. S. Behl, P. H. S. Torr, G. Rogez, et P. K. Dokania,  March 2021. See the full article <a href="http://arxiv.org/abs/2006.09081">here</a>.
 
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
 ### *Pruning with budget* and *Regularization* : Jordy Palafox
-[1] « Deep Rewiring: Training very sparse deep networks », G. Bellec, D. Kappel, W. Maass, R. Legenstein. See https://arxiv.org/pdf/1711.05136.pdf
+[1] « Deep Rewiring: Training very sparse deep networks », G. Bellec, D. Kappel, W. Maass, R. Legenstein. See the full article <a href="https://arxiv.org/pdf/1711.05136.pdf">here</a>.
 
-[2] « Statistical guarantees for regularized neural networks », M. Taheri, F. Xie, J. Lederer. See the full <a href="https://www.sciencedirect.com/science/article/pii/S0893608021001714">article</a>.
+[2] « Statistical guarantees for regularized neural networks », M. Taheri, F. Xie, J. Lederer. See the full article <a href="https://www.sciencedirect.com/science/article/pii/S0893608021001714">here</a>.
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
