@@ -14,7 +14,7 @@ Every 6 weeks, we have a cycle of reading group where each team member presents 
 
 ### *Binarization* : Fatou Kiné Sow & Matthieu François 
 
-<a href="reading/vague-janvier-2022/BNN.pdf">Slides here</a>
+<a href="/images/reading/vague-janvier-2022/BNN.pdf">Slides here</a>
 
 [1] « XNOR-Net: ImageNet Classification Using Binary
 Convolutional Neural Networks », M. Rastegari, V. Ordonez, J. Redmon, A. Farhadi. See the full article <a href="https://arxiv.org/pdf/1603.05279.pdf ">here</a>. 
@@ -34,7 +34,7 @@ Convolutional Neural Networks », M. Rastegari, V. Ordonez, J. Redmon, A. Farhad
 
 ### About *Early Exit* : Simon Lebeaud
 
-<a href="/vague-janvier-2022/EarlyExits.pdf">Slides here</a>
+<a href="/images/reading/vague-janvier-2022/EarlyExits.pdf">Slides here</a>
 
 For more details, see :
 
@@ -51,7 +51,7 @@ M. Almeida, I. Leontiadis, N. D. Lane. See the full article <a href="https://arx
 
 ### *Pruning* : Nicolas Tirel & Yanis Chaignaud
 
-See the jupyte-notebook <a href="reading/vague-janvier-2022/Pruning_SNIP_FORCE/Force_pruning.ipynb">here</a>.
+See the jupyte-notebook <a href="/images/reading/vague-janvier-2022/Pruning_SNIP_FORCE/Force_pruning.ipynb">here</a>.
 
 [1] « Skeletonization: A Technique for Trimming the Fat from a Network via Relevance Assessment », M. C. Mozer et P. Smolensky, 1988.
 See the complete <a href="https://www.semanticscholar.org/paper/Skeletonization%3A-A-Technique-for-Trimming-the-Fat-a-Mozer-Smolensky/a87953825b0bea2a5d52bfccf09d2518295c5053">article</a>. 
