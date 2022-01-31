@@ -329,7 +329,8 @@ Nicolas graduated from the engineering school [CYTech](https://www.linkedin.com/
 
 <img src="images/simon.png" align="center" width="220"/>
 Simon obtained is engineering degree in 2021 at the [National Institute of Applied Sciences](https://www.insa-rouen.fr/), Rouen Normandie, with a computer science major. Right after graduating he joined GreenAI UPPA in January 2022, where he started a collaboration with [Hizkia Informatique](https://www.hizkia.eu/). For contact, send an email at simon[dot]lebeaud[at]univ-pau.fr \
-[Web page](www.linkedin.com/in/simon-lebeaud)
+[Web page](https://www.linkedin.com/in/simon-lebeaud/)
+
 
 ### Fatou Kiné Sow
 
