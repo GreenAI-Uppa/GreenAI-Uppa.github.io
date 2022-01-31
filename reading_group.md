@@ -67,7 +67,7 @@ See the complete <a href="https://www.semanticscholar.org/paper/Skeletonization%
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
-### *Pruning with bugdget* and *Regularization* : Jordy Palafox
+### *Pruning with budget* and *Regularization* : Jordy Palafox
 [1] « Deep Rewiring: Training very sparse deep networks », G. Bellec, D. Kappel, W. Maass, R. Legenstein. See https://arxiv.org/pdf/1711.05136.pdf
 
 [2] « Statistical guarantees for regularized neural networks », M. Taheri, F. Xie, J. Lederer. See the full <a href="https://www.sciencedirect.com/science/article/pii/S0893608021001714">article</a>.
