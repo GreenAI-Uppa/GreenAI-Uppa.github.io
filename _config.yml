@@ -130,7 +130,7 @@ navigation_header:
 - title: Team 
   url: /#team-members
 - title : Reading Group
-  url: /#reading_group  
+  url: /reading_group  
 - title: AI Power Meter
   url: https://github.com/GreenAI-Uppa/deep_learning_power_measure
 
