@@ -49,9 +49,9 @@ M. Almeida, I. Leontiadis, N. D. Lane. See the full article <a href="https://arx
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
-### *Pruning* : Nicolas Tirel & Yanis Chaignaud
+### *Pruning* : Nicolas Tirel & Yanis Chaigneau
 
-See the jupyte-notebook <a href="/images/reading/vague-janvier-2022/Pruning_SNIP_FORCE/Force_pruning.ipynb">here</a>.
+See the Jupyter-notebook <a href="/images/reading/vague-janvier-2022/Pruning_SNIP_FORCE/Force_pruning.ipynb">here</a>.
 
 [1] « Skeletonization: A Technique for Trimming the Fat from a Network via Relevance Assessment », M. C. Mozer et P. Smolensky, 1988.
 See the complete <a href="https://www.semanticscholar.org/paper/Skeletonization%3A-A-Technique-for-Trimming-the-Fat-a-Mozer-Smolensky/a87953825b0bea2a5d52bfccf09d2518295c5053">article</a>. 
