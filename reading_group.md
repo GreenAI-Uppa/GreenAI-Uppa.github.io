@@ -8,11 +8,14 @@ excerpt: "Longer intro"
 aside: true 
 ---
 
-Every 6 weeks, we have a cycle of reading group where each team member presents two researchs articles.
 
-## Wave 2 : 24/01/22
+## Reading Group
 
-### *Binarization* : Fatou Kiné Sow & Matthieu François 
+Our reading group meets quaterly and provides foundations and up-to-date information on topics in power-efficient deep learning, mathematical statistics and optimization. We give participants valuable experience in leading group discussions and share state-of-the-art machine learning. For each session, papers are assigned in advance, and one to two participant guide the discussion.
+
+### 2022 Q1: 24/01/22
+
+- *Binarization of Neural Networks* by Fatou Kiné Sow & Matthieu François 
 
 <a href="/images/reading/vague-janvier-2022/BNN.pdf">Slides here</a>
 
@@ -32,7 +35,7 @@ Convolutional Neural Networks », M. Rastegari, V. Ordonez, J. Redmon, A. Farhad
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
-### About *Early Exit* : Simon Lebeaud
+- *Early Exit and Device to Cloud* by Simon Lebeaud
 
 <a href="/images/reading/vague-janvier-2022/EarlyExits.pdf">Slides here</a>
 
@@ -49,7 +52,7 @@ M. Almeida, I. Leontiadis, N. D. Lane. See the full article <a href="https://arx
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
-### *Pruning* : Nicolas Tirel & Yanis Chaigneau
+- *Pruning* by Nicolas Tirel & Yanis Chaigneau
 
 See the Jupyter-notebook <a href="/images/reading/vague-janvier-2022/Pruning_SNIP_FORCE/Force_pruning.ipynb">here</a>.
 
@@ -65,7 +68,7 @@ See the complete <a href="https://www.semanticscholar.org/paper/Skeletonization%
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
-### *Pruning with budget* and *Regularization* : Jordy Palafox
+- *Pruning with budget* and *Regularization* : Jordy Palafox
 [1] « Deep Rewiring: Training very sparse deep networks », G. Bellec, D. Kappel, W. Maass, R. Legenstein. See the full article <a href="https://arxiv.org/pdf/1711.05136.pdf">here</a>.
 
 [2] « Statistical guarantees for regularized neural networks », M. Taheri, F. Xie, J. Lederer. See the full article <a href="https://www.sciencedirect.com/science/article/pii/S0893608021001714">here</a>.
@@ -73,9 +76,9 @@ See the complete <a href="https://www.semanticscholar.org/paper/Skeletonization%
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
 
-## Wave 1 : 29/10/2021
+### 2021 Q4: 29/10/2021
 
-### *Metrical Task System, Online Learning and Power Management* with Matthieu François :
+- *Metrical Task System, Online Learning and Power Management* by Matthieu François :
 
 [1] « On-line Learning and the Metrical Task System Problem », A. Blum, C. Burch. See the full article <a href="https://link.springer.com/article/10.1023/A:1007621832648">here</a>.
 
@@ -90,7 +93,7 @@ See the complete <a href="https://www.semanticscholar.org/paper/Skeletonization%
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
-### *Metrical Task System and K-server problem* with Jordy Palafox :
+- *Metrical Task System and K-server problem* by Jordy Palafox :
 
 [1] « An Optimal On-Line Algorithm for Metrical Task System », A. Borodin, N. Linial, M.E. Saks. See the full article <a href="https://www.cs.huji.ac.il/~nati/PAPERS/bls_online.pdf">here</a>.
 
@@ -104,6 +107,6 @@ See the complete <a href="https://www.semanticscholar.org/paper/Skeletonization%
   <img src="/images/reading/vague-octobre-2021/jp/IMG_1991.jpg" alt="alt text" title="handwritten note 3" width="150"/>
 </p>
 
-## Contact
+### Contact
 
-Feel free to contact us if you want to contribute: contact [Paul](mailto:paul.gay@univ-pau.fr) or [Sébastien](https://sebastienloustau.github.io)
+You want to join the team ? Feel free to contact us if you want to contribute: contact [Paul](mailto:paul.gay@univ-pau.fr) or [Sébastien](https://sebastienloustau.github.io)
