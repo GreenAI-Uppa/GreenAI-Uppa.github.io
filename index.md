@@ -31,17 +31,37 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; The 31th January 2022</b>, upcoming seminar of Paul Gay. Social computing for environnment applications. 
+    <b>&#8226; The 14th February 2022</b>, upcoming seminar of Sébastien Loustau, MCMC optimization for high-dimensional problems.
+  </summary>
+  <p>
+    <b>Abstract:</b> The aim of this talk is to introduce a greedy MCMC optimizer for Deep Learning. After a gentle start about the convergence of standard Meyropolis Hasting algorithm, and discussion about MCMC alternatives, I will present recent MCMC challenging algorithms for recent high dimensional machine learning problems, where the dimension of the Markov Chain could change over time. Then, I will describe how to adapt these ideas to build a new optimizer for Deep Learning and shows its nice properties to learn sparse deep nets, as well as the next challenges to have a competitive counterpart of standard stochastic gradient methods.	
+  </p>
+  <br>
+</details> 
+
+<!-- <details>
+  <summary style="cursor: pointer">
+    <b>&#8226; The 21st Marsh 2022</b>, upcoming seminar of <a href='https://tree.univ-pau.fr/fr/index.html'>TREE lab</a> by Romain Carrausse, Contestations, conceptions and modes of government of ecological modernization. A reading from a political geography based on the cases of agrivolatism and energy communities.
+  </summary>
+  <p>
+    <b>Abstract:</b> Romain Carrausse is a post-doctoral fellow at the TEEN research chair and contributes to SoWeSI, a research project conducted in partnership between the company Total Energies and the UPPA.  He is working on how ecological modernization is governed and contested at different scales and on different objects. Two works in progress will be presented. The first is on agrivoltaics: a production system that combines energy production, using photovoltaic panels, and agriculture on the same plot of land. We will discuss how the energy sector legitimizes this innovation through a process of internalization of the criticism and demonstration of the agro-economic benefits of the shade produced by the photovoltaic panels. The second is about energy communities. In a context where renewable energy projects face numerous oppositions, locally governed projects, grouped under the term energy community, are experiencing a social and political dynamic in France. A multiscalar approach will be used to analyze the strategies and concepts of energy transition that are reflected in the institutionalization and growth of energy communities.	
+  </p>
+  <br>
+</details> -->
+
+
+
+### Past seminars and events
+
+<details>
+  <summary style="cursor: pointer">
+    <b>&#8226; January, 31st 2022 - Paul Gay</b>, team member, Social computing for environnment applications. 
   </summary>
   <p>
     <b>Abstract:</b> This seminar is an introduction to social computing with a focus on environnemental applications ie the behavior or the resilience of a socio-economic object when triggered by an environnemental hazard. This subject encompasses for example studying a crowd opinion to a new policy through social network analysis, or broadcast media representation thanks to NLP and graph analysis methods. After a general introduction, the talk will focus on two case studies : The artificial intelligence on crisis management, and the community based energy storage planning to improve photovoltaic system adoption. 
   </p>
   <br>
 </details>
-
-<b>&#8226; The 14th February 2022</b>, upcoming seminar of Sébastien Loustau.
-
-### Past seminars and events
 
 <details>
   <summary style="cursor: pointer">

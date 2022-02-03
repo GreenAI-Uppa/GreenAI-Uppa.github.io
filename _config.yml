@@ -163,9 +163,8 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
 
 ## the news will appear on the right side 
 news: 
-   24/01/2022: 'Reading Group'
-   31/01/2022: 'Social computing for environment applications with Paul Gay'
-   14/02/2022: 'Upcoming seminar with Sébastien Loustau'
+   14/02/2022: 'MCMC optimization for high-dimensional problems with Sébastien Loustau'
+   21/03/2022: 'Upcoming seminar with TREE lab'
 
 pins:
   ACML: <a href="https://greenai-uppa.github.io/power_efficient_deep_learning/">click here</a>
