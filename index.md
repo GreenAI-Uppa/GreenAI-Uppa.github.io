@@ -38,6 +38,8 @@ Deep Learning has become extremely popular to solve many supervised machine lear
   </p>
 </details> 
 
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
 <details>
   <summary style="cursor: pointer">
     <b>&#8226; The 21st March 2022</b>, upcoming seminar of <a href='https://tree.univ-pau.fr/fr/index.html'>TREE lab</a> by Romain Carrausse, Contestations, conceptions and modes of government of ecological modernization. A reading from a political geography based on the cases of agrivolatism and energy communities.
@@ -60,6 +62,8 @@ Deep Learning has become extremely popular to solve many supervised machine lear
   </p>
   <a href="/seminars/sem10.pdf">Slides here</a>
 </details>
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
 <details>
   <summary style="cursor: pointer">
