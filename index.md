@@ -36,7 +36,6 @@ Deep Learning has become extremely popular to solve many supervised machine lear
   <p>
     <b>Abstract:</b> The aim of this talk is to introduce a greedy MCMC optimizer for Deep Learning. After a gentle start about the convergence of standard Meyropolis Hasting algorithm, and discussion about MCMC alternatives, I will present recent MCMC challenging algorithms for recent high dimensional machine learning problems, where the dimension of the Markov Chain could change over time. Then, I will describe how to adapt these ideas to build a new optimizer for Deep Learning and shows its nice properties to learn sparse deep nets, as well as the next challenges to have a competitive counterpart of standard stochastic gradient methods.	
   </p>
-  <br>
 </details> 
 
 <!-- <details>
@@ -69,10 +68,7 @@ Deep Learning has become extremely popular to solve many supervised machine lear
   </summary>
   <p>
     <b>Abstract:</b> In this talk, we give some details about code optimization of the MathIA engine realized by Prof en Poche. We explore some clues about k-medoids clustering methods. After that,  we take care about the consumption of the algorithm measured by AIPowerMeter compared to the real consumption obtained with Schneider Power meters.
-
   </p>
-  <br>
-  <!-- <a href="/seminars/sem8.pdf">Slides here</a> -->
 </details>
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
@@ -93,9 +89,7 @@ It will be presented first efforts to build a monitoring system: (i) open-source
 In particular, an important issue is the construction of a model able to detect concepts appearing during the crisis and thus unknown to the model at the time of learning.
 
 We will study three complementary strategies based on regular expressions, word embedding comparisons and a BERT model learned online as training data arrives.
-
   </p>
-  <br>
   <a href="/seminars/sem8.pdf">Slides here</a>
 </details>
 
@@ -143,11 +137,7 @@ We will study three complementary strategies based on regular expressions, word 
   </summary>
   <p>
     <b>Abstract:</b> As transformers are becoming the standard NLP tool, questions are raised about ethics, bias and energy consumption. This last topic is of importance as these models are the biggest ones in the large and hungry power deep learning model trend. In this seminar, I will present in the first part a conmprehensive tutorial on the principles of attention and how the transformers have conquered the state of the art. This details will equip us for the second part in which I will survey a number of methods which are concerned in making the transformers lighter and more available for practicionners with low computation resources.</p>
-
-<br>
-
-<a href="/seminars/sem7.pdf">Slides here</a>
-
+  <a href="/seminars/sem7.pdf">Slides here</a>
 </details>
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
@@ -158,9 +148,8 @@ We will study three complementary strategies based on regular expressions, word 
   </summary>
   <p>
     <b>Abstract:</b> Human impact on our planet is increasing the scale and the number of environmental disasters. During this seminar I'll present our join project with Altanoveo. This project is about AI integration to climate or industrial crisis management methods. I will describe the potential of IA in this domain and present two models on tweet classification and fire detection on natural images.
-<br>
-<a href="/seminars/sem6.pdf">Slide here</a>
   </p>
+  <a href="/seminars/sem6.pdf">Slide here</a>
 </details>
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
@@ -170,10 +159,9 @@ We will study three complementary strategies based on regular expressions, word 
     <b>&#8226; September, 27th 2021 - Sébastien Loustau</b>, team member, Introduction to convex optimization
   </summary>
   <p>
-    <b>Abstract:</b> In this lecture, I will introduce convex optimization theory and mirror descent. We start with a theoretical motivation and studyt of (stochastic) gradient descent, and then moove to the non-euclidean setting to derive mirror descent algorithm as a generalization of gradient descent. We finally apply it to the context of expert advices to recover the classical regret bound for exponential weighted averages previously presented in the first seminar in july, and discuss possible applications to Green AI.
-<br>
-<a href="/seminars/sem5.pdf">Slide here</a>
- </p>
+    <b>Abstract:</b> In this lecture, I will introduce convex optimization theory and mirror descent. We start with a theoretical motivation and studyt of (stochastic) gradient descent, and then moove to the non-euclidean setting to derive mirror descent algorithm as a generalization of gradient descent. We finally apply it to the context of expert advices to recover the classical regret bound for exponential weighted averages previously presented in the first seminar in july, and discuss   possible applications to Green AI.
+  </p>
+  <a href="/seminars/sem5.pdf">Slide here</a>
 </details>
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
@@ -184,9 +172,8 @@ We will study three complementary strategies based on regular expressions, word 
   </summary>
   <p>
     <b>Abstract:</b> Official kick off of the GreenAI UPPA project ! After presenting the climatic and mathematical motivations (has the earth ever been this hot before ?), we introduce the context and support we have from the public institutions and the SMEs. We explain how the team will be organized, and inspired from the best of both worlds. Then we take 30 minuts to write our <b>elevator pitch</b>. Welcome to Jordy and Matthieu !
-<br>
-<a href="/seminars/sem4.pdf">Slide here</a>
   </p>
+  <a href="/seminars/sem4.pdf">Slide here</a>
 </details>
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
@@ -197,9 +184,8 @@ We will study three complementary strategies based on regular expressions, word 
   </summary>
   <p>
     <b>Abstract:</b> The ability of measuring power and consumption of machine learning algorithms is necessary to design new efficient ones. Nowadays, there is a growing interest in the machine learning and IT community for measuring the consumption at different scale, from the AI model to the entire data center. In this talk, we survey recent tools and softwares based on RAPL and NVIDIA-SMI and highlight the dependancy to the hardware considered (CPU, GPU), as well as the different sources of consumption in the architecture of a computer. The final goal is to give to engineers and data scientists the capacity to measure the consumption of deep/machine learning algorithms via our open source software <a href="https://github.com/GreenAI-Uppa/deep_learning_power_measure">deep_learning_power_measure</a> developed by Green AI Uppa.
-<br>
-<a href="/seminars/sem3.pdf">Slide here</a>
   </p>
+  <a href="/seminars/sem3.pdf">Slide here</a>
 </details>
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
@@ -211,10 +197,8 @@ We will study three complementary strategies based on regular expressions, word 
   <p>
     <b>Abstract:</b> In this talk, I propose to present the main pros and cons of binarization via the gradient. We present two main historical attempt: 
     <a href="https://arxiv.org/abs/1511.00363">BinaryConnect</a> and <a href="https://arxiv.org/abs/1602.02830">BinaryNetwork</a>, based on two recent papers.
-<br>
-<a href="/seminars/sem2.pdf">Slide here</a>
-
   </p>
+  <a href="/seminars/sem2.pdf">Slide here</a>
 </details>
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
@@ -225,11 +209,9 @@ We will study three complementary strategies based on regular expressions, word 
   </summary>
   <p>
     <b>Abstract:</b> In this talk, I propose to introduce the main theoretical foundations of online learning and PAC-Bayesian theory and how it could be used to build new power-efficient algorithms. After a gentle start dedicated to the problem of prediction with expert's advices, I will present the PAC-Bayesian paradigm and how it is related to the context of aggregation of expert's advices and stochastic algorithms. We apply this theory to learn sparse deep nets where the networks are coming from recent advances in binarization (BinaryConnect, XNor-nets, Xnor-nets ++). We finally sketch how to generalize these results to more suitable divergences such as Optimal Transport, a nice and promising field in order to measure the cost of choosing sequentially a particular algorithm in terms of electric consumption. This talk is based on the two following papers: <a href="https://hal.archives-ouvertes.fr/hal-03262687/document">Learning with BOT</a> and <a href="https://hal.archives-ouvertes.fr/hal-03262679v3/document">Sparsity regret bounds for XNOR-Nets</a>. 
-  
-<br>
-<a href="/seminars/sem1.pdf">Slide here</a>
- 
   </p>
+  <a href="/seminars/sem1.pdf">Slide here</a>
+  
 </details>
 
 ### Training
