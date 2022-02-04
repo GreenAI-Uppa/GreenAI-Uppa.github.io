@@ -61,6 +61,7 @@ Deep Learning has become extremely popular to solve many supervised machine lear
     <b>Abstract:</b> This seminar is an introduction to social computing with a focus on environnemental applications ie the behavior or the resilience of a socio-economic object when triggered by an environnemental hazard. This subject encompasses for example studying a crowd opinion to a new policy through social network analysis, or broadcast media representation thanks to NLP and graph analysis methods. After a general introduction, the talk will focus on two case studies : The artificial intelligence on crisis management, and the community based energy storage planning to improve photovoltaic system adoption. 
   </p>
   <br>
+  <a href="/seminars/sem8.pdf">Slides here</a>
 </details>
 
 <details>
