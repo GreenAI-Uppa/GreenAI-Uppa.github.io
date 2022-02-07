@@ -21,10 +21,10 @@ Our reading group meets quaterly and provides foundations and up-to-date informa
 [1] « XNOR-Net: ImageNet Classification Using Binary
 Convolutional Neural Networks », M. Rastegari, V. Ordonez, J. Redmon, A. Farhadi. See the full article <a href="https://arxiv.org/pdf/1603.05279.pdf ">here</a>. 
 <p float="left">
-  <a href="/images/reading/vague-janvier-2022/mf/PXL_20220131_095525754.jpg">
+  <a href="/images/reading/vague-janvier-2022/mf/PXL_20220131_095525754.jpg" target="_blank">
     <img src="/images/reading/vague-janvier-2022/mf/PXL_20220131_095525754.jpg" alt="alt text" title="handwritten note 1" width="150"/>
   </a>
-  <a href="/images/reading/vague-janvier-2022/mf/PXL_20220131_095539290.jpg">
+  <a href="/images/reading/vague-janvier-2022/mf/PXL_20220131_095539290.jpg" target="_blank">
     <img src="/images/reading/vague-janvier-2022/mf/PXL_20220131_095539290.jpg" alt="alt text" title="handwritten note 2" width="150"/>
   </a>
 </p>
@@ -90,10 +90,10 @@ See the complete <a href="https://www.semanticscholar.org/paper/Skeletonization%
 
 
 <p float="left">
-  <a href="/images/reading/vague-octobre-2021/mf/PXL_20220131_095753838.jpg">
+  <a href="/images/reading/vague-octobre-2021/mf/PXL_20220131_095753838.jpg" target="_blank">
     <img src="/images/reading/vague-octobre-2021/mf/PXL_20220131_095753838.jpg" alt="alt text" title="handwritten note 1" width="150"/>
   </a>
-  <a href="/images/reading/vague-octobre-2021/mf/PXL_20220131_095800957.jpg">
+  <a href="/images/reading/vague-octobre-2021/mf/PXL_20220131_095800957.jpg" target="_blank">
     <img src="/images/reading/vague-octobre-2021/mf/PXL_20220131_095800957.jpg" alt="alt text" title="handwritten note 2" width="150"/>
   </a>
 </p>
@@ -109,13 +109,13 @@ See the complete <a href="https://www.semanticscholar.org/paper/Skeletonization%
 « Competitive Algorithms for Server Problems », M.S. Manasse, L.A. McGeoch, D.D. Sleator. Journal of algrithms 11, 208-230 (1990). See the full article <a href="https://www.sciencedirect.com/science/article/pii/019667749090003W">here</a>.
 
 <p float="left">
-  <a href="/images/reading/vague-octobre-2021/jp/IMG_1989.jpg">
+  <a href="/images/reading/vague-octobre-2021/jp/IMG_1989.jpg" target="_blank">
     <img src="/images/reading/vague-octobre-2021/jp/IMG_1989.jpg" alt="alt text" title="handwritten note 1" width="150"/>
   </a>
-  <a href="/images/reading/vague-octobre-2021/jp/IMG_1990.jpg">
+  <a href="/images/reading/vague-octobre-2021/jp/IMG_1990.jpg" target="_blank">
     <img src="/images/reading/vague-octobre-2021/jp/IMG_1990.jpg" alt="alt text" title="handwritten note 2" width="150"/>
   </a>
-  <a href="/images/reading/vague-octobre-2021/jp/IMG_1991.jpg">
+  <a href="/images/reading/vague-octobre-2021/jp/IMG_1991.jpg" target="_blank">
     <img src="/images/reading/vague-octobre-2021/jp/IMG_1991.jpg" alt="alt text" title="handwritten note 3" width="150"/>
   </a>
 </p>
