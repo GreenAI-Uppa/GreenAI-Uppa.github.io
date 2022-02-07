@@ -21,8 +21,12 @@ Our reading group meets quaterly and provides foundations and up-to-date informa
 [1] « XNOR-Net: ImageNet Classification Using Binary
 Convolutional Neural Networks », M. Rastegari, V. Ordonez, J. Redmon, A. Farhadi. See the full article <a href="https://arxiv.org/pdf/1603.05279.pdf ">here</a>. 
 <p float="left">
-  <img src="/images/reading/vague-janvier-2022/mf/PXL_20220131_095525754.jpg" alt="alt text" title="handwritten note 1" width="150"/>
-  <img src="/images/reading/vague-janvier-2022/mf/PXL_20220131_095539290.jpg" alt="alt text" title="handwritten note 2" width="150"/>
+  <a href="/images/reading/vague-janvier-2022/mf/PXL_20220131_095525754.jpg">
+    <img src="/images/reading/vague-janvier-2022/mf/PXL_20220131_095525754.jpg" alt="alt text" title="handwritten note 1" width="150"/>
+  </a>
+  <a href="/images/reading/vague-janvier-2022/mf/PXL_20220131_095539290.jpg">
+    <img src="/images/reading/vague-janvier-2022/mf/PXL_20220131_095539290.jpg" alt="alt text" title="handwritten note 2" width="150"/>
+  </a>
 </p>
 
 [2] « XNOR-Net++: Improved binary neural networks » , A. Bulat, G. Tzimiropoulos. See the full article <a href="https://arxiv.org/pdf/1909.13863.pdf">here</a>. 
@@ -86,8 +90,12 @@ See the complete <a href="https://www.semanticscholar.org/paper/Skeletonization%
 
 
 <p float="left">
-  <img src="/images/reading/vague-octobre-2021/mf/PXL_20220131_095753838.jpg" alt="alt text" title="handwritten note 1" width="150"/>
-  <img src="/images/reading/vague-octobre-2021/mf/PXL_20220131_095800957.jpg" alt="alt text" title="handwritten note 2" width="150"/>
+  <a href="/images/reading/vague-octobre-2021/mf/PXL_20220131_095753838.jpg">
+    <img src="/images/reading/vague-octobre-2021/mf/PXL_20220131_095753838.jpg" alt="alt text" title="handwritten note 1" width="150"/>
+  </a>
+  <a href="/images/reading/vague-octobre-2021/mf/PXL_20220131_095800957.jpg">
+    <img src="/images/reading/vague-octobre-2021/mf/PXL_20220131_095800957.jpg" alt="alt text" title="handwritten note 2" width="150"/>
+  </a>
 </p>
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
@@ -101,9 +109,15 @@ See the complete <a href="https://www.semanticscholar.org/paper/Skeletonization%
 « Competitive Algorithms for Server Problems », M.S. Manasse, L.A. McGeoch, D.D. Sleator. Journal of algrithms 11, 208-230 (1990). See the full article <a href="https://www.sciencedirect.com/science/article/pii/019667749090003W">here</a>.
 
 <p float="left">
-  <img src="/images/reading/vague-octobre-2021/jp/IMG_1989.jpg" alt="alt text" title="handwritten note 1" width="150"/>
-  <img src="/images/reading/vague-octobre-2021/jp/IMG_1990.jpg" alt="alt text" title="handwritten note 2" width="150"/>
-  <img src="/images/reading/vague-octobre-2021/jp/IMG_1991.jpg" alt="alt text" title="handwritten note 3" width="150"/>
+  <a href="/images/reading/vague-octobre-2021/jp/IMG_1989.jpg">
+    <img src="/images/reading/vague-octobre-2021/jp/IMG_1989.jpg" alt="alt text" title="handwritten note 1" width="150"/>
+  </a>
+  <a href="/images/reading/vague-octobre-2021/jp/IMG_1990.jpg">
+    <img src="/images/reading/vague-octobre-2021/jp/IMG_1990.jpg" alt="alt text" title="handwritten note 2" width="150"/>
+  </a>
+  <a href="/images/reading/vague-octobre-2021/jp/IMG_1991.jpg">
+    <img src="/images/reading/vague-octobre-2021/jp/IMG_1991.jpg" alt="alt text" title="handwritten note 3" width="150"/>
+  </a>
 </p>
 
 ### Contact
