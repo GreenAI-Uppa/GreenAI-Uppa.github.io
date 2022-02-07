@@ -283,7 +283,7 @@ Partnerships with public institutions, as well as SMEs are one of the main motiv
  - [Technopole Hélioparc](https://helioparc.fr/)
  - [Mellisphera](https://www.mellisphera.com/)
  - [ORIE, Cornell University](https://www.orie.cornell.edu/orie)
- - [Prof en Poches](https://profenpoche.com/)
+ - [Prof en Poche](https://profenpoche.com/)
  - [Réseau Francilien en Sciences Informatiques (RFSI)](https://dim-rfsi.fr/)
  - [Hizkia Informatique](https://www.hizkia.eu/)
 
