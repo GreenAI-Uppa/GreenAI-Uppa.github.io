@@ -31,17 +31,6 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; February 2022, the 14th</b>, upcoming seminar of Sébastien Loustau, MCMC optimization for high-dimensional problems.
-  </summary>
-  <p>
-    <b>Abstract:</b> The aim of this talk is to introduce a greedy MCMC optimizer for Deep Learning. After a gentle start about the convergence of standard Metropolis Hasting algorithm, and discussion about MCMC alternatives, I will present recent MCMC challenging algorithms for recent high dimensional machine learning problems, where the dimension of the Markov Chain could change over time. Then, I will describe how to adapt these ideas to build a new optimizer for Deep Learning and shows its nice properties to learn sparse deep nets, as well as the next challenges to have a competitive counterpart of standard stochastic gradient methods.	
-  </p>
-</details> 
-
-<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
-
-<details>
-  <summary style="cursor: pointer">
     <b>&#8226; March 2022, the 21st</b>, upcoming seminar of <a href='https://tree.univ-pau.fr/fr/index.html'>TREE lab</a> by Romain Carrausse, Contestations, conceptions and modes of government of ecological modernization. A reading from a political geography based on the cases of agrivolatism and energy communities.
   </summary>
   <p>
@@ -52,6 +41,18 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 
 ### Past seminars and events
+
+<details>
+  <summary style="cursor: pointer">
+    <b>&#8226; February, 14th 2022 - Sébastien Lousteau</b>, team member, MCMC optimization for high-dimensional problems.
+  </summary>
+  <p>
+    <b>Abstract:</b> The aim of this talk is to introduce a greedy MCMC optimizer for Deep Learning. After a gentle start about the convergence of standard Metropolis Hasting algorithm, and discussion about MCMC alternatives, I will present recent MCMC challenging algorithms for recent high dimensional machine learning problems, where the dimension of the Markov Chain could change over time. Then, I will describe how to adapt these ideas to build a new optimizer for Deep Learning and shows its nice properties to learn sparse deep nets, as well as the next challenges to have a competitive counterpart of standard stochastic gradient methods.	
+  </p>
+  <img src="/seminars/sem11.jpg"/>
+</details> 
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
 <details>
   <summary style="cursor: pointer">
