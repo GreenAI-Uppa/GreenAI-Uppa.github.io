@@ -32,6 +32,7 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 <details>
   <summary style="cursor: pointer">
     <b>&#8226; March, 14th 2022 - Yanis Chaigneau</b>, team member.
+    Machine Learning algorithms for the prediction of the blooming honey plants
   </summary>
   <p>
     <b>Abstract:</b> is coming !
