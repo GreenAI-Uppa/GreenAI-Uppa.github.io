@@ -32,10 +32,10 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 <details>
   <summary style="cursor: pointer">
     <b>&#8226; March, 14th 2022 - Yanis Chaigneau</b>, team member.
-    Machine Learning algorithms for the prediction of the blooming honey plants
+    Machine Learning algorithms for the prediction of the blooming honey plants.
   </summary>
   <p>
-    <b>Abstract:</b> is coming !
+    <b>Abstract:</b> In order to help the beekeepers to plan their transhumances, an accurate forecast of the blooming of the honey plants is required. This seminar focuses on the use of machine learning algorithms for phenology. An innovative non-supervised algorithm is presented and compared to classical approaches. 
   </p>
 </details> 
 
