@@ -163,8 +163,8 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
 
 ## the news will appear on the right side 
 news: 
-   14/04/2022: 'Upcoming seminar with Yanis Chaigneau'
    21/03/2022: 'Upcoming seminar with TREE lab'
+   28/03/2022: 'Upcoming seminar with Yanis Chaigneau'
 
 pins:
   ACML: <a href="https://greenai-uppa.github.io/power_efficient_deep_learning/">Power Efficient Deep Learning workshop</a>
