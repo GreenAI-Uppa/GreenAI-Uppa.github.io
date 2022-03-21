@@ -30,16 +30,6 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 ### Upcoming seminars and events
 
 
-
-<details>
-  <summary style="cursor: pointer">
-    <b>&#8226; March 2022, the 21st</b>, upcoming seminar of <a href='https://tree.univ-pau.fr/fr/index.html'>TREE lab</a> by Romain Carrausse, Contestations, conceptions and modes of government of ecological modernization. A reading from a political geography based on the cases of agrivolatism and energy communities.
-  </summary>
-  <p>
-    <b>Abstract:</b> Romain Carrausse is a post-doctoral fellow at the TEEN research chair and contributes to SoWeSI, a research project conducted in partnership between the company Total Energies and the UPPA.  He is working on how ecological modernization is governed and contested at different scales and on different objects. Two works in progress will be presented. The first is on agrivoltaics: a production system that combines energy production, using photovoltaic panels, and agriculture on the same plot of land. We will discuss how the energy sector legitimizes this innovation through a process of internalization of the criticism and demonstration of the agro-economic benefits of the shade produced by the photovoltaic panels. The second is about energy communities. In a context where renewable energy projects face numerous oppositions, locally governed projects, grouped under the term energy community, are experiencing a social and political dynamic in France. A multiscalar approach will be used to analyze the strategies and concepts of energy transition that are reflected in the institutionalization and growth of energy communities.	
-  </p>
-</details>
-
 <details>
   <summary style="cursor: pointer">
     <b>&#8226; March, 28th 2022 - Nicolas Tirel</b>, team member.
@@ -50,7 +40,28 @@ Deep Learning has become extremely popular to solve many supervised machine lear
   </p>
 </details> 
 
+
+<details>
+  <summary style="cursor: pointer">
+    <b>&#8226; April, 11th 2022 - Simon Lebeaud</b>, team member.
+  </summary>
+  <p>
+    <b>Abstract:</b> is coming !
+  </p>
+</details> 
+
+
 ### Past seminars and events
+
+
+<details>
+  <summary style="cursor: pointer">
+    <b>&#8226; March 2022, the 21st</b>, upcoming seminar of <a href='https://tree.univ-pau.fr/fr/index.html'>TREE lab</a> by Romain Carrausse, Contestations, conceptions and modes of government of ecological modernization. A reading from a political geography based on the cases of agrivolatism and energy communities.
+  </summary>
+  <p>
+    <b>Abstract:</b> Romain Carrausse is a post-doctoral fellow at the TEEN research chair and contributes to SoWeSI, a research project conducted in partnership between the company Total Energies and the UPPA.  He is working on how ecological modernization is governed and contested at different scales and on different objects. Two works in progress will be presented. The first is on agrivoltaics: a production system that combines energy production, using photovoltaic panels, and agriculture on the same plot of land. We will discuss how the energy sector legitimizes this innovation through a process of internalization of the criticism and demonstration of the agro-economic benefits of the shade produced by the photovoltaic panels. The second is about energy communities. In a context where renewable energy projects face numerous oppositions, locally governed projects, grouped under the term energy community, are experiencing a social and political dynamic in France. A multiscalar approach will be used to analyze the strategies and concepts of energy transition that are reflected in the institutionalization and growth of energy communities.	
+  </p>
+</details>
 
 <details>
   <summary style="cursor: pointer">
