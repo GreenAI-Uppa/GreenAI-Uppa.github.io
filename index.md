@@ -36,7 +36,7 @@ Deep Learning has become extremely popular to solve many supervised machine lear
     Children Speech Recognition system in a classroom context with energy consumption consideration.
   </summary>
   <p>
-    <b>Abstract:</b> is coming !
+    <b>Abstract:</b> Speech recognition is a complex subject that requires attention to many points during implementation depending on the use case. The choice of architecture, the data collection, their use but also the energy consumed during training are all points addressed during this seminar. Within the project with the startup Prof en Poche, we will see a solution using DeepSpeech which aims to recognize children's voices in the classroom answering mathematical games. This solution comes with a dashboard to display and compare several models via their parameters, data used, energy consumption and especially according to their results. We will see how we were able to obtain up to 18% WER (Word Error Rate) and 12% CER (Character Error Rate) on our target data.
   </p>
 </details> 
 
