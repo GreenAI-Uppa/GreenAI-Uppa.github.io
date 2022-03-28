@@ -29,18 +29,6 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 ### Upcoming seminars and events
 
-
-<details>
-  <summary style="cursor: pointer">
-    <b>&#8226; March, 28th 2022 - Nicolas Tirel</b>, team member.
-    Children Speech Recognition system in a classroom context with energy consumption consideration.
-  </summary>
-  <p>
-    <b>Abstract:</b> Speech recognition is a complex subject that requires attention to many points during implementation depending on the use case. The choice of architecture, the data collection, their use but also the energy consumed during training are all points addressed during this seminar. Within the project with the startup Prof en Poche, we will see a solution using DeepSpeech which aims to recognize children's voices in the classroom answering mathematical games. This solution comes with a dashboard to display and compare several models via their parameters, data used, energy consumption and especially according to their results. We will see how we were able to obtain up to 18% WER (Word Error Rate) and 12% CER (Character Error Rate) on our target data.
-  </p>
-</details> 
-
-
 <details>
   <summary style="cursor: pointer">
     <b>&#8226; April, 11th 2022 - Simon Lebeaud</b>, team member.
@@ -53,15 +41,28 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 ### Past seminars and events
 
+<details>
+  <summary style="cursor: pointer">
+    <b>&#8226; March 2022, the 28th - Nicolas Tirel</b>, team member.
+    Children Speech Recognition system in a classroom context with energy consumption consideration.
+  </summary>
+  <p>
+    <b>Abstract:</b> Speech recognition is a complex subject that requires attention to many points during implementation depending on the use case. The choice of architecture, the data collection, their use but also the energy consumed during training are all points addressed during this seminar. Within the project with the startup Prof en Poche, we will see a solution using DeepSpeech which aims to recognize children's voices in the classroom answering mathematical games. This solution comes with a dashboard to display and compare several models via their parameters, data used, energy consumption and especially according to their results. We will see how we were able to obtain up to 18% WER (Word Error Rate) and 12% CER (Character Error Rate) on our target data.
+  </p>
+  <img src="/seminars/sem12.pdf"/>
+</details> 
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; March 2022, the 21st</b>, upcoming seminar of <a href='https://tree.univ-pau.fr/fr/index.html'>TREE lab</a> by Romain Carrausse, Contestations, conceptions and modes of government of ecological modernization. A reading from a political geography based on the cases of agrivolatism and energy communities.
+    <b>&#8226; March 2022, the 21st - Romain Carrausse</b>, member of <a href='https://tree.univ-pau.fr/fr/index.html'>TREE lab</a>.
+    Contestations, conceptions and modes of government of ecological modernization. A reading from a political geography based on the cases of agrivolatism and energy communities.
   </summary>
   <p>
     <b>Abstract:</b> Romain Carrausse is a post-doctoral fellow at the TEEN research chair and contributes to SoWeSI, a research project conducted in partnership between the company Total Energies and the UPPA.  He is working on how ecological modernization is governed and contested at different scales and on different objects. Two works in progress will be presented. The first is on agrivoltaics: a production system that combines energy production, using photovoltaic panels, and agriculture on the same plot of land. We will discuss how the energy sector legitimizes this innovation through a process of internalization of the criticism and demonstration of the agro-economic benefits of the shade produced by the photovoltaic panels. The second is about energy communities. In a context where renewable energy projects face numerous oppositions, locally governed projects, grouped under the term energy community, are experiencing a social and political dynamic in France. A multiscalar approach will be used to analyze the strategies and concepts of energy transition that are reflected in the institutionalization and growth of energy communities.	
   </p>
 </details>
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
 <details>
   <summary style="cursor: pointer">
@@ -72,6 +73,8 @@ Deep Learning has become extremely popular to solve many supervised machine lear
     <b>Abstract:</b> In order to help the beekeepers to plan their transhumances, an accurate forecast of the blooming of the honey plants is required. This seminar focuses on the use of machine learning algorithms for phenology. An innovative non-supervised algorithm is presented and compared to classical approaches. 
   </p>
 </details> 
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
 <details>
   <summary style="cursor: pointer">
