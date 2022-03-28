@@ -12,7 +12,7 @@ aside: true
 
 Our reading group meets quaterly and provides foundations and up-to-date information on topics in power-efficient deep learning, mathematical statistics and optimization. We give participants valuable experience in leading group discussions and share state-of-the-art machine learning. For each session, papers are assigned in advance, and one to two participant guide the discussion.
 
-### 2022 Q1: 28/03/22
+### 2022 Q2: 28/03/22
 
 - *Sparse matrix multiplication with pytorch and Cuda* by Nicolas and Yanis (14h)
 
