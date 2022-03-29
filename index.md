@@ -38,6 +38,17 @@ Deep Learning has become extremely popular to solve many supervised machine lear
   </p>
 </details> 
 
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
+<details>
+  <summary style="cursor: pointer">
+    <b>&#8226; April, 25th 2022 - Fatou Kine Sow</b>, team member.
+  </summary>
+  <p>
+    <b>Abstract:</b> is coming !
+  </p>
+</details> 
+
 
 ### Past seminars and events
 
