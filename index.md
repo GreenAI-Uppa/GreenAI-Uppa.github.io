@@ -29,9 +29,10 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 ### Upcoming seminars and events
 
+
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; April, 11th 2022 - Simon Lebeaud</b>, team member.
+    <b>&#8226; May, 2nd 2022 - Fatou Kine Sow</b>, team member.
   </summary>
   <p>
     <b>Abstract:</b> is coming !
@@ -42,7 +43,30 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; April, 25th 2022 - Fatou Kine Sow</b>, team member.
+    <b>&#8226; May, 9th 2022 - Matthieu François</b>, team member.
+  </summary>
+  <p>
+    <b>Abstract:</b> is coming !
+  </p>
+</details> 
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
+<details>
+  <summary style="cursor: pointer">
+    <b>&#8226; May, 16th 2022 - Youen Chéné</b>, team member.
+  </summary>
+  <p>
+    <b>Abstract:</b> is coming !
+  </p>
+</details> 
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
+
+<details>
+  <summary style="cursor: pointer">
+    <b>&#8226; May, 23nd 2022 - Jordy Palafox</b>, team member.
   </summary>
   <p>
     <b>Abstract:</b> is coming !
@@ -50,7 +74,22 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 </details> 
 
 
+
+
 ### Past seminars and events
+
+
+<details>
+  <summary style="cursor: pointer">
+    <b>&#8226; April, 11th 2022 - Simon Lebeaud</b>, team member.
+    Computer Vision AI applied to biodiversity and fish tracking in a fish pass context
+  </summary>
+  <p>
+    <b>Abstract:</b> 
+    In the past decade, breakthroughs have been made in object detection due to the massive adoption of Deep convolutional networks. It's time today to use this technology at the service of biodiversity studies. Hizkia has designed and produced a video counting system able to be deployed in any fish pass. We will show how we can now use the data accumulated in the past years to detect and recognize big migratory species to facilitate the counting and study of fish populations throughout France. We will see the potential of state of the art object detection model that we can obtain good results with not a lot of data. You will also have an overview of problematics around river waters imaging.
+  </p>
+  <a href="/seminars/sem13.pdf">Slides here</a>
+</details> 
 
 <details>
   <summary style="cursor: pointer">
