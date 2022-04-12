@@ -163,8 +163,9 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
 
 ## the news will appear on the right side 
 news: 
-   11/04/2022: 'Upcoming seminar with Simon Lebeaud'
-   25/04/2022: 'Upcoming seminar with Fatou Kine Sow'
+   2/05/2022: 'Upcoming seminar with Fatou Kine Sow'
+   9/05/2022: 'Upcoming seminar with Matthieu François'
+   16/05/2022: 'Upcoming seminar with Youen Chéné'
 
 pins:
   ACML: <a href="https://greenai-uppa.github.io/power_efficient_deep_learning/">Power Efficient Deep Learning workshop</a>
