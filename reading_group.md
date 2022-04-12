@@ -19,6 +19,7 @@ Our reading group meets quaterly and provides foundations and up-to-date informa
 - *Inference using tflite with larq* by Fatou (14h30)
 
 - *Social computing : NLP and community detection* by Matthieu and Paul (15h)
+<a href="/images/reading/vague-mars-2022/reading_matt_28_3.pdf">Slides here</a>
 
 - *Greedy decentralized optimization for deep learning* by Simon (16h00)
 
