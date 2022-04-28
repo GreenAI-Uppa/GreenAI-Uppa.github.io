@@ -55,10 +55,10 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; May, 16th 2022 - Youen Chéné</b>, team member.
+    <b>&#8226; May, 16th 2022 - Youen Chéné</b>, Founder of Webvert, Web site repair and decarbonization. State of the art and limits of the measurement of the footprint of a website.
   </summary>
   <p>
-    <b>Abstract:</b> is coming !
+    <b>Abstract:</b>  In 2022, there is now multitude ways of measuring and evaluating the environmental impact of a website, such as modeling or measurement tools. They can each evaluate a different perimeter. How to find your way around and what are the current limits?
   </p>
 </details> 
 
