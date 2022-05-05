@@ -61,9 +61,9 @@ timezone: Europe/London # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: Posts # Needed for Siteleaf
+    title: Posts about Research, Coding and Ecology # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
+    description: "All posts are written in french, the english versions will be available soon." # The post list page content
     feature_text: |
       Welcome to the blog
     feature_image: "https://picsum.photos/2560/600?image=866"
@@ -122,15 +122,13 @@ navigation_header:
 - title: Home
   url: /
 - title: Research 
-  url: /#our-research
-- title: Industrial projects
-  url: /#industrial-projects
-- title: Sponsors
-  url: /#sponsors 
-- title: Team 
-  url: /#team-members
-- title : Reading Group
-  url: /reading_group  
+  url: /research
+- title: Applications
+  url: /applications
+- title: Events
+  url: /events
+- title: Blog
+  url: /blog
 - title: AI Power Meter
   url: https://github.com/GreenAI-Uppa/deep_learning_power_measure
 
@@ -163,8 +161,7 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
 
 ## the news will appear on the right side 
 news: 
-   2/05/2022: 'Trash detection and tracking system  for recycling awareness in schools with Fatou Kine Sow'
-   9/05/2022: 'Upcoming seminar with Matthieu François'
+   9/05/2022: 'AI for crisis management - Media management part 2, application with Matthieu François'
    16/05/2022: 'State of the art and limits of the measurement of the footprint of a website with Youen Chéné'
 
 pins:
@@ -186,3 +183,5 @@ fonts:
     - https://fonts.gstatic.com
   font_urls:
     - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
+
+google-analytics: G-DX6KCXGSJT
