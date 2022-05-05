@@ -1,5 +1,5 @@
 ---
-title: null
+title: 
 feature_text: |
   ## GreenAI UPPA 
 feature_text_logo: "/assets/horizontal_dark_logo.png"
