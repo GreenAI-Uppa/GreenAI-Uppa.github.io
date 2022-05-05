@@ -30,7 +30,7 @@ Our main purpose is to integrate AI on Cwall in order to index the vast amount o
 
 Based on low consumption algorithms, this project start with an analysis of social networks and open source data as climate crisis images. Being able to summarize open informations and foresee their impact will be a perfect addition upgrade to CWall. 
 
-![altanoveo](images/ALTANOVEO.jpg){:class="img-responsive"}
+![altanoveo](/images/ALTANOVEO.jpg){:class="img-responsive"}
 
 
 ### AI for Education
@@ -39,7 +39,7 @@ The start-up [ProfenPoche](https://profenpoche.com/) was founded in 2015 by Vinc
 It is specialized in creation on new numerical educative solutions and more specifically, propose to provide a teacher to a needed student using smartphone, tablet or computer. They created **Mathia** using AI as a innovative product in order to give the love of mathematics to children. In 2019, they were rewarded for Mathia as laureate of P2IA (Partenariat d’Innovation en Intelligence Artificielle) launched by the Ministère de l'Education Nationale et de la Jeunesse.
 
 Mathia is an app which recommands educational material to children. The recommendation is powered by a clustering performed on the children profile and which includes their skills and personal difficulties. Our goal is to improve these tasks and reduce the consumption of energies.
-![pep](images/pep.png){:class="img-responsive"}
+![pep](/images/pep.png){:class="img-responsive"}
 
 ### Computer vision and Hydrobiology
 
@@ -48,7 +48,7 @@ Hizkia designs all its products: hardware and software. It does software develop
 
 Hizkia has designed a **video-counting device for fish passage**. In the current version, operators have to watch the videos to note the species of fish and their size. Our purpose is to have the videos processed by an AI that would be able to recognize the species of fish, count and measure them automatically. This application of Computer Vision to biodiversity monitoring contains next level challenges : object tracking from frame to frame, denoising images, correct lighting and species labels, and tackle problems of quantization and selection of high resolutions images and videos.
 
-![hizkia](images/HIZKIA.png){:class="img-responsive"}
+![hizkia](/images/HIZKIA.png){:class="img-responsive"}
 
 ### Improving bee health and pollination
 
@@ -61,7 +61,7 @@ The main benefits of this technology are:
 
 Our challenge is to improve beekeeping practices by offering predictive tools that are at the same time accurate and scalable over different regions and countries. To achieve this goal, we are relying on mechanistic and AI powered models. They are developed in our research apiaries as in those from multiple beekeepers contributing around the world. We are partnering with [Broodminder](www.broodminder.com) into a global team with the shared ambition to offer one of the best-in-class solutions.
 
-![mellisphera](images/mellisphera.jpeg){:class="img-responsive"}
+![mellisphera](/images/mellisphera.jpeg){:class="img-responsive"}
 
 ## Sponsors
 
