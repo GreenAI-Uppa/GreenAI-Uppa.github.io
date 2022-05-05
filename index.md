@@ -32,22 +32,11 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; May, 2nd 2022 - Fatou Kine Sow</b>, team member.
-    Trash detection and tracking system  for recycling awareness in schools
-  </summary>
-  <p>
-    <b>Abstract:</b> To raise awareness about recycling in schools, prof en poche decided to set up a real-time waste detection system. We will see during this seminar, how to reuse state of the art object detection models such as YOLOV5 and SSDMobilenet V2 to locate and recognize the waste found by the student. We will also see the results with these two models obtained in embedded on a smartphone and in cloud access.
-  </p>
-</details> 
-
-<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
-
-<details>
-  <summary style="cursor: pointer">
     <b>&#8226; May, 9th 2022 - Matthieu François</b>, team member.
+    AI for crisis management - Media management part 2, application.
   </summary>
   <p>
-    <b>Abstract:</b> is coming !
+    <b>Abstract:</b> Crisis management requires the processing of a large amount of heterogeneous information in particular audiovisual streams coming from media and social networks. This seminar follows a first part focused on the presentation of open-source models for audio, image, and text analysis. The practical application of these methods will be the basis of this presentation. We will first go back to the motivations for such a process. Then, we will discuss the global architecture adopted with a comparative assessment of methods evaluated on the REPERE annotated data corpus [Giraudel et al]. Finally, we will conclude with a demonstration of a first prototype allowing us to observe and summarize in real-time a news flow.
   </p>
 </details> 
 
@@ -79,6 +68,17 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 ### Past seminars and events
 
+<details>
+  <summary style="cursor: pointer">
+    <b>&#8226; May, 2nd 2022 - Fatou Kine Sow</b>, team member.
+    Trash detection and tracking system  for recycling awareness in schools
+  </summary>
+  <p>
+    <b>Abstract:</b> To raise awareness about recycling in schools, prof en poche decided to set up a real-time waste detection system. We will see during this seminar, how to reuse state of the art object detection models such as YOLOV5 and SSDMobilenet V2 to locate and recognize the waste found by the student. We will also see the results with these two models obtained in embedded on a smartphone and in cloud access.
+  </p>
+</details> 
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
 <details>
   <summary style="cursor: pointer">
