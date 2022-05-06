@@ -37,7 +37,15 @@
     {% endif %}
 
     {% if site.favicons or site.avatarurl %}{% include site-favicons.html %}{% endif %}
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-PTY26N3KRS"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
+    gtag('config', 'G-PTY26N3KRS');
+  </script>
     {% if site.google_analytics %}{% include site-analytics.html %}{% endif %}
 
     {% include site-fonts.html %}
