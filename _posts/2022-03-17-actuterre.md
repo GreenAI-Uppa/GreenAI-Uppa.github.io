@@ -14,7 +14,7 @@ Cette semaine, nous allons vous parler du livre de Frédéric Bordage, “Sobri�
 Construit à l’identique d’un glossaire, l’ouvrage s’articule autour de mots clés liés à l’impact du numérique sur l’environnement. 
 
 On peut y trouver par exemple le terme ACV, désignant l’analyse de cycle de vie : une méthode pour quantifier l’ensemble des impacts environnementaux à chaque étape. 
-
+[](trash:/0-2022-03-17-ecolo00014.md)
 On y trouve aussi les DEEE, ou déchets d’équipements électriques et électroniques. Les équipements électriques et électroniques constituent des déchets considérés comme des déchets dangereux.
 
 Ce choix d’écriture du livre nous permet de découvrir un lexique que nous n’avons parfois jamais ou très peu vu mais aussi de nous faire prendre conscience des enjeux avec des  ordres de grandeur afin d’obtenir des comparaisons pertinentes. 
@@ -59,3 +59,8 @@ Si le numérique était un pays, ses émissions correspondraient à 4 fois celle
 &rarr; 3 : Un icône relié au cinéma HD plateforme et un tas de mail pour faire comprendre l’annualité des mails 
 
 &rarr; 4 : Comparaison entre la capacité de stockage de l’ordinateur de bord d'apollo en 1969 et le stockage pour un mail ajd
+
+![image](/images/blog/20220317at.jpeg)
+
+[Original](https://www.linkedin.com/feed/update/urn:li:activity:6910180132779421697/)
+

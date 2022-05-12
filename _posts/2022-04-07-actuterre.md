@@ -1,5 +1,5 @@
 ---
-title: Actu'terre 12
+title: Actu'terre
 categories:
 - Ecology
 - External sources
@@ -21,3 +21,7 @@ Sur les réseaux sociaux, de nombreux blogs et comptes font un travail remarquab
 Tout le monde n’est pas présent dans cette liste, nous l’aggrandirons très vite avec d’autres acteurs comme [Time for the planet](https://www.linkedin.com/company/time-for-the-planet/), [Maxence Cordiez](https://www.linkedin.com/in/maxence-cordiez/).
 
 Et vous, des idées de comptes à connaître ?
+
+![image](/images/blog/20220407.jpeg)
+
+[Original](https://www.linkedin.com/feed/update/urn:li:activity:6917773135593304064/)

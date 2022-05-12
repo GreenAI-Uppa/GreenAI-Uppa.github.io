@@ -1,8 +1,7 @@
 ---
-title: Actu'terre 11
+title: Actu'terre
 categories:
 - Ecology
-- External sources
 feature_text: |
 feature_image: "/assets/ossau_lurien_bright.png"
 image: "/assets/ossau_lurien_bright.png"
@@ -12,21 +11,28 @@ Dans son ouvrage Passage Délicat, Pierre Leroy expose des initiatives pragmatiq
 
 Intéressant de voir la trajectoire de cet ancien écologiste qui militait 'contre', et qui a décidé de passer à l'action et de faire 'pour'.
 
-🔎 Résultat : 2 mandats de Maire d'un petit village proche de Briançon, et la création en 2010 de SEVE (Soleil, eau, vent énergie), la première société d'économie mixte en France de production d'énergies renouvelables, associant riverains, entreprises et collectivités.  
+🔎 Résultat : 2 mandats de Maire d'un petit village proche de Briançon, et la création en 2010 de SEVE (Soleil, Eau, Vent Énergie), la première société d'économie mixte en France de production d'énergies renouvelables, associant riverains, entreprises et collectivités.
 
 📊 Quelques chiffres ?
+
 ➡️ Avec un capital social de 100 000€ à la création de la société, 10 années plus tard
+
 ➡️ Le capital a été multiplié par 8
+
 ➡️ Le projet contenant 20 centrales photovoltaïques englobe les communes voisines et la communauté des communes.
 
 Les déchets, l'eau, la mobilité, l'agriculture, le tourisme, tous les leviers sont présents.
 
 💡 La source d'inspiration de Pierre Leroy se situe en Autriche, dans le land de Vorarlberg.
-Sur la pointe occidentale de l’Autriche, Vorarlberg est actuellement l’exemple le plus convaincant de la mise en pratique d’un développement écoresponsable à l’échelle d’un territoire européen. 
-En action de les années 60, cet exemple européen n’est pourtant qu'à quelques centaines de kilomètres de la France ! 
+
+Sur la pointe occidentale de l’Autriche, Vorarlberg est actuellement l’exemple le plus convaincant de la mise en pratique d’un développement écoresponsable à l’échelle d’un territoire européen.
+
+En action de les années 60, cet exemple européen n’est pourtant qu'à quelques centaines de kilomètres de la France !
+
 Il nous montre qu’il est possible de construire, pour un budget raisonnable, un nouveau modèle de société durable.
 
 A méditer dans nos territoires !
 
+![image](/images/blog/20220331.jpeg)
 
-[Lien du livre](https://www.momox-shop.fr/pierre-leroy-passage-delicat-penser-et-panser-le-territoire-taschenbuch-M02330153694.html?variant=UsedVeryGood&gclid=CjwKCAiAgvKQBhBbEiwAaPQw3AI9n-Oam46y2EUZc64Jdz27IoAJoqtaQ5hl09mH8TP2pPmz3CltjRoC-8YQAvD_BwE)
+[Original](https://www.linkedin.com/feed/update/urn:li:activity:6915236295577407488/)

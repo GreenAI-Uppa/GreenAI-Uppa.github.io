@@ -1,11 +1,10 @@
 ---
-title: Actu'terre 8
+title: Actu'terre
 categories:
 - Ecology
-- External sources
 feature_text: |
-feature_image: "../assets/ossau_lurien_bright.png"
-image: "../assets/ossau_lurien_bright.png"
+feature_image: "/assets/ossau_lurien_bright.png"
+image: "/assets/ossau_lurien_bright.png"
 ---
 
 Dans l’épisode précédent ➡️
@@ -38,7 +37,7 @@ On comprend mieux la nécessité de s’affranchir du charbon pour la production
 
 En France, notre dépendance historique à l’électricité nucléaire et notre production d’hydroélectricité nous permettent d’avoir un facteur d’émission très faible par rapport à nos voisins. 
 
-L’outil éCO2mix de @RTE, [voir ici](https://www.rte-france.com/eco2mix/les-emissions-de-co2-par-kwh-produit-en-france), permet de suivre ce facteur moyen à un pas de temps de 15 minutes. 
+L’outil éCO2mix de RTE Réseau de Transport d'Electricité ([voir ici](https://www.rte-france.com/eco2mix/les-emissions-de-co2-par-kwh-produit-en-france)) permet de suivre ce facteur moyen à un pas de temps de 15 minutes. 
 
 En effet, le facteur fluctue en fonction des sources disponibles et de la demande électrique à l’instant T, c’est la gestion de l’équilibre offre-demande. 
 
@@ -48,8 +47,9 @@ Par exemple, lorsqu’il n’y a pas de vent, les éoliennes ne peuvent pas prod
 
 Avec toutes ces informations, on comprend bien que les émissions de CO2 dues à la génération d’électricité ont une grande influence sur l’impact environnemental du numérique, notre secteur ! 
 
-➡️ Et ceci, on vous en reparlera dans une prochaine publication… 
+➡️ Et ceci, on vous en reparlera dans une prochaine publication… #StayTuned
 
 
-![](/images/environnement_1.png)
-![](/images/environnement_2.PNG)
+![image](/images/blog/20220303at.jpeg)
+
+[Original](https://www.linkedin.com/feed/update/urn:li:activity:6905104564089946112/)
