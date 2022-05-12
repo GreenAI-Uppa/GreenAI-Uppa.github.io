@@ -2,7 +2,7 @@
 title: 
 feature_text: |
   ## GreenAI UPPA 
-feature_text_logo: "/assets/horizontal_dark_logo.png"
+feature_text_logo: "/assets/ossau_lurien_bright.png"
 feature_image: "/assets/ossau_lurien_bright.png"
 excerpt: "Longer intro"
 aside: true 
