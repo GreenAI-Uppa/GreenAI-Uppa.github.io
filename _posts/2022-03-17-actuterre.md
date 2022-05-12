@@ -4,8 +4,8 @@ categories:
 - Ecology
 - External sources
 feature_text: |
-feature_image: "../assets/ossau_lurien_bright.png"
-image: "../assets/ossau_lurien_bright.png"
+feature_image: "/assets/ossau_lurien_bright.png"
+image: "/assets/ossau_lurien_bright.png"
 ---
 
 
