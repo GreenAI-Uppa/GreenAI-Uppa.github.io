@@ -18,6 +18,7 @@ aside: true
   <p>
     <b>Abstract:</b> Crisis management requires the processing of a large amount of heterogeneous information in particular audiovisual streams coming from media and social networks. This seminar follows a first part focused on the presentation of open-source models for audio, image, and text analysis. The practical application of these methods will be the basis of this presentation. We will first go back to the motivations for such a process. Then, we will discuss the global architecture adopted with a comparative assessment of methods evaluated on the REPERE annotated data corpus [Giraudel et al]. Finally, we will conclude with a demonstration of a first prototype allowing us to observe and summarize in real-time a news flow.
   </p>
+  <a href="/seminars/sem14.pdf">Slides here</a>
 </details> 
 
 <details>
