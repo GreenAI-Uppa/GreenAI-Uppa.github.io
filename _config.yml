@@ -161,8 +161,9 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
 
 ## the news will appear on the right side 
 news: 
-   16/05/2022: 'State of the art and limits of the measurement of the footprint of a website with Youen Chéné'
-   23/05/2022: 'Upcoming seminar of Jordy Palafox'
+   23/05/2022: 'Online learning for adaptive learning with Jordy Palafox'
+   06/06/2022: Upcoming seminar with Paul Gay!
+   20/06/2022: Upcoming seminar with Sébastien Loustau!
 
 pins:
   ACML: <a href="https://greenai-uppa.github.io/power_efficient_deep_learning/">Power Efficient Deep Learning workshop</a>

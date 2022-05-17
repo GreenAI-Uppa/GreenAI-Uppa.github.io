@@ -12,6 +12,17 @@ aside: true
 
 <details>
   <summary style="cursor: pointer">
+    <b>&#8226; May, 16th 2022 - Youen Chéné</b>, Founder of Webvert, Web site repair and decarbonization. State of the art and limits of the measurement of the footprint of a website.
+  </summary>
+  <p>
+    <b>Abstract:</b>  In 2022, there is now multitude ways of measuring and evaluating the environmental impact of a website, such as modeling or measurement tools. They can each evaluate a different perimeter. How to find your way around and what are the current limits?
+  </p>
+</details> 
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
+<details>
+  <summary style="cursor: pointer">
     <b>&#8226; May, 9th 2022 - Matthieu François</b>, team member. 
     AI for crisis management - Media management part 2, application.
   </summary>

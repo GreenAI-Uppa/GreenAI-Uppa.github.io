@@ -11,26 +11,12 @@ aside: true
 
 ## Upcoming seminars and events
 
-<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
-
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; May, 16th 2022 - Youen Chéné</b>, Founder of Webvert, Web site repair and decarbonization. State of the art and limits of the measurement of the footprint of a website.
+    <b>&#8226; May, 23nd 2022 - Jordy Palafox</b>, team member. Online learning for adaptive learning.
   </summary>
   <p>
-    <b>Abstract:</b>  In 2022, there is now multitude ways of measuring and evaluating the environmental impact of a website, such as modeling or measurement tools. They can each evaluate a different perimeter. How to find your way around and what are the current limits?
-  </p>
-</details> 
-
-<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
-
-
-<details>
-  <summary style="cursor: pointer">
-    <b>&#8226; May, 23nd 2022 - Jordy Palafox</b>, team member.
-  </summary>
-  <p>
-    <b>Abstract:</b> is coming !
+    <b>Abstract:</b> In this talk, we are takling about reduction of the adaptative learning pipeline consumption at Prof En Poche based on unsupervised algorithms. After some theorical reminders on online algorithms, we present a solution using them and illustrate with the first results.
   </p>
 </details> 
 
