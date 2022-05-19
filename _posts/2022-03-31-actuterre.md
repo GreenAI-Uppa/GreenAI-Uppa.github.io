@@ -1,5 +1,5 @@
 ---
-title: Actu'terre
+title: Passage Délicat, passage à l’action !
 categories:
 - Ecology
 feature_text: |

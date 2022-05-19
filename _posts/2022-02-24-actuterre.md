@@ -1,5 +1,5 @@
 ---
-title: Actu'terre
+title: Consommation électrique de notre laboratoire
 categories:
 - Ecology
 feature_text: |

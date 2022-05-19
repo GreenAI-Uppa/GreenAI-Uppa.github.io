@@ -1,5 +1,5 @@
 ---
-title: Actu'terre
+title: L’agriculture de demain par Sylvie Brunel
 categories:
 - Ecology
 feature_text: |

@@ -1,5 +1,5 @@
 ---
-title: Actu'terre
+title: Impact environnement de l’électricité
 categories:
 - Ecology
 feature_text: |

@@ -1,5 +1,5 @@
 ---
-title: Actu'terre
+title: Labos 1Point5, étude du bilan carbone de la recherche
 categories:
 - Ecology
 feature_text: |

@@ -1,5 +1,5 @@
 ---
-title: Actu'terre
+title: Combien d’énergies consomment nos appareils du quotidien ?
 categories:
 - Ecology
 feature_text: |

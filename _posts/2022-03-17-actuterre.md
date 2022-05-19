@@ -1,5 +1,5 @@
 ---
-title: Actu'terre 9
+title: Sobriété numérique, comprendre l’impact du numérique
 categories:
 - Ecology
 - External sources
