@@ -50,17 +50,13 @@ en 1969, nous sommes allés sur la Lune grâce à un simple mail : la capacité 
 (fun fact : code de la mission apollo 11 https://github.com/chrislgarry/Apollo-11/)
 
 
-
-&rarr; 1 : L’empreinte numérique mondiale serait 4x la France en terme de volumes de gaz à effet de serre (voir comment représenter)
-Si le numérique était un pays, ses émissions correspondraient à 4 fois celles de la france 
-
-&rarr; 2 : Image de sac à dos rempli à 52% pour le collecté et 48% du sac à dos en grisé pour le non collecté ; l’objectif pour 2019 était de 65%, donc on peut ajouter une barre à cette valeur pour donner un but à atteindre 
-
-&rarr; 3 : Un icône relié au cinéma HD plateforme et un tas de mail pour faire comprendre l’annualité des mails 
-
-&rarr; 4 : Comparaison entre la capacité de stockage de l’ordinateur de bord d'apollo en 1969 et le stockage pour un mail ajd
-
 ![image](/images/blog/20220317at.jpeg)
+
+![image](/images/blog/20220317at2.jpeg)
+
+![image](/images/blog/20220317at3.jpeg)
+
+![image](/images/blog/20220317at4.jpeg)
 
 [Original](https://www.linkedin.com/feed/update/urn:li:activity:6910180132779421697/)
 
