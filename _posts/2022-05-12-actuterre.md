@@ -1,5 +1,5 @@
 ---
-title: Actu'terre
+title: L’Anthropocène de Erle Ellis
 categories:
 - Ecology
 feature_text: |
