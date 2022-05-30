@@ -10,6 +10,16 @@ aside: true
 
 In this page, you will find all the previous reading group session.
 
+### 2022 Q2: 30/05/22
+- *Tiny ML : Machine Learning for embedded systems* by Yanis
+<a href="/images/reading/vague-mai-2022/presentation_arduino.pdf">Slides here</a>
+
+- *RPi cluster & Deep Learning* by Fatou Kiné
+<a href="/images/reading/vague-mai-2022/RPI_CLUSTER-2.pdf">Slides here</a>
+
+- *Nvidia Jetson Nano* by Nicolas
+<a href="/images/reading/vague-mai-2022/Reading_group_Jetson.pdf">Slides here</a>
+
 ### 2022 Q2: 28/03/22
 
 - *Sparse matrix multiplication with pytorch and Cuda* by Nicolas and Yanis (14h)
