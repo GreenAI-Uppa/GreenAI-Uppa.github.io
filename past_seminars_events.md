@@ -12,6 +12,15 @@ aside: true
 
 <details>
   <summary style="cursor: pointer">
+    <b>&#8226; May, 23nd 2022 - Jordy Palafox</b>, team member. Online learning for adaptive learning.
+  </summary>
+  <p>
+    <b>Abstract:</b> In this talk, we are takling about reduction of the adaptative learning pipeline consumption at Prof En Poche based on unsupervised algorithms. After some theorical reminders on online algorithms, we present a solution using them and illustrate with the first results.
+  </p>
+</details> 
+
+<details>
+  <summary style="cursor: pointer">
     <b>&#8226; May, 16th 2022 - Youen Chéné</b>, Founder of Webvert, Web site repair and decarbonization. State of the art and limits of the measurement of the footprint of a website.
   </summary>
   <p>
