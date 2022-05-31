@@ -12,7 +12,7 @@ aside: true
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; May, 23nd 2022 - Jordy Palafox</b>, team member. Online learning for adaptive learning.
+    <b>&#8226; May, 23th 2022 - Jordy Palafox</b>, team member. Online learning for adaptive learning.
   </summary>
   <p>
     <b>Abstract:</b> In this talk, we are takling about reduction of the adaptative learning pipeline consumption at Prof En Poche based on unsupervised algorithms. After some theorical reminders on online algorithms, we present a solution using them and illustrate with the first results.
@@ -41,6 +41,18 @@ aside: true
   </p>
   <a href="/seminars/sem14.pdf">Slides here</a>
 </details> 
+
+
+<details>
+  <summary style="cursor: pointer">
+    <b>&#8226; May, 2nd 2022 - Matthieu François, Simon Lebeaud, Nicolas Tirel</b>, team member. Online learning for adaptive learning.
+  </summary>
+  <p>
+    <b>Abstract:</b> In this presentation, we look back at some of the courses we took during the [5th International School on Deep Learning DeepLearn 2022 Spring](https://irdta.eu/deeplearn/2022sp/).    
+  </p>
+  <a href="/seminars/guimaraes.pdf">Slides here</a>
+</details> 
+
 
 <details>
   <summary style="cursor: pointer">
