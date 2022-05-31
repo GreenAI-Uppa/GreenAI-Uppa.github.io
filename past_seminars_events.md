@@ -58,7 +58,7 @@ For this seminar, we will introduce the school, and then we will each come back 
  
   </p>
   
-  <a href='https://irdta.eu/deeplearn/2022sp/'>Link to the website of the conference</a>
+  <a href='https://irdta.eu/deeplearn/2022sp/'>Link to the website of the conference</a>  
   
   <a href="/seminars/guimaraes.pdf">Slides here</a>
 </details> 
