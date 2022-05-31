@@ -45,7 +45,7 @@ aside: true
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; May, 2nd 2022 - Matthieu François, Simon Lebeaud, Nicolas Tirel</b>, team member. Online learning for adaptive learning.
+    <b>&#8226; May, 2nd 2022 - Matthieu François, Simon Lebeaud, Nicolas Tirel</b>, team member. FeedBack about 5th International School on Deep Learning DeepLearn 2022 Spring.
   </summary>
   <p>
     <b>Abstract:</b> In this presentation, we look back at some of the courses we took during the [5th International School on Deep Learning DeepLearn 2022 Spring](https://irdta.eu/deeplearn/2022sp/).    
