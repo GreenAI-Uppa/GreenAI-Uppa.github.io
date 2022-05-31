@@ -45,7 +45,7 @@ aside: true
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; May, 2nd 2022 - Matthieu François, Simon Lebeaud, Nicolas Tirel</b>, team members. FeedBack about [5th International School on Deep Learning DeepLearn 2022 Spring](https://irdta.eu/deeplearn/2022sp/).
+    <b>&#8226; May, 2nd 2022 - Matthieu François, Simon Lebeaud, Nicolas Tirel</b>, team members. FeedBack about the 5th International School on Deep Learning DeepLearn 2022 Spring.
   </summary>
   <p>
     <b>Abstract:</b> During the Deep Learn 2022 spring school, Matthieu, Nicolas and Simon had the opportunity to learn more about the most recent advances in the field of deep learning. 
@@ -57,6 +57,9 @@ We also learn more about problems that link several domains such as the robustne
 For this seminar, we will introduce the school, and then we will each come back on a subject that has marked us, presenting the stakes and the way in which the various challenges were addressed.
  
   </p>
+  
+  <a href='https://irdta.eu/deeplearn/2022sp/'>Link to the website of the conference</a>
+  
   <a href="/seminars/guimaraes.pdf">Slides here</a>
 </details> 
 
