@@ -24,7 +24,8 @@ In this page, you will find all the previous reading group session.
 
 - *Sparse matrix multiplication with pytorch and Cuda* by Nicolas and Yanis (14h)
 
-- *Inference using tflite with larq* by Fatou (14h30)
+- *Inference using tflite with larq* by Fatou (14h30)  
+<a href="/images/reading/vague-mars-2022/BNN2.pdf">Slides here</a>
 
 - *Social computing : NLP and community detection* by Matthieu and Paul (15h)
 <a href="/images/reading/vague-mars-2022/reading_matt_28_3.pdf">Slides here</a>
