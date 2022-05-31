@@ -16,7 +16,7 @@ aside: true
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; June, 6th 2022 - Paul Gay</b>, team member.
+    <b>&#8226; June, 13th 2022 - Paul Gay</b>, team member.
   </summary>
   <p>
     <b>Abstract:</b> Coming soon...
