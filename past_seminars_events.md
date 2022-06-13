@@ -10,6 +10,18 @@ aside: true
 
 ### Past seminars and events
 
+
+<details>
+  <summary style="cursor: pointer">
+    <b>&#8226; June, 13th 2022 - Paul Gay</b>, team member. Early Exit Yolo in video object detection
+  </summary>
+  <p>
+    <b>Abstract:</b> The massive amount of computation required to process video can be largely reduced by discarding redundant information in nearby frames and relying on light AI (quantification, pruning, distillation). In this line, this seminar advocate the potential of Early Exit which enable to dynamically adapt the amount of computation to the difficulty of the detection in each image. On one hand, trivial images can be quickly discarded, and the computation budget can be spent on building good features for hard cases, which will be reused for the next frames. 
+This seminar presents an implementation of these ideas with Yolov5 on video object detection. 
+  </p>
+  <a href="/seminars/sem17.pdf">Slides here</a>
+</details>
+
 <details>
   <summary style="cursor: pointer">
     <b>&#8226; May, 23th 2022 - Jordy Palafox</b>, team member. Online learning for adaptive learning.
