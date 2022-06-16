@@ -22,6 +22,8 @@ This seminar presents an implementation of these ideas with Yolov5 on video obje
   <a href="/seminars/sem17.pdf">Slides here</a>
 </details>
 
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
 <details>
   <summary style="cursor: pointer">
     <b>&#8226; May, 23th 2022 - Jordy Palafox</b>, team member. Online learning for adaptive learning.
@@ -30,6 +32,8 @@ This seminar presents an implementation of these ideas with Yolov5 on video obje
     <b>Abstract:</b> In this talk, we are takling about reduction of the adaptative learning pipeline consumption at Prof En Poche based on unsupervised algorithms. After some theorical reminders on online algorithms, we present a solution using them and illustrate with the first results.
   </p>
 </details> 
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
 <details>
   <summary style="cursor: pointer">
