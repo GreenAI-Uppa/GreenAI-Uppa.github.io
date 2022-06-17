@@ -25,8 +25,6 @@ Agriculture is an essential lever for action in the face of the transformations 
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
-**June, 29th 2022 - Arthur Keller** [know more](seminars/plaquette_keller.pdf)
-
 Click [here](<../past_seminars_events>) to the past seminars and events !
 
 ## Reading group
