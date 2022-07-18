@@ -28,7 +28,7 @@ Is coming ...
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; July, 22th 2022 - Lorette Duris</b>, team member. Agro-ecological transition and the MSV (Cultivation on living soil, Maraîchage sur Sols Vivants in french), result of statistical study of soil.
+    <b>&#8226; August, 22th 2022 - Lorette Duris</b>, team member. Agro-ecological transition and the MSV (Cultivation on living soil, Maraîchage sur Sols Vivants in french), result of statistical study of soil.
   </summary>
   <p>
     <b>Abstract:</b> 
