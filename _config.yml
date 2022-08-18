@@ -161,8 +161,7 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
 
 ## the news will appear on the right side 
 news: 
-   01/08/2022: Upcoming seminar with Thomas Poupon
-   22/08/2022: Upcoming seminar with Lorette Duris
+   23/08/2022: Upcoming seminar with Lorette Duris
 
 pins:
   ACML: <a href="https://greenai-uppa.github.io/power_efficient_deep_learning/">Power Efficient Deep Learning workshop</a>

@@ -14,21 +14,7 @@ aside: true
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; August, 1st 2022 - Thomas Poupon </b>, Presentation of Web App with content on ecology using NLP.
-  </summary>
-  <p>
-    <b>Abstract:</b> 
-
-Is coming ...
-
-  </p>
-</details> 
-
-<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
-
-<details>
-  <summary style="cursor: pointer">
-    <b>&#8226; August, 22th 2022 - Lorette Duris</b>, team member. Agro-ecological transition and the MSV (Cultivation on living soil, Maraîchage sur Sols Vivants in french), result of statistical study of soil.
+    <b>&#8226; August, 23th 2022 - Lorette Duris</b>, team member. Agro-ecological transition and the MSV (Cultivation on living soil, Maraîchage sur Sols Vivants in french), result of statistical study of soil.
   </summary>
   <p>
     <b>Abstract:</b> 

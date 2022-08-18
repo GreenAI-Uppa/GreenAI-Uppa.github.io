@@ -10,6 +10,10 @@ aside: true
 
 ### Past seminars and events
 
+**August, 1st 2022 - Thomas Poupon**, Presentation of Web App with content on ecology using NLP.
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
 <details>
   <summary style="cursor: pointer">
     <b>&#8226; June, 20th 2022 - Sébastien Loustau & Lorette Duris</b>, team member. Introduction to the agro-ecological transition and the MSV (Cultivation on living soil, Maraîchage sur Sols Vivants in french)

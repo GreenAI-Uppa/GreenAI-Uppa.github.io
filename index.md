@@ -74,11 +74,11 @@ Simon obtained is engineering degree in 2021 at the [National Institute of Appli
 Fatou obtained her master’s degree in Big Data in 2021 at [Université de Pau et des Pays de l’Adour](https://www.univ-pau.fr/). After a year of experience as Data Scientist, she joined Green AI in December 2021 in collaboration with Prof en Poche on a computer vision and AR project.  For contact, send an email at fksow[at]univ-pau.fr \
 [Web page](https://www.linkedin.com/in/fatou-kine-sow-6b2145152/)
 
-### Yanis Chaigneau
+<!-- ### Yanis Chaigneau
 
 <img src="images/yanis.png" align="center" width="220"/>
 Yanis obtained his engineering degree in 2021 at the [ISAE-SUPAERO](https://www.isae-supaero.fr/fr/), Toulouse, France, with a major in computer science and artificial intelligence as well as in environmental and energy studies. After some work in planetology and energy, he joined GreenAI UPPA in January 2022, as a part of a collaboration between the laboratory and Mellisphera. For contact, send an email at yanis[dot]chaigneau[at]univ-pau.fr \
-[Web page](https://www.linkedin.com/in/yanis-chaigneau/)
+[Web page](https://www.linkedin.com/in/yanis-chaigneau/) -->
 
 
 ## Contact
