@@ -14,11 +14,11 @@ aside: true
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; August, 23th 2022 - Lorette Duris</b>, team member. Agro-ecological transition and the MSV (Cultivation on living soil, Maraîchage sur Sols Vivants in french), result of statistical study of soil.
+    <b>&#8226; September, 13th 2022 - Florian Valade</b>. The rejection option for classification
   </summary>
   <p>
     <b>Abstract:</b> 
-Is coming ...
+The rejection option is a method for rejecting the most difficult data to classify. In this talk we will see how and in which contexts this method can be implemented to improve our modern machine learning practices.
   </p>
 </details> 
 
