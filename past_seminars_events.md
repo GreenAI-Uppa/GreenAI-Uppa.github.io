@@ -14,7 +14,7 @@ aside: true
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; September, 19th 2022 - Paul Gay</b>. Deep learning on Graphs
+    <b>&#8226; September, 19th 2022 - Paul Gay, team member</b>. Deep learning on Graphs
   </summary>
   <p>
     <b>Abstract:</b>
@@ -26,7 +26,7 @@ aside: true
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; September, 13th 2022 - Florian Valade </b>, FujiTsu / Université Gustave Eiffel. The rejection option for classification
+    <b>&#8226; September, 13th 2022 - Florian Valade Phd FUJISTU-Université Gustave Eiffel </b>, . The rejection option for classification
   </summary>
   <p>
     <b>Abstract:</b> 

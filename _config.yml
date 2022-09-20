@@ -161,7 +161,7 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
 
 ## the news will appear on the right side 
 news: 
-  3/09/2022: Seminar with Nicolas Tirel, Advances in ASR for Children data
+  3/09/2022: <a href="https://greenai-uppa.github.io/events/">Seminar</a> with Nicolas Tirel, Advances in ASR for Children data
 
 pins:
   ACML: <a href="https://greenai-uppa.github.io/power_efficient_deep_learning/">Power Efficient Deep Learning workshop</a>
