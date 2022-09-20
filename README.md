@@ -28,7 +28,12 @@ git clone https://github.com/GreenAI-Uppa/GreenAI-Uppa.github.io.git
 
 - See the [alembic template](https://alembic.darn.es/) if you wish to modify it.
 
-- Once you pushed your modification, the [online website](https://greenai-uppa.github.io/) should be updated
+Check `_config.yaml` to modify the News Feed and Quick Links sections.
+
+Check the other `*.md` files for the rest.
+
+
+- Once you pushed your modification, the [online website](https://greenai-uppa.github.io/) should be updated. No need to compile, there is an automatic github action for that.
 
 ### Modify the news feed
 Open the `_config.yml` file, and then search for the news section. As you will see, the format is simple:

@@ -14,13 +14,32 @@ aside: true
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; September, 19th 2022 - Paul Gay</b>. A tutorial to learn on graphs
+    <b>&#8226; October, 3rd 2022 - Nicolas Tirel</b>. Advances in ASR for Children data 
   </summary>
   <p>
     <b>Abstract:</b> 
-    Deep Learning have historically shown success in Speech processing, then tremendous impact on Vision, and eventually on textual data. These models contains many assumptions which are linked to the properties of the data they are applied on (eg. euclidean grid spaces for images). On the other side, many interesting problems can be approach with a graph modelisation, in which these assumptions are no longer valid. In this talk, I wil provide an overview of the last 5 year advancement to apply deep learning principles to learn on graphs.
   </p>
 </details> 
+
+<details>
+  <summary style="cursor: pointer">
+    <b>&#8226; October, 4th 2022 - Samuel Rince </b>. Align People, investments, and ethic with NLP and Alygne.
+  </summary>
+  <p>
+    <b>Abstract:</b> 
+  </p>
+</details> 
+
+<details>
+  <summary style="cursor: pointer">
+    <b>&#8226; October, 17th 2022 - Simon Lebeaud, team member </b>. A review of state of the art tracking and object detection
+  </summary>
+  <p>
+    <b>Abstract:</b> 
+  </p>
+</details> 
+
+
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
