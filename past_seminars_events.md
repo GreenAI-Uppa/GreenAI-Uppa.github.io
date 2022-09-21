@@ -26,7 +26,7 @@ aside: true
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; September, 13th 2022 - Florian Valade Phd FUJISTU-Université Gustave Eiffel </b>, . The rejection option for classification
+    <b>&#8226; September, 13th 2022 - Florian Valade, Phd FUJISTU-Université Gustave Eiffel </b>. The rejection option for classification
   </summary>
   <p>
     <b>Abstract:</b> 

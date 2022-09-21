@@ -19,7 +19,7 @@ git clone https://github.com/GreenAI-Uppa/GreenAI-Uppa.github.io.git
 - From the root directory, install the gems
 
 ```
-`bundle install` 
+bundle install 
 ```
 
 ### Running and modifying the site
