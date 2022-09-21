@@ -18,9 +18,9 @@ aside: true
   </summary>
   <p>
     <b>Abstract:</b>
-    During the previous seminar, we designed an ASR for children in a classroom context to make them answer some serious games to learn mathematics.
+    During the previous seminar, we presented an ASR for children in a classroom context to learn mathematics using their voices.
     We used at this time DeepSpeech, an open-source implementation developed by Mozilla and inspired by the Silicon Valley AI Lab, with a result of 18% in WER.
-    Since that, we have changed DeepSpeech to coqui, adapt the corpus with a more realistic one and designed a specific language model to get even better results.
+    Since that, we have changed DeepSpeech to Coqui STT, adapt the corpus with a more realistic one and designed a specific language model to get even better results.
     The following seminar will go through our journey, with a more spontaneous dataset and a lighter model.
   </p>
 </details> 
