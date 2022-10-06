@@ -161,8 +161,6 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
 
 ## the news will appear on the right side 
 news:
-  3/10/2022: <a href="https://greenai-uppa.github.io/events/">Seminar</a> meeting with Odyssee agency to discuss about Green AI for the ecological shift of the territory
-  4/10/2022: <a href="https://greenai-uppa.github.io/events/">Seminar</a> with Samuel Rincé, Calculating the multi-criteria impacts of the manufacture and use of digital equipment, servers, and the cloud.
   10/10/2022: <a href="https://greenai-uppa.github.io/events/">Seminar</a> with Nicolas Tirel, Advances in ASR for schoolchildren
   #17/10/2022: <a href="https://greenai-uppa.github.io/events/">Seminar</a> with Simond Lebeaud, A review of state of the art tracking and object detection.
 
