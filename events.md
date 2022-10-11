@@ -11,27 +11,15 @@ aside: true
 
 ## Upcoming seminars and events
 
-<details>
-  <summary style="cursor: pointer">
-    <b>&#8226; October, 10th 2022 - Nicolas Tirel</b>. Advances in ASR for schoolchildren
-  </summary>
-  <p>
-    <b>Abstract:</b>
-    During the previous seminar, we presented an ASR for children in a classroom context to learn mathematics using their voices.
-    We used at this time DeepSpeech, an open-source implementation developed by Mozilla and inspired by the Silicon Valley AI Lab, with a result of 18% in WER.
-    Since that, we have changed DeepSpeech to Coqui STT, adapt the corpus with a more realistic one and designed a specific language model to get even better results.
-    The following seminar will go through our journey, with a more spontaneous dataset and a lighter model.
-  </p>
-</details> 
-
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; October, 17th 2022 - Simon Lebeaud, team member </b>. A review of state of the art tracking and object detection
+    <b>&#8226; October, 17th 2022 - Simon Lebeaud, team member.</b><br>A review of state of the art tracking and object detection
   </summary>
   <p>
-    <b>Abstract:</b> 
+    <b>Abstract:</b>
+    From calculating euclidean distance to deep appearance metrics association, state of the art tracking techniques changed quite a lot in the past decade. Evolving in parallel to object detection and relying a lot on it, tracking techniques are trying to solve the association between object states while coping with the sometimes unreliable detections.
   </p>
 </details> 
 

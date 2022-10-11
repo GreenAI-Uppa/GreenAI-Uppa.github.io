@@ -14,7 +14,26 @@ aside: true
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; October, 4th 2022 - Samuel Rincé </b>. Calculating the multi-criteria impacts of the manufacture and use of digital equipment, servers, and the cloud.
+    <b>&#8226; October, 10th 2022 - Nicolas Tirel, team member</b>.
+    <br>
+    Advances in ASR for schoolchildren
+  </summary>
+  <p>
+    <b>Abstract:</b>
+    During the previous seminar, we presented an ASR for children in a classroom context to learn mathematics using their voices.
+    We used at this time DeepSpeech, an open-source implementation developed by Mozilla and inspired by the Silicon Valley AI Lab, with a result of 18% in WER.
+    Since that, we have changed DeepSpeech to Coqui STT, adapt the corpus with a more realistic one and designed a specific language model to get even better results.
+    The following seminar will go through our journey, with a more spontaneous dataset and a lighter model.
+  </p>
+  <a href="/seminars/sem1022.pdf">Slides here</a>
+</details> 
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
+<details>
+  <summary style="cursor: pointer">
+    <b>&#8226; October, 4th 2022 - Samuel Rincé</b>. <br>
+    Calculating the multi-criteria impacts of the manufacture and use of digital equipment, servers, and the cloud.
   </summary>
   <p>
     <b>Abstract:</b> 
@@ -28,7 +47,7 @@ aside: true
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; September, 19th 2022 - Paul Gay, team member</b>. Deep learning on Graphs
+    <b>&#8226; September, 19th 2022 - Paul Gay, team member</b>. <br> Deep learning on Graphs
   </summary>
   <p>
     <b>Abstract:</b>
@@ -37,10 +56,12 @@ aside: true
   <a href="/seminars/sem20.pdf">Slides here</a>
 </details>
 
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; September, 13th 2022 - Florian Valade, Phd FUJISTU-Université Gustave Eiffel </b>. The rejection option for classification
+    <b>&#8226; September, 13th 2022 - Florian Valade, Phd FUJISTU-Université Gustave Eiffel</b>.<br> The rejection option for classification
   </summary>
   <p>
     <b>Abstract:</b> 
@@ -48,14 +69,16 @@ aside: true
   </p>
 </details> 
 
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
-**August, 1st 2022 - Thomas Poupon**, Presentation of Web App with content on ecology using NLP.
+
+**August, 1st 2022 - Thomas Poupon**.<br> Presentation of Web App with content on ecology using NLP.
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; June, 20th 2022 - Sébastien Loustau & Lorette Duris</b>, team member. Introduction to the agro-ecological transition and the MSV (Cultivation on living soil, Maraîchage sur Sols Vivants in french)
+    <b>&#8226; June, 20th 2022 - Sébastien Loustau & Lorette Duris, team member.</b><br> Introduction to the agro-ecological transition and the MSV (Cultivation on living soil, Maraîchage sur Sols Vivants in french)
   </summary>
   <p>
     <b>Abstract:</b> 
@@ -70,7 +93,7 @@ Agriculture is an essential lever for action in the face of the transformations 
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; June, 13th 2022 - Paul Gay</b>, team member. Early Exit Yolo in video object detection
+    <b>&#8226; June, 13th 2022 - Paul Gay, team member.</b><br> Early Exit Yolo in video object detection
   </summary>
   <p>
     <b>Abstract:</b> The massive amount of computation required to process video can be largely reduced by discarding redundant information in nearby frames and relying on light AI (quantification, pruning, distillation). In this line, this seminar advocate the potential of Early Exit which enable to dynamically adapt the amount of computation to the difficulty of the detection in each image. On one hand, trivial images can be quickly discarded, and the computation budget can be spent on building good features for hard cases, which will be reused for the next frames. 
@@ -83,7 +106,7 @@ This seminar presents an implementation of these ideas with Yolov5 on video obje
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; May, 23th 2022 - Jordy Palafox</b>, team member. Online learning for adaptive learning.
+    <b>&#8226; May, 23th 2022 - Jordy Palafox, team member.</b><br> Online learning for adaptive learning.
   </summary>
   <p>
     <b>Abstract:</b> In this talk, we are takling about reduction of the adaptative learning pipeline consumption at Prof En Poche based on unsupervised algorithms. After some theorical reminders on online algorithms, we present a solution using them and illustrate with the first results.
@@ -94,7 +117,7 @@ This seminar presents an implementation of these ideas with Yolov5 on video obje
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; May, 16th 2022 - Youen Chéné</b>, Founder of Webvert, Web site repair and decarbonization. State of the art and limits of the measurement of the footprint of a website.
+    <b>&#8226; May, 16th 2022 - Youen Chéné, Founder of Webvert, Web site repair and decarbonization.</b><br>State of the art and limits of the measurement of the footprint of a website.
   </summary>
   <p>
     <b>Abstract:</b>  In 2022, there is now multitude ways of measuring and evaluating the environmental impact of a website, such as modeling or measurement tools. They can each evaluate a different perimeter. How to find your way around and what are the current limits?
@@ -106,7 +129,7 @@ This seminar presents an implementation of these ideas with Yolov5 on video obje
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; May, 9th 2022 - Matthieu François</b>, team member. 
+    <b>&#8226; May, 9th 2022 - Matthieu François, team member.</b><br>
     AI for crisis management - Media management part 2, application.
   </summary>
   <p>
@@ -115,10 +138,11 @@ This seminar presents an implementation of these ideas with Yolov5 on video obje
   <a href="/seminars/sem14.pdf">Slides here</a>
 </details> 
 
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; May, 2nd 2022 - Matthieu François, Simon Lebeaud, Nicolas Tirel</b>, team members. FeedBack about the 5th International School on Deep Learning DeepLearn 2022 Spring.
+    <b>&#8226; May, 2nd 2022 - Matthieu François, Simon Lebeaud, Nicolas Tirel, team members.</b><br> FeedBack about the 5th International School on Deep Learning DeepLearn 2022 Spring.
   </summary>
   <p>
     <b>Abstract:</b> During the Deep Learn 2022 spring school, Matthieu, Nicolas and Simon had the opportunity to learn more about the most recent advances in the field of deep learning. 
@@ -136,10 +160,11 @@ For this seminar, we will introduce the school, and then we will each come back 
   <a href="/seminars/guimaraes.pdf">Slides here</a>
 </details> 
 
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; May, 2nd 2022 - Fatou Kine Sow</b>, team member.
+    <b>&#8226; May, 2nd 2022 - Fatou Kine Sow, team member.</b><br>
     Trash detection and tracking system  for recycling awareness in schools
   </summary>
   <p>
@@ -151,7 +176,7 @@ For this seminar, we will introduce the school, and then we will each come back 
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; April, 11th 2022 - Simon Lebeaud</b>, team member.
+    <b>&#8226; April, 11th 2022 - Simon Lebeaud, team member.</b><br>
     Computer Vision AI applied to biodiversity and fish tracking in a fish pass context
   </summary>
   <p>
@@ -165,7 +190,7 @@ For this seminar, we will introduce the school, and then we will each come back 
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; March 2022, the 28th - Nicolas Tirel</b>, team member.
+    <b>&#8226; March 28th, 2022 - Nicolas Tirel, team member.</b><br>
     Children Speech Recognition system in a classroom context with energy consumption consideration.
   </summary>
   <p>
@@ -178,7 +203,7 @@ For this seminar, we will introduce the school, and then we will each come back 
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; March 2022, the 21st - Romain Carrausse</b>, member of <a href='https://tree.univ-pau.fr/fr/index.html'>TREE lab</a>.
+    <b>&#8226; March, 21st 2022 - Romain Carrausse, member of <a href='https://tree.univ-pau.fr/fr/index.html'>TREE lab</a>.</b><br>
     Contestations, conceptions and modes of government of ecological modernization. A reading from a political geography based on the cases of agrivolatism and energy communities.
   </summary>
   <p>
@@ -190,7 +215,7 @@ For this seminar, we will introduce the school, and then we will each come back 
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; March, 14th 2022 - Yanis Chaigneau</b>, team member.
+    <b>&#8226; March, 14th 2022 - Yanis Chaigneau, team member.</b><br>
     Machine Learning algorithms for the prediction of the blooming honey plants.
   </summary>
   <p>
@@ -202,7 +227,7 @@ For this seminar, we will introduce the school, and then we will each come back 
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; February, 14th 2022 - Sébastien Lousteau</b>, team member, MCMC optimization for high-dimensional problems.
+    <b>&#8226; February, 14th 2022 - Sébastien Lousteau, team member.</b><br> MCMC optimization for high-dimensional problems.
   </summary>
   <p>
     <b>Abstract:</b> The aim of this talk is to introduce a greedy MCMC optimizer for Deep Learning. After a gentle start about the convergence of standard Metropolis Hasting algorithm, and discussion about MCMC alternatives, I will present recent MCMC challenging algorithms for recent high dimensional machine learning problems, where the dimension of the Markov Chain could change over time. Then, I will describe how to adapt these ideas to build a new optimizer for Deep Learning and shows its nice properties to learn sparse deep nets, as well as the next challenges to have a competitive counterpart of standard stochastic gradient methods.	
@@ -214,7 +239,7 @@ For this seminar, we will introduce the school, and then we will each come back 
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; January, 31st 2022 - Paul Gay</b>, team member, Social computing for environnment applications. 
+    <b>&#8226; January, 31st 2022 - Paul Gay, team member.</b><br> Social computing for environnment applications. 
   </summary>
   <p>
     <b>Abstract:</b> This seminar is an introduction to social computing with a focus on environnemental applications ie the behavior or the resilience of a socio-economic object when triggered by an environnemental hazard. This subject encompasses for example studying a crowd opinion to a new policy through social network analysis, or broadcast media representation thanks to NLP and graph analysis methods. After a general introduction, the talk will focus on two case studies : The artificial intelligence on crisis management, and the community based energy storage planning to improve photovoltaic system adoption. 
@@ -226,7 +251,7 @@ For this seminar, we will introduce the school, and then we will each come back 
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; January, 17th 2022 - Jordy Palafox</b>, team member, Clustering and recommandation system for adaptative learning 
+    <b>&#8226; January, 17th 2022 - Jordy Palafox, team member.</b><br> Clustering and recommandation system for adaptative learning 
   </summary>
   <p>
     <b>Abstract:</b> In this talk, we give some details about code optimization of the MathIA engine realized by Prof en Poche. We explore some clues about k-medoids clustering methods. After that,  we take care about the consumption of the algorithm measured by AIPowerMeter compared to the real consumption obtained with Schneider Power meters.
@@ -235,13 +260,13 @@ For this seminar, we will introduce the school, and then we will each come back 
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
-**The 3rd January 2022**, Seminar of Sébastien Loustau, and Team progress summary with new team members !
+**January 2022, 3rd 2022**, Seminar of Sébastien Loustau, and Team progress summary with new team members !
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; December, 20th 2021 - Matthieu François</b>, team member, AI in crisis management - Media management with AI
+    <b>&#8226; December, 20th 2021 - Matthieu François, team member.</b><br> AI in crisis management - Media management with AI
   </summary>
   <p>
     <b>Abstract:</b> Crisis management requires the management of a large amount of heterogeneous information. This seminar focuses on the processing of media (TV news, tweets), whose monitoring is crucial for decision makers to understand the perception of a crisis by the general public.
@@ -267,7 +292,7 @@ We will study three complementary strategies based on regular expressions, word 
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; November, 22th 2021 - Sébastien Loustau</b>, team member, Forget SGD - Deep learning theory for a new optimizer
+    <b>&#8226; November, 22th 2021 - Sébastien Loustau, team member.</b><br> Forget SGD - Deep learning theory for a new optimizer
   </summary>
   <p>
     <b>Abstract:</b> In this talk, I will introduce alternatives to standard gradient descents to learn power-efficient deep learning algorithms. After a gentle start about optimization with mirror descents,  we present recent theoretical advances on Pac-Bayesian sparse deep learning, leading to a new greedy optimizer to learn sparse and potentially binarized deep networks. We finally introduce new divergences to the prior, and rely this framework with metric task systems.
@@ -284,7 +309,7 @@ We will study three complementary strategies based on regular expressions, word 
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; November, 8th 2021 - Jordy Palafox</b>, team member, Adaptive Learning and Clustering methods
+    <b>&#8226; November, 8th 2021 - Jordy Palafox, team member.</b><br> Adaptive Learning and Clustering methods
   </summary>
   <p>
     <b>Abstract:</b> In the context of adaptive learning, clustering methods are used to recognize students with the same profil. Here, we will focus on the clustering algorithm used by Prof en Poche which is a combinaison of two methods : the KMedoids and the Louvain algorithm to obtain a robust method. After introducing it, we will measure the consumption of the algorithm and explore how to reduce it. We will conclude with some recent methods using deep learning based on autoencoders.
@@ -295,7 +320,7 @@ We will study three complementary strategies based on regular expressions, word 
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; October, 25th 2021 - Paul Gay</b>, team member, Power efficient transformers
+    <b>&#8226; October, 25th 2021 - Paul Gay, team member.</b><br> Power efficient transformers
   </summary>
   <p>
     <b>Abstract:</b> As transformers are becoming the standard NLP tool, questions are raised about ethics, bias and energy consumption. This last topic is of importance as these models are the biggest ones in the large and hungry power deep learning model trend. In this seminar, I will present in the first part a conmprehensive tutorial on the principles of attention and how the transformers have conquered the state of the art. This details will equip us for the second part in which I will survey a number of methods which are concerned in making the transformers lighter and more available for practicionners with low computation resources.</p>
@@ -306,7 +331,7 @@ We will study three complementary strategies based on regular expressions, word 
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; October, 11th 2021 - Matthieu François</b>, team member, AI addition to crisis management
+    <b>&#8226; October, 11th 2021 - Matthieu François, team member.</b><br> AI addition to crisis management
   </summary>
   <p>
     <b>Abstract:</b> Human impact on our planet is increasing the scale and the number of environmental disasters. During this seminar I'll present our join project with Altanoveo. This project is about AI integration to climate or industrial crisis management methods. I will describe the potential of IA in this domain and present two models on tweet classification and fire detection on natural images.
@@ -318,7 +343,7 @@ We will study three complementary strategies based on regular expressions, word 
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; September, 27th 2021 - Sébastien Loustau</b>, team member, Introduction to convex optimization
+    <b>&#8226; September, 27th 2021 - Sébastien Loustau, team member.</b><br> Introduction to convex optimization
   </summary>
   <p>
     <b>Abstract:</b> In this lecture, I will introduce convex optimization theory and mirror descent. We start with a theoretical motivation and studyt of (stochastic) gradient descent, and then moove to the non-euclidean setting to derive mirror descent algorithm as a generalization of gradient descent. We finally apply it to the context of expert advices to recover the classical regret bound for exponential weighted averages previously presented in the first seminar in july, and discuss   possible applications to Green AI.
@@ -330,7 +355,7 @@ We will study three complementary strategies based on regular expressions, word 
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; September, 13th 2021 - Sébastien Loustau</b>, team member, Kick Off GreenAI Uppa
+    <b>&#8226; September, 13th 2021 - Sébastien Loustau, team member.</b><br> Kick Off GreenAI Uppa
   </summary>
   <p>
     <b>Abstract:</b> Official kick off of the GreenAI UPPA project ! After presenting the climatic and mathematical motivations (has the earth ever been this hot before ?), we introduce the context and support we have from the public institutions and the SMEs. We explain how the team will be organized, and inspired from the best of both worlds. Then we take 30 minuts to write our <b>elevator pitch</b>. Welcome to Jordy and Matthieu !
@@ -342,7 +367,7 @@ We will study three complementary strategies based on regular expressions, word 
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; August, 23rd 2021 - Paul Gay</b>, team member, Measuring the Power draw of computers
+    <b>&#8226; August, 23rd 2021 - Paul Gay, team member.</b><br> Measuring the Power draw of computers
   </summary>
   <p>
     <b>Abstract:</b> The ability of measuring power and consumption of machine learning algorithms is necessary to design new efficient ones. Nowadays, there is a growing interest in the machine learning and IT community for measuring the consumption at different scale, from the AI model to the entire data center. In this talk, we survey recent tools and softwares based on RAPL and NVIDIA-SMI and highlight the dependancy to the hardware considered (CPU, GPU), as well as the different sources of consumption in the architecture of a computer. The final goal is to give to engineers and data scientists the capacity to measure the consumption of deep/machine learning algorithms via our open source software <a href="https://github.com/GreenAI-Uppa/deep_learning_power_measure">deep_learning_power_measure</a> developed by Green AI Uppa.
@@ -354,7 +379,7 @@ We will study three complementary strategies based on regular expressions, word 
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; July, 26th 2021 - Julien Mercier</b>, team member, How to binarize a neural network 
+    <b>&#8226; July, 26th 2021 - Julien Mercier, team member.</b><br>How to binarize a neural network 
   </summary>
   <p>
     <b>Abstract:</b> In this talk, I propose to present the main pros and cons of binarization via the gradient. We present two main historical attempt: 
@@ -367,7 +392,7 @@ We will study three complementary strategies based on regular expressions, word 
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; July, 5th 2021 - Sébastien Loustau</b>, team member, How to penalize deep learning with power measurements ?
+    <b>&#8226; July, 5th 2021 - Sébastien Loustau, team member.</b><br> How to penalize deep learning with power measurements ?
   </summary>
   <p>
     <b>Abstract:</b> In this talk, I propose to introduce the main theoretical foundations of online learning and PAC-Bayesian theory and how it could be used to build new power-efficient algorithms. After a gentle start dedicated to the problem of prediction with expert's advices, I will present the PAC-Bayesian paradigm and how it is related to the context of aggregation of expert's advices and stochastic algorithms. We apply this theory to learn sparse deep nets where the networks are coming from recent advances in binarization (BinaryConnect, XNor-nets, Xnor-nets ++). We finally sketch how to generalize these results to more suitable divergences such as Optimal Transport, a nice and promising field in order to measure the cost of choosing sequentially a particular algorithm in terms of electric consumption. This talk is based on the two following papers: <a href="https://hal.archives-ouvertes.fr/hal-03262687/document">Learning with BOT</a> and <a href="https://hal.archives-ouvertes.fr/hal-03262679v3/document">Sparsity regret bounds for XNOR-Nets</a>. 
