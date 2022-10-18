@@ -12,11 +12,15 @@ aside: true
 
 The GreenAI UPPA team is an engaged lab that improves state-of-the-art machine learning algorithms. Concerned with our impact on earth, we develop low consumption algorithms and tackle environmental challenges. Unlike other research groups, our activities are dedicated to the full pipeline from the math grounding to R&D prototype and in production deployment with industrial partners. We are based in Pau, France, in front of the Pyrénées. 
 
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
 ## Our research
 
 ![mirrordescent](/images/seminar4.png){:class="img-responsive"}
 
 Our research encompasses diverse projects and collaborations around the mathematical foundations of power-efficient deep/machine learning algorithms, and the applications of AI to build a more sustainable world. In this section, we present the mathematical as well as the algorithmic part of our activity. 
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
 ## Team members
 
@@ -48,13 +52,6 @@ Matthieu obtained his Master's degree in 2020 at [Université de Grenoble Alpes]
 For contact, send an email at matthieu[dot]francois[at]univ-pau.fr \
 [Web page](https://www.linkedin.com/in/matthieufran%C3%A7ois/)
 
-### Jordy Palafox
-
-<img src="images/jordy.png" align="center" width="220"/>
-Jordy defended his Phd Thesis in 2018 at [UPPA](https://www.univ-pau.fr/fr/index.html) [LMAP](https://lma-umr5142.univ-pau.fr/fr/index.html). After a post-doc in 2018-2019 at La Rochelle in the lab [LASIE](https://lasie.univ-larochelle.fr/), he taught at CY Tech two years and followed training in Data Science. He joined GreenAI UPPA group in Septembre 2021.
-For contact, send an email at jordy[dot]palafox[at]univ-pau.fr \
-[Web page](https://www.linkedin.com/in/jpalafox1242/)
-
 ### Nicolas Tirel
 
 <img src="images/nicolas.png" align="center" width="220"/>
@@ -74,11 +71,22 @@ Simon obtained is engineering degree in 2021 at the [National Institute of Appli
 Fatou obtained her master’s degree in Big Data in 2021 at [Université de Pau et des Pays de l’Adour](https://www.univ-pau.fr/). After a year of experience as Data Scientist, she joined Green AI in December 2021 in collaboration with Prof en Poche on a computer vision and AR project.  For contact, send an email at fksow[at]univ-pau.fr \
 [Web page](https://www.linkedin.com/in/fatou-kine-sow-6b2145152/)
 
-<!-- ### Yanis Chaigneau
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
+## Former members
+
+### Yanis Chaigneau
 
 <img src="images/yanis.png" align="center" width="220"/>
 Yanis obtained his engineering degree in 2021 at the [ISAE-SUPAERO](https://www.isae-supaero.fr/fr/), Toulouse, France, with a major in computer science and artificial intelligence as well as in environmental and energy studies. After some work in planetology and energy, he joined GreenAI UPPA in January 2022, as a part of a collaboration between the laboratory and Mellisphera. For contact, send an email at yanis[dot]chaigneau[at]univ-pau.fr \
-[Web page](https://www.linkedin.com/in/yanis-chaigneau/) -->
+[Web page](https://www.linkedin.com/in/yanis-chaigneau/) 
+
+### Jordy Palafox
+
+<img src="images/jordy.png" align="center" width="220"/>
+Jordy defended his Phd Thesis in 2018 at [UPPA](https://www.univ-pau.fr/fr/index.html) [LMAP](https://lma-umr5142.univ-pau.fr/fr/index.html). After a post-doc in 2018-2019 at La Rochelle in the lab [LASIE](https://lasie.univ-larochelle.fr/), he taught at CY Tech two years and followed training in Data Science. He joined GreenAI UPPA group in Septembre 2021.
+For contact, send an email at jordy[dot]palafox[at]univ-pau.fr \
+[Web page](https://www.linkedin.com/in/jpalafox1242/)
 
 
 ## Contact
