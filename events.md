@@ -113,6 +113,9 @@ Click [here](<../reading_group>) to the previous reading group !
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
+**August, 31st 2022 - Jordy Palafox & Matthieu François, Team members**.<br> Conference at MAS days in Rouen, Adaptive computing clusters & MCMC algorithms. <a href="/seminars/MAS_MatthieuJordy.pdf">Slides here</a>
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
 **August, 1st 2022 - Thomas Poupon**.<br> Presentation of Web App with content on ecology using NLP.
 
