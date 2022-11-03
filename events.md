@@ -15,6 +15,16 @@ aside: true
 
 <details>
   <summary style="cursor: pointer">
+    <b>&#8226; November, 7th 2022 - Pierre Cilluffo Grimaldi, Phd at CELSA.</b><br>Social construction and globalization of wilderness : international public opinion vs people's doubts in the case of Amazon rainforest.
+  </summary>
+</details> 
+
+
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
+<details>
+  <summary style="cursor: pointer">
     <b>&#8226; November, 14th 2022 - Fatou Kiné Sow, team member.</b><br>
   </summary>
 </details> 
