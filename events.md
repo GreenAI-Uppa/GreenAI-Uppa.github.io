@@ -15,8 +15,12 @@ aside: true
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; November, 7th 2022 - Pierre Cilluffo Grimaldi, Phd at CELSA.</b><br>Social construction and globalization of wilderness : international public opinion vs people's doubts in the case of Amazon rainforest.
+    <b>&#8226; November, 7th 2022 - Pierre Cilluffo Grimaldi, Phd at CELSA.</b><br><b>Title: </b>Social construction and globalization of wilderness : international public opinion vs people's doubts in the case of Amazon rainforest.
+  <br><b>Abstract: </b><i>(click to show/hide)</i>
   </summary>
+  <p>
+    We develop the role of environmental imaginaries (wilderness, "Eldorado", etc) for biodiversity conservation in Amazon rainforest, its interrelation with international public opinion and the resulting conflicts of representation between diverse populations ("determined territory" vs "territory prescribed"). Ultimately, it will be question of technology and biodiversity conservation. We think about the possibilities of empowerment that technology offers to reduce this dichotomy and their contributions of co-constructed and objectifying information
+  </p>
 </details> 
 
 
@@ -53,10 +57,10 @@ Click [here](<../reading_group>) to the previous reading group !
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; October, 17th 2022 - Simon Lebeaud, team member.</b><br>A review of state of the art tracking and object detection
+    <b>&#8226; October, 17th 2022 - Simon Lebeaud, team member.</b><br><b>Title: </b>A review of state of the art tracking and object detection
+    <br><b>Abstract: </b><i>(click to show/hide)</i>
   </summary>
   <p>
-    <b>Abstract:</b>
     From calculating euclidean distance to deep appearance metrics association, state of the art tracking techniques changed quite a lot in the past decade. Evolving in parallel to object detection and relying a lot on it, tracking techniques are trying to solve the association between object states while coping with the sometimes unreliable detections.
   </p>
   <a href="/seminars/sem23.pdf">Slides here</a>
@@ -68,10 +72,10 @@ Click [here](<../reading_group>) to the previous reading group !
   <summary style="cursor: pointer">
     <b>&#8226; October, 10th 2022 - Nicolas Tirel, team member</b>.
     <br>
-    Advances in ASR for schoolchildren
+    <b>Title: </b>Advances in ASR for schoolchildren
+    <br><b>Abstract: </b><i>(click to show/hide)</i>
   </summary>
   <p>
-    <b>Abstract:</b>
     During the previous seminar, we presented an ASR for children in a classroom context to learn mathematics using their voices.
     We used at this time DeepSpeech, an open-source implementation developed by Mozilla and inspired by the Silicon Valley AI Lab, with a result of 18% in WER.
     Since that, we have changed DeepSpeech to Coqui STT, adapt the corpus with a more realistic one and designed a specific language model to get even better results.
@@ -84,11 +88,11 @@ Click [here](<../reading_group>) to the previous reading group !
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; October, 4th 2022 - Samuel Rincé</b>. <br>
+    <b>&#8226; October, 4th 2022 - Samuel Rincé</b>. <br><b>Title: </b>
     Calculating the multi-criteria impacts of the manufacture and use of digital equipment, servers, and the cloud.
+    <br><b>Abstract: </b><i>(click to show/hide)</i>
   </summary>
   <p>
-    <b>Abstract:</b> 
     Boavizta is an association dedicated to the development of methodologies, tools, and datasets that facilitate the measurement of the multi-criteria environmental impact of digital equipment. Boavizta's work is open source and state-of-the-art in terms of life cycle assessment. The group has about 100 members involved in about 15 projects.
     The presentation will start with the mission of Boavizta and the importance of the different works carried out within the association. We will talk in particular about two tools developed internally and open source. Datavizta is a website for visualizing carbon impact data provided by manufacturers. Boaviztapi is a multi-criteria impact calculation API for servers, cloud instances, or electronic components (CPU, RAM, etc.). We will also present the bottom-up calculation method of the API. 
   </p>
@@ -99,10 +103,10 @@ Click [here](<../reading_group>) to the previous reading group !
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; September, 19th 2022 - Paul Gay, team member</b>. <br> Deep learning on Graphs
+    <b>&#8226; September, 19th 2022 - Paul Gay, team member</b>.<br><b>Title: </b>Deep learning on Graphs
+    <br><b>Abstract: </b><i>(click to show/hide)</i>
   </summary>
   <p>
-    <b>Abstract:</b>
     Deep Learning have historically shown success in Speech processing, then tremendous impact on Vision, and eventually on textual data. These models contains many assumptions which are linked to the properties of the data they are applied on (eg. euclidean grid spaces for images). On the other side, many interesting problems can be approach with a graph modelisation, in which these assumptions are no longer valid. In this talk, I wil provide an overview of the last 5 year advancement to apply deep learning principles to learn on graphs.
   </p>
   <a href="/seminars/sem20.pdf">Slides here</a>
@@ -113,10 +117,10 @@ Click [here](<../reading_group>) to the previous reading group !
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; September, 13th 2022 - Florian Valade, Phd FUJISTU-Université Gustave Eiffel</b>.<br> The rejection option for classification
+    <b>&#8226; September, 13th 2022 - Florian Valade, Phd FUJISTU-Université Gustave Eiffel</b>.<br><b>Title: </b>The rejection option for classification
+    <br><b>Abstract: </b><i>(click to show/hide)</i>
   </summary>
   <p>
-    <b>Abstract:</b> 
     Prediction confidence is an important issue in Deep Learning. In this talk, I'll cover a theory grounded statistical method, where given a rejection rate, a unlabeled dataset is used to calibrate a probability distribution to perform the rejection/acception of the prediction of any model.
   </p>
 </details> 
@@ -133,11 +137,10 @@ Click [here](<../reading_group>) to the previous reading group !
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; June, 20th 2022 - Sébastien Loustau & Lorette Duris, team member.</b><br> Introduction to the agro-ecological transition and the MSV (Cultivation on living soil, Maraîchage sur Sols Vivants in french)
+    <b>&#8226; June, 20th 2022 - Sébastien Loustau & Lorette Duris, team member.</b><br><b>Title: </b>Introduction to the agro-ecological transition and the MSV (Cultivation on living soil, Maraîchage sur Sols Vivants in french)
+    <br><b>Abstract: </b><i>(click to show/hide)</i>
   </summary>
   <p>
-    <b>Abstract:</b> 
-
 Agriculture is an essential lever for action in the face of the transformations we are experiencing. The MSV (Maraîchage sur Sols Vivants) is a set of practices of the Agriculture of the living which consists in feeding the soil with organic matter (with high C/N) to support the biodiversity of the soil, and an organic ploughing of the earthworms. After an introduction to MSV, I will describe the status of the 'From Soil to Plate' project, which aims to lead a positive impact project within the university by developing technical and social innovations in favor of these environmentally virtuous practices. Finally, Lorette will explain her work in biochemistry, which consists in analyzing the soils (organic matter rate, ph in particular) and vegetables (dry matter) of different producers from three types of agriculture: conventional, organic and MSV.
 
   </p>
@@ -148,10 +151,11 @@ Agriculture is an essential lever for action in the face of the transformations 
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; June, 13th 2022 - Paul Gay, team member.</b><br> Early Exit Yolo in video object detection
+    <b>&#8226; June, 13th 2022 - Paul Gay, team member.</b><br><b>Title: </b>Early Exit Yolo in video object detection
+    <br><b>Abstract: </b><i>(click to show/hide)</i>
   </summary>
   <p>
-    <b>Abstract:</b> The massive amount of computation required to process video can be largely reduced by discarding redundant information in nearby frames and relying on light AI (quantification, pruning, distillation). In this line, this seminar advocate the potential of Early Exit which enable to dynamically adapt the amount of computation to the difficulty of the detection in each image. On one hand, trivial images can be quickly discarded, and the computation budget can be spent on building good features for hard cases, which will be reused for the next frames. 
+    The massive amount of computation required to process video can be largely reduced by discarding redundant information in nearby frames and relying on light AI (quantification, pruning, distillation). In this line, this seminar advocate the potential of Early Exit which enable to dynamically adapt the amount of computation to the difficulty of the detection in each image. On one hand, trivial images can be quickly discarded, and the computation budget can be spent on building good features for hard cases, which will be reused for the next frames. 
 This seminar presents an implementation of these ideas with Yolov5 on video object detection. 
   </p>
   <a href="/seminars/sem17.pdf">Slides here</a>
@@ -161,10 +165,11 @@ This seminar presents an implementation of these ideas with Yolov5 on video obje
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; May, 23th 2022 - Jordy Palafox, team member.</b><br> Online learning for adaptive learning.
+    <b>&#8226; May, 23th 2022 - Jordy Palafox, former team member.</b><br><b>Title: </b>Online learning for adaptive learning.
+    <br><b>Abstract: </b><i>(click to show/hide)</i>
   </summary>
   <p>
-    <b>Abstract:</b> In this talk, we are takling about reduction of the adaptative learning pipeline consumption at Prof En Poche based on unsupervised algorithms. After some theorical reminders on online algorithms, we present a solution using them and illustrate with the first results.
+    In this talk, we are takling about reduction of the adaptative learning pipeline consumption at Prof En Poche based on unsupervised algorithms. After some theorical reminders on online algorithms, we present a solution using them and illustrate with the first results.
   </p>
 </details> 
 
@@ -172,7 +177,8 @@ This seminar presents an implementation of these ideas with Yolov5 on video obje
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; May, 16th 2022 - Youen Chéné, Founder of Webvert, Web site repair and decarbonization.</b><br>State of the art and limits of the measurement of the footprint of a website.
+    <b>&#8226; May, 16th 2022 - Youen Chéné, Founder of Webvert, Web site repair and decarbonization.</b><br><b>Title: </b>State of the art and limits of the measurement of the footprint of a website.
+    <br><b>Abstract: </b><i>(click to show/hide)</i>
   </summary>
   <p>
     <b>Abstract:</b>  In 2022, there is now multitude ways of measuring and evaluating the environmental impact of a website, such as modeling or measurement tools. They can each evaluate a different perimeter. How to find your way around and what are the current limits?
@@ -270,7 +276,7 @@ For this seminar, we will introduce the school, and then we will each come back 
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; March, 14th 2022 - Yanis Chaigneau, team member.</b><br>
+    <b>&#8226; March, 14th 2022 - Yanis Chaigneau, former team member.</b><br>
     Machine Learning algorithms for the prediction of the blooming honey plants.
   </summary>
   <p>
@@ -306,7 +312,7 @@ For this seminar, we will introduce the school, and then we will each come back 
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; January, 17th 2022 - Jordy Palafox, team member.</b><br> Clustering and recommandation system for adaptative learning 
+    <b>&#8226; January, 17th 2022 - Jordy Palafox, former team member.</b><br> Clustering and recommandation system for adaptative learning 
   </summary>
   <p>
     <b>Abstract:</b> In this talk, we give some details about code optimization of the MathIA engine realized by Prof en Poche. We explore some clues about k-medoids clustering methods. After that,  we take care about the consumption of the algorithm measured by AIPowerMeter compared to the real consumption obtained with Schneider Power meters.
@@ -364,7 +370,7 @@ We will study three complementary strategies based on regular expressions, word 
 
 <details>
   <summary style="cursor: pointer">
-    <b>&#8226; November, 8th 2021 - Jordy Palafox, team member.</b><br> Adaptive Learning and Clustering methods
+    <b>&#8226; November, 8th 2021 - Jordy Palafox, former team member.</b><br> Adaptive Learning and Clustering methods
   </summary>
   <p>
     <b>Abstract:</b> In the context of adaptive learning, clustering methods are used to recognize students with the same profil. Here, we will focus on the clustering algorithm used by Prof en Poche which is a combinaison of two methods : the KMedoids and the Louvain algorithm to obtain a robust method. After introducing it, we will measure the consumption of the algorithm and explore how to reduce it. We will conclude with some recent methods using deep learning based on autoencoders.
