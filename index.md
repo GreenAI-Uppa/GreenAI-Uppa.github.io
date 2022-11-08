@@ -37,6 +37,8 @@ For contact, send an email at sebastien[dot]loustau[at]univ-pau.fr
 
 [Web page](https://sebastienloustau.github.io/)
 
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
 ### Paul Gay
 
 <img src="images/paul.png" align="center" width="200"/>
@@ -45,6 +47,8 @@ For contact, send an email at paul[dot]gay[at]univ-pau.fr
 
 [Web page](https://paulgay.github.io/index.html)
 
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
 ### Matthieu Francois
 
 <img src="images/matthieu.png" align="center" width="200"/>
@@ -52,18 +56,7 @@ Matthieu obtained his Master's degree in 2020 at [Université de Grenoble Alpes]
 For contact, send an email at matthieu[dot]francois[at]univ-pau.fr \
 [Web page](https://www.linkedin.com/in/matthieufran%C3%A7ois/)
 
-### Nicolas Tirel
-
-<img src="images/nicolas.png" align="center" width="220"/>
-Nicolas graduated from the engineering school [CYTech](https://www.linkedin.com/school/cy-tech/) (ex-EISTI) at Pau, France in 2021 with a speciality in Computer Science and Artificial Intelligence. He is passionated about Data Science since he went to Taïwan for an Exchange Semester during his school time. Thus, he decided to join GreenAI UPPA team on a project about two fields that are really meaningful for him : education and environment. For contact, send an email at nicolas[dot]tirel[at]univ-pau.fr \
-[Web page](https://www.linkedin.com/in/nicolas-tirel-427b42172/)
-
-### Simon Lebeaud
-
-<img src="images/simon.png" align="center" width="220"/>
-Simon obtained is engineering degree in 2021 at the [National Institute of Applied Sciences](https://www.insa-rouen.fr/), Rouen Normandie, with a computer science major. Right after graduating he joined GreenAI UPPA in January 2022, where he started a collaboration with [Hizkia Informatique](https://www.hizkia.eu/). For contact, send an email at simon[dot]lebeaud[at]univ-pau.fr \
-[Web page](https://www.linkedin.com/in/simon-lebeaud/)
-
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
 ### Fatou Kiné Sow
 
@@ -73,13 +66,31 @@ Fatou obtained her master’s degree in Big Data in 2021 at [Université de Pau 
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
+### Simon Lebeaud
+
+<img src="images/simon.png" align="center" width="220"/>
+Simon obtained is engineering degree in 2021 at the [National Institute of Applied Sciences](https://www.insa-rouen.fr/), Rouen Normandie, with a computer science major. Right after graduating he joined GreenAI UPPA in January 2022, where he started a collaboration with [Hizkia Informatique](https://www.hizkia.eu/). For contact, send an email at simon[dot]lebeaud[at]univ-pau.fr \
+[Web page](https://www.linkedin.com/in/simon-lebeaud/)
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
+### Nicolas Tirel
+
+<img src="images/nicolas.png" align="center" width="220"/>
+Nicolas graduated from the engineering school [CYTech](https://www.linkedin.com/school/cy-tech/) (ex-EISTI) at Pau, France in 2021 with a speciality in Computer Science and Artificial Intelligence. He is passionated about Data Science since he went to Taïwan for an Exchange Semester during his school time. Thus, he decided to join GreenAI UPPA team on a project about two fields that are really meaningful for him : education and environment. For contact, send an email at nicolas[dot]tirel[at]univ-pau.fr \
+[Web page](https://www.linkedin.com/in/nicolas-tirel-427b42172/)
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
+### Florian Valade
+
+<img src="images/florian.png" align="center" width="220"/>
+Florian is a graduate engineer from [ECE](https://www.ece.fr/) and is starting a CIFRE thesis on edge computing in collaboration with the company [Fujitsu](https://www.fujitsu.com/).
+The objective of this thesis is to implement Computer Vision algorithms in a frugal way and to embed the models as close as possible to the cameras, depending on the difficulty of the task and the input data. For contact, send an email at florian[dot]valade[at]fujitsu.com.
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
 ## Former members
-
-### Yanis Chaigneau
-
-<img src="images/yanis.png" align="center" width="220"/>
-Yanis obtained his engineering degree in 2021 at the [ISAE-SUPAERO](https://www.isae-supaero.fr/fr/), Toulouse, France, with a major in computer science and artificial intelligence as well as in environmental and energy studies. After some work in planetology and energy, he joined GreenAI UPPA in January 2022, as a part of a collaboration between the laboratory and Mellisphera. For contact, send an email at yanis[dot]chaigneau[at]univ-pau.fr \
-[Web page](https://www.linkedin.com/in/yanis-chaigneau/) 
 
 ### Jordy Palafox
 
@@ -88,6 +99,20 @@ Jordy defended his Phd Thesis in 2018 at [UPPA](https://www.univ-pau.fr/fr/index
 For contact, send an email at jordy[dot]palafox[at]univ-pau.fr \
 [Web page](https://www.linkedin.com/in/jpalafox1242/)
 
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
+### Yanis Chaigneau
+
+<img src="images/yanis.png" align="center" width="220"/>
+Yanis obtained his engineering degree in 2021 at the [ISAE-SUPAERO](https://www.isae-supaero.fr/fr/), Toulouse, France, with a major in computer science and artificial intelligence as well as in environmental and energy studies. After some work in planetology and energy, he joined GreenAI UPPA in January 2022, as a part of a collaboration between the laboratory and Mellisphera. For contact, send an email at yanis[dot]chaigneau[at]univ-pau.fr \
+[Web page](https://www.linkedin.com/in/yanis-chaigneau/) 
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
+### Lorette Duris
+
+<img src="images/lorette.png" align="center" width="220"/>
+Lorette obtained a bac STAV (Sciences de Technologies de l'Agronomie et du Vivant in french) specialising in agri-food processing. She choses the [BTSA Anabiotec](https://www.enil.fr/formations/bts/btsa-anabiotec) in Toulouse, and currently in second year. To finish her BTS year, she is doing a 3 month internship at the University of Pau on a research project about the agro-ecological transition which aims to better understand the nitrogen and carbon cycles to compare conventional and conservation agriculture techniques. For contact, send an email at durislore[at]gmail.com
 
 ## Contact
 
