@@ -16,7 +16,8 @@ aside: true
 
 <details>
   <summary>
-    <b>&#8226; November, 14th 2022 - Fatou Kiné Sow, team member.</b><br>
+    <b>&#8226; November, 14th 2022 - Fatou Kiné Sow, team member.</b>
+    <br><b>Title: </b>Advances in trash detection project: presentation of Yolov7 and methods for addressing class imbalance
   </summary>
 </details> 
 
