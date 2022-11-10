@@ -4,7 +4,7 @@ feature_text: |
   ## GreenAI UPPA 
 feature_text_logo: "/assets/horizontal_dark_logo.png"
 feature_image: "/assets/ossau_lurien_bright.png"
-excerpt: "The GreenAI UPPA team is an engaged lab that improves state-of-the-art machine learning algorithms"
+excerpt: "The GreenAI UPPA team is an engaged lab that improves state-of-the-art machine learning algorithms. Concerned with our impact on earth, we develop low consumption algorithms and tackle environmental challenges."
 aside: true 
 ---
 

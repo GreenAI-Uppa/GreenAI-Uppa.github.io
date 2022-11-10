@@ -17,8 +17,10 @@ aside: true
 <details>
   <summary>
     <b>&#8226; November, 14th 2022 - Fatou Kiné Sow, team member.</b>
-    <br><b>Title: </b>Advances in trash detection project: presentation of Yolov7 and methods for addressing class imbalance
+    <br><b>Title: </b>Advances in trash detection project: presentation of YOLOv7 and methods for addressing class imbalance
+    <br><b><a style="cursor: pointer">Abstract:</a></b>
   </summary>
+  In order to propose an immersive awareness solution by putting digital, AI and user experience at the service of the environmental cause, we are implementing a real-time trash detection system to raise awareness about recycling in schools. During the previous seminar on this topic, we showed the first results obtained with the object detection model YOLOv5 on our training dataset made of images of trash taken in nature.  To improve these results and to add in our system the possibility to have the mask of the found object, we experimented the new version of YOLO (YOLOV7), the fastest and most accurate real time object detection model at the moment.  The following seminar presents the different optimizations brought to this new version of YOLO and some methods used to address the problem of class imbalance in a dataset.
 </details> 
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
@@ -153,12 +155,12 @@ Agriculture is an essential lever for action in the face of the transformations 
 
 <details>
   <summary>
-    <b>&#8226; June, 13th 2022 - Paul Gay, team member.</b><br><b>Title: </b>Early Exit Yolo in video object detection
+    <b>&#8226; June, 13th 2022 - Paul Gay, team member.</b><br><b>Title: </b>Early Exit YOLO in video object detection
     <br><b><a style="cursor: pointer">Abstract:</a></b>
   </summary>
   <p>
     The massive amount of computation required to process video can be largely reduced by discarding redundant information in nearby frames and relying on light AI (quantification, pruning, distillation). In this line, this seminar advocate the potential of Early Exit which enable to dynamically adapt the amount of computation to the difficulty of the detection in each image. On one hand, trivial images can be quickly discarded, and the computation budget can be spent on building good features for hard cases, which will be reused for the next frames. 
-This seminar presents an implementation of these ideas with Yolov5 on video object detection. 
+This seminar presents an implementation of these ideas with YOLOv5 on video object detection. 
   </p>
   <a href="/seminars/sem17.pdf">Slides here</a>
 </details>
