@@ -19,7 +19,9 @@ aside: true
     <br><b>Title: </b>Event Detection and Uncertainty, a crisis management context
     <br><b><a style="cursor: pointer">Abstract:</a></b>
   </summary>
+  <p>
   The confidence of a model in its predictions is essential for it to be robust and for its interpretation. After a brief retrospective on the integration of our MedIA tool into Cwall, a state of the art on Active Learning methods and Uncertainty Measures will be presented in a context of event detection. Motivated by a fine annotation of our data, we will then discuss unsupervised methods. Finally, we will discuss our first measurements on crisis datasets using the fine-tuning of the BLOOM model [BigScience].
+  </p>
 </details>
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
@@ -42,7 +44,10 @@ Click [here](<../reading_group>) to the previous reading group !
     <br><b>Title: </b>Advances in trash detection project: presentation of YOLOv7 and methods for addressing class imbalance
     <br><b><a style="cursor: pointer">Abstract:</a></b>
   </summary>
+  <p>
   In order to propose an immersive awareness solution by putting digital, AI and user experience at the service of the environmental cause, we are implementing a real-time trash detection system to raise awareness about recycling in schools. During the previous seminar on this topic, we showed the first results obtained with the object detection model YOLOv5 on our training dataset made of images of trash taken in nature.  To improve these results and to add in our system the possibility to have the mask of the found object, we experimented the new version of YOLO (YOLOV7), the fastest and most accurate real time object detection model at the moment.  The following seminar presents the different optimizations brought to this new version of YOLO and some methods used to address the problem of class imbalance in a dataset.
+  </p>
+  <a href="/seminars/sem25.pdf">Slides here</a>
 </details> 
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
@@ -55,6 +60,7 @@ Click [here](<../reading_group>) to the previous reading group !
   <p>
     We develop the role of environmental imaginaries (wilderness, "Eldorado", etc) for biodiversity conservation in Amazon rainforest, its interrelation with international public opinion and the resulting conflicts of representation between diverse populations ("determined territory" vs "territory prescribed"). Ultimately, it will be question of technology and biodiversity conservation. We think about the possibilities of empowerment that technology offers to reduce this dichotomy and their contributions of co-constructed and objectifying information
   </p>
+  <a href="/seminars/sem24.pdf">Slides here</a>
 </details> 
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
