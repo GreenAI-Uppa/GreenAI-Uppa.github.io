@@ -11,24 +11,15 @@ aside: true
 
 ## Upcoming seminars and events
 
-
-<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
-
-<details>
-  <summary>
-    <b>&#8226; November, 14th 2022 - Fatou Kiné Sow, team member.</b>
-    <br><b>Title: </b>Advances in trash detection project: presentation of YOLOv7 and methods for addressing class imbalance
-    <br><b><a style="cursor: pointer">Abstract:</a></b>
-  </summary>
-  In order to propose an immersive awareness solution by putting digital, AI and user experience at the service of the environmental cause, we are implementing a real-time trash detection system to raise awareness about recycling in schools. During the previous seminar on this topic, we showed the first results obtained with the object detection model YOLOv5 on our training dataset made of images of trash taken in nature.  To improve these results and to add in our system the possibility to have the mask of the found object, we experimented the new version of YOLO (YOLOV7), the fastest and most accurate real time object detection model at the moment.  The following seminar presents the different optimizations brought to this new version of YOLO and some methods used to address the problem of class imbalance in a dataset.
-</details> 
-
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
 <details>
   <summary>
     <b>&#8226; November, 21st 2022 - Matthieu François, team member.</b><br>
+    <br><b>Title: </b>Event Detection and Uncertainty, a crisis management context
+    <br><b><a style="cursor: pointer">Abstract:</a></b>
   </summary>
+  The confidence of a model in its predictions is essential for it to be robust and for its interpretation. After a brief retrospective on the integration of our MedIA tool into Cwall, a state of the art on Active Learning methods and Uncertainty Measures will be presented in a context of event detection. Motivated by a fine annotation of our data, we will then discuss unsupervised methods. Finally, we will discuss our first measurements on crisis datasets using the fine-tuning of the BLOOM model [BigScience].
 </details>
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
@@ -42,6 +33,17 @@ Our reading group meets quaterly and provides foundations and up-to-date informa
 Click [here](<../reading_group>) to the previous reading group !
 
 ## Past seminars and events
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
+<details>
+  <summary>
+    <b>&#8226; November, 14th 2022 - Fatou Kiné Sow, team member.</b>
+    <br><b>Title: </b>Advances in trash detection project: presentation of YOLOv7 and methods for addressing class imbalance
+    <br><b><a style="cursor: pointer">Abstract:</a></b>
+  </summary>
+  In order to propose an immersive awareness solution by putting digital, AI and user experience at the service of the environmental cause, we are implementing a real-time trash detection system to raise awareness about recycling in schools. During the previous seminar on this topic, we showed the first results obtained with the object detection model YOLOv5 on our training dataset made of images of trash taken in nature.  To improve these results and to add in our system the possibility to have the mask of the found object, we experimented the new version of YOLO (YOLOV7), the fastest and most accurate real time object detection model at the moment.  The following seminar presents the different optimizations brought to this new version of YOLO and some methods used to address the problem of class imbalance in a dataset.
+</details> 
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
