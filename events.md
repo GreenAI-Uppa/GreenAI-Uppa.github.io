@@ -26,6 +26,23 @@ aside: true
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
+<details>
+  <summary>
+    <b>&#8226; December, 06st 2022 - Hugo Tessier, IMT Atlantique.</b><br>
+    <br><b>Title: </b>How to reduce the hardware cost of a neural network through pruning
+    <br><b><a style="cursor: pointer">Abstract:</a></b>
+  </summary>
+  <p>
+  Since 2015, facing the increasing cost of deep neural networks, pruning has become a very active research area, within all existing compression methods.
+However, the difficulty of materially exploiting the multiplication of hollow matrices has led to the emergence of different methods, aiming at achieving a more easily exploitable form of sparsity: this is called structured pruning.
+
+In this talk, we will see what are the practical and theoretical issues of structured pruning, the different methods that can be found in the literature, and the main difficulties encountered in the field, to finally reach more general considerations about pruning as a search for architectures.
+  </p>
+</details>
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
+
 ## Reading group
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
