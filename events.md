@@ -77,7 +77,7 @@ Click [here](<../reading_group>) to the previous reading group !
   <p>
     We develop the role of environmental imaginaries (wilderness, "Eldorado", etc) for biodiversity conservation in Amazon rainforest, its interrelation with international public opinion and the resulting conflicts of representation between diverse populations ("determined territory" vs "territory prescribed"). Ultimately, it will be question of technology and biodiversity conservation. We think about the possibilities of empowerment that technology offers to reduce this dichotomy and their contributions of co-constructed and objectifying information
   </p>
-  <a href="/seminars/sem24.pdf">Slides here</a>
+  <a href="/seminars/sem24.pptx">Slides here</a>
 </details> 
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
