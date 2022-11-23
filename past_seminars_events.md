@@ -13,6 +13,19 @@ aside: true
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
 <details>
+  <summary>
+    <b>&#8226; November, 21st 2022 - Matthieu François, team member.</b><br>
+    <br><b>Title: </b>Event Detection and Uncertainty, a crisis management context
+    <br><b><a style="cursor: pointer">Abstract:</a></b>
+  </summary>
+  <p>
+  The confidence of a model in its predictions is essential for it to be robust and for its interpretation. After a brief retrospective on the integration of our MedIA tool into Cwall, a state of the art on Active Learning methods and Uncertainty Measures will be presented in a context of event detection. Motivated by a fine annotation of our data, we will then discuss unsupervised methods. Finally, we will discuss our first measurements on crisis datasets using the fine-tuning of the BLOOM model [BigScience].
+  </p>
+</details>
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
+<details>
   <summary style="cursor: pointer">
     <b>&#8226; October, 10th 2022 - Nicolas Tirel, team member</b>.
     <br>

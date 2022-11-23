@@ -161,7 +161,6 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
 
 ## the news will appear on the right side 
 news:
-  21/11/2022: <a href="https://greenai-uppa.github.io/events/">Seminar</a> with Matthieu François.
   06/12/2022: <a href="https://greenai-uppa.github.io/events/">Seminar</a> with Hugo Tessier.
 
 pins:
