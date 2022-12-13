@@ -161,7 +161,7 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
 
 ## the news will appear on the right side 
 news:
-  12/12/2022: <a href="https://greenai-uppa.github.io/events/">Seminar</a> with Sébastien Loustau.
+  09/01/2023: <a href="https://greenai-uppa.github.io/events/">Seminar</a> with Matthieu Mastio.
 
 pins:
   ACML: <a href="https://greenai-uppa.github.io/power_efficient_deep_learning/">Power Efficient Deep Learning workshop</a>

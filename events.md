@@ -15,12 +15,12 @@ aside: true
 
 <details>
   <summary>
-    <b>&#8226; December, 12th 2022 - Sébastien Loustau, Team member.</b><br>
-    <br><b>Title: </b> How to build a viable business in a context of degrowth?
+    <b>&#8226; January, 9th 2023 - Matthieu Mastio</b><br>
+    <br><b>Title: </b> Emission-reducing deployment of shared office networks
     <br><b><a style="cursor: pointer">Abstract:</a></b>
   </summary>
   <p>
-  In this seminar, we start with an introduction to the context of degrowth. From the macro-economical point of view, the degrowth theory proposes to build a new economical paradigm where the growth of the economical value at the macro-economical scale is not the main focus. It is based on a reject of the standard business-as-usual model, and the introduction of new - non measurable - dimension into the process: well-being, biodiversity, personal production, and social links. After this introduction, we study the gap between this global point of view and recommandations and the micro-economical problem of a small firm business model: how to build a viable firm in this new economy? For that purpose, we present a phd where a theoretical framework for business in a degrowth context is proposed. This framework is based on several markers like energy throughput, internal business operation, governance, ownership and also barriers. This framework is also tested over a panel of small firms, and apply to design the next level of our GreenAI UPPA Team in 2023!
+  We propose a step by step method based on publicly available data to design a master plan optimizing the number of coworking spaces to deploy in a given area, as well as their placements across the territory. We aim to develop a systemic approach with the objective of reducing GHG emissions from commuting. We design and implement a decision model that describes when a person would choose to work in a shared office and which transport mode they would use. Then, we propose two methods that work on different scales and complement each other. The first one is on a macroscopic level, where we collect and preprocess population data to convert them into an exploitable form and perform an optimization of the co-working spaces placement to maximize the gains in terms of traveled distance, using a linear solver and heuristic algorithms. In the second method, we create a synthetic population and perform a mesoscopic traffic simulation of the observed territory with MATSim, before and after the addition of the co-working places. This allows us to observe how the users would adapt their activity chains and to analyze the impact on the traffic and the usage of different facilities.
   </p>
 </details>
 
@@ -35,6 +35,20 @@ Our reading group meets quaterly and provides foundations and up-to-date informa
 Click [here](<../reading_group>) to the previous reading group !
 
 ## Past seminars and events
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
+<details>
+  <summary>
+    <b>&#8226; December, 12th 2022 - Sébastien Loustau, Team member.</b><br>
+    <br><b>Title: </b> How to build a viable business in a context of degrowth?
+    <br><b><a style="cursor: pointer">Abstract:</a></b>
+  </summary>
+  <p>
+  In this seminar, we start with an introduction to the context of degrowth. From the macro-economical point of view, the degrowth theory proposes to build a new economical paradigm where the growth of the economical value at the macro-economical scale is not the main focus. It is based on a reject of the standard business-as-usual model, and the introduction of new - non measurable - dimension into the process: well-being, biodiversity, personal production, and social links. After this introduction, we study the gap between this global point of view and recommandations and the micro-economical problem of a small firm business model: how to build a viable firm in this new economy? For that purpose, we present a phd where a theoretical framework for business in a degrowth context is proposed. This framework is based on several markers like energy throughput, internal business operation, governance, ownership and also barriers. This framework is also tested over a panel of small firms, and apply to design the next level of our GreenAI UPPA Team in 2023!
+  </p>
+  <a href="/seminars/sem28.pdf">Slides here</a>
+</details>
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
