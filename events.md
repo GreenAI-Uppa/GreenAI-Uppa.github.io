@@ -30,11 +30,11 @@ aside: true
     <b>&#8226; January, 5th 2023 - Mathieu Brugidou </b><br>
     <br><b>Title: </b> 
     <br><b><a style="cursor: pointer">Abstract:</a></b>
+<a href="https://teams.microsoft.com/l/meetup-join/19:7690d39ecff24f0aa9c7077780b23d32@thread.tacv2/1672675103010?context=%7B%22Tid%22:%220af87170-c841-446d-ae88-90b8aefe4f81%22,%22Oid%22:%224c95de54-f133-4960-8117-32abb43a57b3%22%7D">Lien Visio</a>
   </summary>
   <p>
   Ce séminaire présentera une contribution à l’évaluation de l’apport des algorithmes dits de « plongement de mots » à l’analyse sociologique des textes : d’une part, en  confrontant les résultats des analyses sémantiques de ces algorithmes aux approches maintenant bien connues des analyses de données textuelles ou de textométrie ; d’autre part, en s’intéressant à ce qui constitue un des principaux obstacles à l’analyse sociologique du web : la difficulté à caractériser sociologiquement les auteurs des énoncés issus du web. Pour cela, nous analysons les énoncés issus de plateformes de « civic tech » – plateforme  gouvernementale, le « Grand Débat National », et sa riposte politique et algorithmique proposée par un collectif de Gilets jaunes, le « Vrai Débat ». Un troisième corpus issu de la plateforme « Entendre la France », au design identique à celui du Grand Débat National et par ailleurs documenté en termes de propriétés socio-politiques, nous permettra de caractériser les locuteurs en fonction de leurs discours et de tenter de prédire par des approches de machine learning des « pseudos propriétés » affectées aux locuteurs du Grand Débat National.
 
-<a href="https://teams.microsoft.com/l/meetup-join/19:7690d39ecff24f0aa9c7077780b23d32@thread.tacv2/1672675103010?context=%7B%22Tid%22:%220af87170-c841-446d-ae88-90b8aefe4f81%22,%22Oid%22:%224c95de54-f133-4960-8117-32abb43a57b3%22%7D">Lien Visio</a>
   </p>
 </details>
 
