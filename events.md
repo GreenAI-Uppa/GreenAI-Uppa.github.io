@@ -28,7 +28,7 @@ aside: true
 <details>
   <summary>
     <b>&#8226; January, 5th 2023 - Mathieu Brugidou </b><br>
-    <br><b>Title: </b> 
+    <br><b>Title: Que peuvent les plongements lexicaux pour l’analyse sociologique  des textes ?  Analyser les discours et caractériser les locuteurs des plateformes « Grand Débat National »  et « Vrai Débat »  </b> 
     <br><b><a style="cursor: pointer">Abstract:</a></b>
 <a href="https://teams.microsoft.com/l/meetup-join/19:7690d39ecff24f0aa9c7077780b23d32@thread.tacv2/1672675103010?context=%7B%22Tid%22:%220af87170-c841-446d-ae88-90b8aefe4f81%22,%22Oid%22:%224c95de54-f133-4960-8117-32abb43a57b3%22%7D">Lien Visio</a>
   </summary>
