@@ -35,7 +35,11 @@ aside: true
   <p>
   Ce séminaire présentera une contribution à l’évaluation de l’apport des algorithmes dits de « plongement de mots » à l’analyse sociologique des textes : d’une part, en  confrontant les résultats des analyses sémantiques de ces algorithmes aux approches maintenant bien connues des analyses de données textuelles ou de textométrie ; d’autre part, en s’intéressant à ce qui constitue un des principaux obstacles à l’analyse sociologique du web : la difficulté à caractériser sociologiquement les auteurs des énoncés issus du web. Pour cela, nous analysons les énoncés issus de plateformes de « civic tech » – plateforme  gouvernementale, le « Grand Débat National », et sa riposte politique et algorithmique proposée par un collectif de Gilets jaunes, le « Vrai Débat ». Un troisième corpus issu de la plateforme « Entendre la France », au design identique à celui du Grand Débat National et par ailleurs documenté en termes de propriétés socio-politiques, nous permettra de caractériser les locuteurs en fonction de leurs discours et de tenter de prédire par des approches de machine learning des « pseudos propriétés » affectées aux locuteurs du Grand Débat National.
 
-  </p>
+Biographies
+Philippe Suignard est chercheur expert à EDF R&D. Il s'intéresse aux nouvelles technologies pour la relation client (côté client et côté conseiller), notamment traitement du vocal, text mining, chatbots et réseaux sociaux.  Ses travaux porte sur la classification (supervisée ou non) de données textuelles, les plongements lexicaux ("words embeddings") et leurs applications en entreprise comme le traitement des mails, réclamations, conversations orales, comptes-rendus techniques, analyse de l'opinion ou détection des arguments.
+https://scholar.google.com/citations?user=dHrhOIIAAAAJ
+https://cv.hal.science/philippe-suignard?langChosen=fr
+</p>
 </details>
 
 
