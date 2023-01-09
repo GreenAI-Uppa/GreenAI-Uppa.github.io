@@ -40,7 +40,9 @@ Philippe Suignard est chercheur expert à EDF R&D. Il s'intéresse aux nouvelles
 https://scholar.google.com/citations?user=dHrhOIIAAAAJ
 https://cv.hal.science/philippe-suignard?langChosen=fr
 </p>
-</details>
+  <a href="/seminars/sem29.pdf">Slides here</a>
+  
+  </details>
 
 
 
