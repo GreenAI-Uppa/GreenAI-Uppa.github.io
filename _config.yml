@@ -160,9 +160,8 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
 #  RSS: /feed.xml
 
 ## the news will appear on the right side 
-news:
-  05/01/2023: <a href="https://greenai-uppa.github.io/events/">Seminar</a> with Mathieu Brugidou.
-  09/01/2023: <a href="https://greenai-uppa.github.io/events/">Seminar</a> with Matthieu Mastio.
+# news:
+#   05/01/2023: <a href="https://greenai-uppa.github.io/events/">Seminar</a> with Mathieu Brugidou.
 
 pins:
   ACML: <a href="https://greenai-uppa.github.io/power_efficient_deep_learning/">Power Efficient Deep Learning workshop</a>

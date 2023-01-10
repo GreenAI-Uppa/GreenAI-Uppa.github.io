@@ -13,39 +13,6 @@ aside: true
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
-<details>
-  <summary>
-    <b>&#8226; January, 9th 2023 - Matthieu Mastio</b><br>
-    <br><b>Title: </b> Emission-reducing deployment of shared office networks
-    <br><b><a style="cursor: pointer">Abstract:</a></b>
-  </summary>
-  <p>
-  We propose a step by step method based on publicly available data to design a master plan optimizing the number of coworking spaces to deploy in a given area, as well as their placements across the territory. We aim to develop a systemic approach with the objective of reducing GHG emissions from commuting. We design and implement a decision model that describes when a person would choose to work in a shared office and which transport mode they would use. Then, we propose two methods that work on different scales and complement each other. The first one is on a macroscopic level, where we collect and preprocess population data to convert them into an exploitable form and perform an optimization of the co-working spaces placement to maximize the gains in terms of traveled distance, using a linear solver and heuristic algorithms. In the second method, we create a synthetic population and perform a mesoscopic traffic simulation of the observed territory with MATSim, before and after the addition of the co-working places. This allows us to observe how the users would adapt their activity chains and to analyze the impact on the traffic and the usage of different facilities.
-  </p>
-</details>
-
-
-<details>
-  <summary>
-    <b>&#8226; January, 5th 2023 - Mathieu Brugidou </b><br>
-    <br><b>Title: Que peuvent les plongements lexicaux pour l’analyse sociologique  des textes ?  Analyser les discours et caractériser les locuteurs des plateformes « Grand Débat National »  et « Vrai Débat »  </b> 
-    <br><b><a style="cursor: pointer">Abstract:</a></b>
-<a href="https://teams.microsoft.com/l/meetup-join/19:7690d39ecff24f0aa9c7077780b23d32@thread.tacv2/1672675103010?context=%7B%22Tid%22:%220af87170-c841-446d-ae88-90b8aefe4f81%22,%22Oid%22:%224c95de54-f133-4960-8117-32abb43a57b3%22%7D">Lien Visio</a>
-  </summary>
-  <p>
-  Ce séminaire présentera une contribution à l’évaluation de l’apport des algorithmes dits de « plongement de mots » à l’analyse sociologique des textes : d’une part, en  confrontant les résultats des analyses sémantiques de ces algorithmes aux approches maintenant bien connues des analyses de données textuelles ou de textométrie ; d’autre part, en s’intéressant à ce qui constitue un des principaux obstacles à l’analyse sociologique du web : la difficulté à caractériser sociologiquement les auteurs des énoncés issus du web. Pour cela, nous analysons les énoncés issus de plateformes de « civic tech » – plateforme  gouvernementale, le « Grand Débat National », et sa riposte politique et algorithmique proposée par un collectif de Gilets jaunes, le « Vrai Débat ». Un troisième corpus issu de la plateforme « Entendre la France », au design identique à celui du Grand Débat National et par ailleurs documenté en termes de propriétés socio-politiques, nous permettra de caractériser les locuteurs en fonction de leurs discours et de tenter de prédire par des approches de machine learning des « pseudos propriétés » affectées aux locuteurs du Grand Débat National.
-
-Biographies
-Philippe Suignard est chercheur expert à EDF R&D. Il s'intéresse aux nouvelles technologies pour la relation client (côté client et côté conseiller), notamment traitement du vocal, text mining, chatbots et réseaux sociaux.  Ses travaux porte sur la classification (supervisée ou non) de données textuelles, les plongements lexicaux ("words embeddings") et leurs applications en entreprise comme le traitement des mails, réclamations, conversations orales, comptes-rendus techniques, analyse de l'opinion ou détection des arguments.
-https://scholar.google.com/citations?user=dHrhOIIAAAAJ
-https://cv.hal.science/philippe-suignard?langChosen=fr
-</p>
-  <a href="/seminars/sem29.pdf">Slides here</a>
-  
-  </details>
-
-
-
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
 ## Reading group
@@ -57,6 +24,35 @@ Our reading group meets quaterly and provides foundations and up-to-date informa
 Click [here](<../reading_group>) to the previous reading group !
 
 ## Past seminars and events
+
+<details>
+  <summary>
+    <b>&#8226; January, 9th 2023 - Matthieu Mastio</b><br>
+    <br><b>Title: </b> Emission-reducing deployment of shared office networks
+    <br><b><a style="cursor: pointer">Abstract:</a></b>
+  </summary>
+  <p>
+  We propose a step by step method based on publicly available data to design a master plan optimizing the number of coworking spaces to deploy in a given area, as well as their placements across the territory. We aim to develop a systemic approach with the objective of reducing GHG emissions from commuting. We design and implement a decision model that describes when a person would choose to work in a shared office and which transport mode they would use. Then, we propose two methods that work on different scales and complement each other. The first one is on a macroscopic level, where we collect and preprocess population data to convert them into an exploitable form and perform an optimization of the co-working spaces placement to maximize the gains in terms of traveled distance, using a linear solver and heuristic algorithms. In the second method, we create a synthetic population and perform a mesoscopic traffic simulation of the observed territory with MATSim, before and after the addition of the co-working places. This allows us to observe how the users would adapt their activity chains and to analyze the impact on the traffic and the usage of different facilities.
+  </p>
+</details>
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
+<details>
+  <summary>
+    <b>&#8226; January, 5th 2023 - Mathieu Brugidou </b><br>
+    <br><b>Title: Que peuvent les plongements lexicaux pour l’analyse sociologique  des textes ?  Analyser les discours et caractériser les locuteurs des plateformes « Grand Débat National »  et « Vrai Débat »  </b> 
+    <br><b><a style="cursor: pointer">Abstract:</a></b>
+  </summary>
+  <p>This seminar will present a contribution to the evaluation of the contribution of so-called "word-folding" algorithms to the sociological analysis of texts: on the one hand, by confronting the results of the semantic analyses of these algorithms to the now well-known approaches of textual data analysis or textometry; on the other hand, by focusing on what constitutes one of the main obstacles to the sociological analysis of the web: the difficulty to sociologically characterize the authors of statements coming from the web. To do this, we analyze statements from "civic tech" platforms - a governmental platform, the "Grand Débat National", and its political and algorithmic riposte proposed by a collective of Gilets jaunes, the "Vrai Débat". A third corpus from the "Entendre la France" platform, with the same design as the "Grand Débat National" and otherwise documented in terms of socio-political properties, will allow us to characterize the speakers according to their speeches and to try to predict by machine learning approaches "pseudo-properties" assigned to the speakers of the "Grand Débat National".
+
+  <b>Biographies</b>
+  <br>
+  <b>Philippe Suignard</b> is an expert researcher at EDF R&D. He is interested in new technologies for customer relations (customer and advisor side), including voice processing, text mining, chatbots and social networks. His work focuses on classification (supervised or unsupervised) of textual data, lexical embeddings and their applications in business, such as email processing, complaints, oral conversations, technical reports, opinion analysis or argument detection.<a href="https://scholar.google.com/citations?user=dHrhOIIAAAAJ">Google Scholar</a>, <a href="https://cv.hal.science/philippe-suignard?langChosen=fr">HAL</a>
+  </p>
+  <a href="/seminars/sem29.pdf">Slides here</a>
+  </details>
+
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
