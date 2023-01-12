@@ -13,7 +13,27 @@ aside: true
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
+<details>
+  <summary>
+    <b>&#8226; January, 30th 2023 - Paul Gay, Team member.</b><br>
+    <br><b>Title: </b> Soon...
+    <br><b><a style="cursor: pointer">Abstract:</a></b>
+  </summary>
+  <p>Soon...
+  </p>
+</details>
+
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
+<details>
+  <summary>
+    <b>&#8226; February, 13th 2023 - Nicolas Tirel, Team member.</b><br>
+    <br><b>Title: </b> Soon...
+    <br><b><a style="cursor: pointer">Abstract:</a></b>
+  </summary>
+  <p>Soon...
+  </p>
+</details>
 
 ## Reading group
 
