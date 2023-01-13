@@ -42,7 +42,8 @@ For contact, send an email at sebastien[dot]loustau[at]univ-pau.fr
 ### Paul Gay
 
 <img src="images/paul.png" align="center" width="200"/>
-Currently researcher at the [LMAP](https://lma-umr5142.univ-pau.fr/fr/index.html), Paul obtained his phd between [LIUM](https://lium.univ-lemans.fr/) in France and  [IDIAP Reshearch Institut](https://www.idiap.ch/en) in Switzerland in 2014 on unsupervised Audio-visual person identification in broadcast data. Then, he went through a teaching period at the [LIA](https://lia.univ-avignon.fr/) (2015) a Post-doc in computer vision, at [IIT/PAVIS](https://pavis.iit.it/) (2016 - 2018), and worked at the [LumenAI](https://www.lumenai.fr/) on community detection (2019 - 2020).
+Currently researcher at the [LISN](https://www.lisn.upsaclay.fr/) on AI carbon footprint, Paul obtained his phd between [LIUM](https://lium.univ-lemans.fr/) in France and  [IDIAP Reshearch Institut](https://www.idiap.ch/en) in Switzerland in 2014 on unsupervised Audio-visual person identification in broadcast data. Then, he went through a teaching period at the [LIA](https://lia.univ-avignon.fr/) (2015) a Post-doc in computer vision, at [IIT/PAVIS](https://pavis.iit.it/) (2016 - 2018), and worked at the [LumenAI](https://www.lumenai.fr/) on community detection (2019 - 2020). Its other interests include Social Computing, and embedded AI through Early Exit.
+
 For contact, send an email at paul[dot]gay[at]univ-pau.fr 
 
 [Web page](https://paulgay.github.io/index.html)
