@@ -16,10 +16,11 @@ aside: true
 <details>
   <summary>
     <b>&#8226; January, 30th 2023 - Paul Gay, Team member.</b><br>
-    <br><b>Title: </b> Soon...
+    <br><b>Title: </b> How to build French NLP models to study environmental transitions.
     <br><b><a style="cursor: pointer">Abstract:</a></b>
   </summary>
-  <p>Soon...
+  <p>
+  How can social computing help to understand social behabvior in environment transition ? An important issue for social science researchers is to identify the weight of the different viewpoints and to obtain their evolution over time. By analyzing broadcastnews and social networks, TAL technologies has the potential to provide additional information. In these condition which language model is the best suited for the task at end, and how to favor the design of new language models for social computing. This seminar will present our efforts to build a set of tasks which requires little supervision and enable to compare different models or monitor the performance of a transformer model during its training. These tasks include few shot or zero shot classification and retrieval. Results with standard NLP models (Fasttext, Flaubert, Camembert) will be presented.
   </p>
 </details>
 
