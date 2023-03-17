@@ -58,7 +58,7 @@ Click [here](<../reading_group>) to the previous reading group !
 <details>
   <summary>
     <b>&#8226; February, 13th 2023 - Nicolas Tirel, Team member.</b><br>
-    <br><b>Title: </b> Soon...
+    <br><b>Title: </b> Application of Data Adaptation and Domain Adaptation for Automatic Speech Recognition purposes 
     <br><b><a style="cursor: pointer">Abstract:</a></b>
   </summary>
   <p>Soon...
