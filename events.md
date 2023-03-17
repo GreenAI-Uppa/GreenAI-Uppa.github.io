@@ -63,6 +63,7 @@ Click [here](<../reading_group>) to the previous reading group !
   </summary>
   <p>Soon...
   </p>
+  <a href="/seminars/Seminar_13_02_22-2.pdf">Slides here</a>
 </details>
 
 <details>
