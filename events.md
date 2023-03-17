@@ -15,16 +15,44 @@ aside: true
 
 <details>
   <summary>
-    <b>&#8226; January, 30th 2023 - Paul Gay, Team member.</b><br>
-    <br><b>Title: </b> How to build French NLP models to study environmental transitions.
+    <b>&#8226; March, 20th 2023 - Matthieu François, Team member.</b><br>
+    <br><b>Title: </b> Artificial intelligence integration to crisis management. Part IV. Active Learning and Social Computing
     <br><b><a style="cursor: pointer">Abstract:</a></b>
   </summary>
-  <p>
-  How can social computing help to understand social behabvior in environment transition ? An important issue for social science researchers is to identify the weight of the different viewpoints and to obtain their evolution over time. By analyzing broadcastnews and social networks, TAL technologies has the potential to provide additional information. In these condition which language model is the best suited for the task at end, and how to favor the design of new language models for social computing. This seminar will present our efforts to build a set of tasks which requires little supervision and enable to compare different models or monitor the performance of a transformer model during its training. These tasks include few shot or zero shot classification and retrieval. Results with standard NLP models (Fasttext, Flaubert, Camembert) will be presented.
+  <p> In this presentation, we will be discussing our latest developments in Active Learning and uncertainty metrics applied to crisisMMD data. After showcasing our first set of results with the last seminar, we have now gone further by introducing new diversity metrics and presenting more robust results. Additionally, we will delve into the exciting field of social computing and opinion mining.
   </p>
 </details>
 
+<details>
+  <summary>
+    <b>&#8226; April, 4th 2023 - Fatou Kine Sow, Team member.</b><br>
+    <br><b>Title: </b> Soon...
+    <br><b><a style="cursor: pointer">Abstract:</a></b>
+  </summary>
+  <p>Soon...
+  </p>
+</details>
+
+
+## Reading group
+
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
+Our reading group meets quaterly and provides foundations and up-to-date information on topics in power-efficient deep learning, mathematical statistics and optimization. We give participants valuable experience in leading group discussions and share state-of-the-art machine learning. For each session, papers are assigned in advance, and one to two participant guide the discussion.
+
+Click [here](<../reading_group>) to the previous reading group !
+
+## Past seminars and events
+
+<details>
+  <summary>
+    <b>&#8226; March, 6th 2023 - Simon Lebeaud Tirel, Team member.</b><br>
+    <br><b>Title: </b> Soon...
+    <br><b><a style="cursor: pointer">Abstract:</a></b>
+  </summary>
+  <p>Soon...
+  </p>
+</details>
 
 <details>
   <summary>
@@ -36,15 +64,18 @@ aside: true
   </p>
 </details>
 
-## Reading group
+<details>
+  <summary>
+    <b>&#8226; January, 30th 2023 - Paul Gay, Team member.</b><br>
+    <br><b>Title: </b> How to build French NLP models to study environmental transitions.
+    <br><b><a style="cursor: pointer">Abstract:</a></b>
+  </summary>
+  <p>
+  How can social computing help to understand social behabvior in environment transition ? An important issue for social science researchers is to identify the weight of the different viewpoints and to obtain their evolution over time. By analyzing broadcastnews and social networks, TAL technologies has the potential to provide additional information. In these condition which language model is the best suited for the task at end, and how to favor the design of new language models for social computing. This seminar will present our efforts to build a set of tasks which requires little supervision and enable to compare different models or monitor the performance of a transformer model during its training. These tasks include few shot or zero shot classification and retrieval. Results with standard NLP models (Fasttext, Flaubert, Camembert) will be presented.
+  </p>
+</details>
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
-
-Our reading group meets quaterly and provides foundations and up-to-date information on topics in power-efficient deep learning, mathematical statistics and optimization. We give participants valuable experience in leading group discussions and share state-of-the-art machine learning. For each session, papers are assigned in advance, and one to two participant guide the discussion.
-
-Click [here](<../reading_group>) to the previous reading group !
-
-## Past seminars and events
 
 <details>
   <summary>
