@@ -15,17 +15,19 @@ aside: true
 
 <details>
   <summary>
-    <b>&#8226; March, 20th 2023 - Matthieu François, Team member.</b><br>
-    <br><b>Title: </b> Artificial intelligence integration to crisis management. Part IV. Active Learning and Social Computing
+    <b>&#8226; April, 3th 2023 - Fatou Kine Sow, Team member.</b><br>
+    <br><b>Title: </b> Soon...
     <br><b><a style="cursor: pointer">Abstract:</a></b>
   </summary>
-  <p> In this presentation, we will be discussing our latest developments in Active Learning and uncertainty metrics applied to crisisMMD data. After showcasing our first set of results with the last seminar, we have now gone further by introducing new diversity metrics and presenting more robust results. Additionally, we will delve into the exciting field of social computing and opinion mining.
+  <p>Soon...
   </p>
 </details>
 
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
 <details>
   <summary>
-    <b>&#8226; April, 4th 2023 - Fatou Kine Sow, Team member.</b><br>
+    <b>&#8226; April, 17th 2023 - Sébastien Loustau, Team member.</b><br>
     <br><b>Title: </b> Soon...
     <br><b><a style="cursor: pointer">Abstract:</a></b>
   </summary>
@@ -44,6 +46,20 @@ Click [here](<../reading_group>) to the previous reading group !
 
 ## Past seminars and events
 
+
+<details>
+  <summary>
+    <b>&#8226; March, 20th 2023 - Matthieu François, Team member.</b><br>
+    <br><b>Title: </b> Artificial intelligence integration to crisis management. Part IV. Active Learning and Social Computing
+    <br><b><a style="cursor: pointer">Abstract:</a></b>
+  </summary>
+  <p> In this presentation, we will be discussing our latest developments in Active Learning and uncertainty metrics applied to crisisMMD data. After showcasing our first set of results with the last seminar, we have now gone further by introducing new diversity metrics and presenting more robust results. Additionally, we will delve into the exciting field of social computing and opinion mining.
+  </p>
+  <a href="/seminars/seminaire_20_03_2023.pdf">Slides here</a>
+</details>
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
 <details>
   <summary>
     <b>&#8226; March, 6th 2023 - Simon Lebeaud Tirel, Team member.</b><br>
@@ -55,6 +71,8 @@ Click [here](<../reading_group>) to the previous reading group !
   <a href="/seminars/Seminar_06_03_23-1.pdf">Slides here</a>
 </details>
 
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
 <details>
   <summary>
     <b>&#8226; February, 13th 2023 - Nicolas Tirel, Team member.</b><br>
@@ -65,6 +83,8 @@ Click [here](<../reading_group>) to the previous reading group !
   </p>
   <a href="/seminars/Seminar_13_02_22-2.pdf">Slides here</a>
 </details>
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
 <details>
   <summary>
