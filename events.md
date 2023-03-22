@@ -28,7 +28,7 @@ aside: true
 <details>
   <summary>
     <b>&#8226; April, 17th 2023 - Sébastien Loustau, Team member.</b><br>
-    <br><b>Title: </b> Entry in BAL (Bayesian Active Learning)
+    <br><b>Title: </b> Bayesian Deep Active Learning (Bayesian Active Learning)
     <br><b><a style="cursor: pointer">Abstract:</a></b>
   </summary>
   <p> In this talk, I will present the contribution of a new Bayesian optimizer to the problem of selecting new data for text and image classification.
