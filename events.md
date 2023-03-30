@@ -63,7 +63,7 @@ Click [here](<../reading_group>) to the previous reading group !
 
 <details>
   <summary>
-    <b>&#8226; March, 6th 2023 - Simon Lebeaud Tirel, Team member.</b><br>
+    <b>&#8226; March, 6th 2023 - Simon Lebeaud, Team member.</b><br>
     <br><b>Title: </b> Soon...
     <br><b><a style="cursor: pointer">Abstract:</a></b>
   </summary>
