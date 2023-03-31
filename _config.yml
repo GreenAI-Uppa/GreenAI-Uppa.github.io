@@ -162,8 +162,8 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
 ## the news will appear on the right side 
 news:
   21/03/2023: <a href="https://www.2tonnes.org/">2t</a> team workshop! 
-  03/04/2023: <a href="https://greenai-uppa.github.io/events/">Seminar</a> with Fatou Kine Sow.
-  17/04/2023: <a href="https://greenai-uppa.github.io/events/">Seminar</a>, Bayesian Deep Active Learning, with Sébastien Loustau.
+  03/04/2023: <a href="https://greenai-uppa.github.io/events/">Seminar</a>, Bayesian Deep Active Learning, with Sébastien Loustau.
+  17/04/2023: <a href="https://greenai-uppa.github.io/events/">Seminar</a> with Fatou Kine Sow.
 
 pins:
   ACML: <a href="https://greenai-uppa.github.io/power_efficient_deep_learning/">Power Efficient Deep Learning workshop</a>
