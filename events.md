@@ -15,19 +15,6 @@ aside: true
 
 <details>
   <summary>
-    <b>&#8226; April, 3th 2023 - Sébastien Loustau, Team member.</b><br>
-    <br><b>Title: </b> Bayesian Deep Active Learning (Bayesian Active Learning)
-    <br><b><a style="cursor: pointer">Abstract:</a></b>
-  </summary>
-  <p> In this talk, I will present the contribution of a new Bayesian optimizer to the problem of selecting new data for text and image classification.
-After an introduction of the Bayesian approach in Deep Learning which will present an optimizer based on a VI (Variationel Inference) approach, and a presentation of the datasets and the learning task (multi-label classification), we will detail the methodology of the computation of the uncertainty in the output of neural networks, allowing to obtain new entropy measures based on the randomness of the Bayesian network. Then we will compare the results of active learning where the selection of data is derived from classical approaches based on the entropy of the output of an Adam-type optimizer, or a Bayesian variational inference optimizer.
-  </p>
-</details>
-
-<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
-
-<details>
-  <summary>
     <b>&#8226; April, 17th 2023 - Fatou Kine Sow, Team member.</b><br>
     <br><b>Title: </b> Soon...
     <br><b><a style="cursor: pointer">Abstract:</a></b>
@@ -47,6 +34,19 @@ Click [here](<../reading_group>) to the previous reading group !
 
 ## Past seminars and events
 
+<details>
+  <summary>
+    <b>&#8226; April, 3th 2023 - Sébastien Loustau, Team member.</b><br>
+    <br><b>Title: </b> Bayesian Deep Active Learning (Bayesian Active Learning)
+    <br><b><a style="cursor: pointer">Abstract:</a></b>
+  </summary>
+  <p> In this talk, I will present the contribution of a new Bayesian optimizer to the problem of selecting new data for text and image classification.
+After an introduction of the Bayesian approach in Deep Learning which will present an optimizer based on a VI (Variationel Inference) approach, and a presentation of the datasets and the learning task (multi-label classification), we will detail the methodology of the computation of the uncertainty in the output of neural networks, allowing to obtain new entropy measures based on the randomness of the Bayesian network. Then we will compare the results of active learning where the selection of data is derived from classical approaches based on the entropy of the output of an Adam-type optimizer, or a Bayesian variational inference optimizer.
+  </p>
+  <a href="/seminars/activelearning.pdf">Slides here</a>
+</details>
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
 <details>
   <summary>
