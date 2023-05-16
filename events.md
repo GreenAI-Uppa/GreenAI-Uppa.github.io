@@ -15,7 +15,31 @@ aside: true
 
 <details>
   <summary>
-    <b>&#8226; April, 17th 2023 - Fatou Kine Sow, Team member.</b><br>
+    <b>&#8226; May, 22th 2023 - Nicolas Tyrel, Team member.</b><br>
+    <br><b>Title: </b> Soon...
+    <br><b><a style="cursor: pointer">Abstract:</a></b>
+  </summary>
+  <p>Soon...
+  </p>
+</details>
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
+<details>
+  <summary>
+    <b>&#8226; June, 12tg 2023 - Paul Gay, Team member.</b><br>
+    <br><b>Title: </b> Soon...
+    <br><b><a style="cursor: pointer">Abstract:</a></b>
+  </summary>
+  <p>Soon...
+  </p>
+</details>
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
+<details>
+  <summary>
+    <b>&#8226; June, 26th 2023 - Matthieu François, Team member.</b><br>
     <br><b>Title: </b> Soon...
     <br><b><a style="cursor: pointer">Abstract:</a></b>
   </summary>
