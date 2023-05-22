@@ -15,7 +15,7 @@ aside: true
 
 <details>
   <summary>
-    <b>&#8226; May, 22th 2023 - Nicolas Tyrel, Team member.</b><br>
+    <b>&#8226; May, 22th 2023 - Nicolas Tiyrel, Team member.</b><br>
     <br><b>Title: </b> Soon...
     <br><b><a style="cursor: pointer">Abstract:</a></b>
   </summary>
