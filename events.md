@@ -15,18 +15,6 @@ aside: true
 
 <details>
   <summary>
-    <b>&#8226; May, 22th 2023 - Nicolas Tiyrel, Team member.</b><br>
-    <br><b>Title: </b> Soon...
-    <br><b><a style="cursor: pointer">Abstract:</a></b>
-  </summary>
-  <p>Soon...
-  </p>
-</details>
-
-<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
-
-<details>
-  <summary>
     <b>&#8226; June, 12tg 2023 - Paul Gay, Team member.</b><br>
     <br><b>Title: </b> Soon...
     <br><b><a style="cursor: pointer">Abstract:</a></b>
@@ -57,6 +45,21 @@ Our reading group meets quaterly and provides foundations and up-to-date informa
 Click [here](<../reading_group>) to the previous reading group !
 
 ## Past seminars and events
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
+<details>
+  <summary>
+    <b>&#8226; May, 22th 2023 - Nicolas Tirel, Team member.</b><br>
+    <br><b>Title: </b> Automatic Speech Recognition for children voices in MathIA solution
+    <br><b><a style="cursor: pointer">Abstract:</a></b>
+  </summary>
+  <p>
+    With the objective to summarize the work done since the beginning of the collaboration with Prof en Poche, we will go through the whole system of automatic speech recognition and we will see how we deal with children voices without any big dataset available publicly.
+  </p>
+  <a href="/seminars/Seminar_22_05_23-3.pdf">Slides here</a>
+  
+</details>
 
 <details>
   <summary>
@@ -104,7 +107,7 @@ After an introduction of the Bayesian approach in Deep Learning which will prese
     <br><b>Title: </b> Application of Data Adaptation and Domain Adaptation for Automatic Speech Recognition purposes 
     <br><b><a style="cursor: pointer">Abstract:</a></b>
   </summary>
-  <p>Soon...
+  <p>Explanation on the construction and the use of Data and Domain Adaptation in the case of Automatic Speech Recognition.
   </p>
   <a href="/seminars/Seminar_13_02_22-2.pdf">Slides here</a>
 </details>
