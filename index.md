@@ -94,7 +94,8 @@ The objective of this thesis is to implement Computer Vision algorithms in a fru
 ### Florine Lefer
 
 <img src="images/florine.png" align="center" width="220"/>
-Florine is a student of ENSTA Paris in the Computer Science - AI program and is starting a 3-month research internship in statistical data analysis.
+Florine is a student of ENSTA Paris in the Computer Science - AI program and is starting a 3-month research internship in sensory data analysis. The objective of this internship is to conduct a large sensory evaluation over several consumer panels in order to test the ability to distinguish conventional vs organic vs living soils techniques in market gardening. For contact, send an email at florine.lefer@ensta-paris.fr
+
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
