@@ -15,12 +15,11 @@ aside: true
 
 <details>
   <summary>
-    <b>&#8226; January, 30th 2023 - Paul Gay, Team member.</b><br>
-    <br><b>Title: </b> How to build French NLP models to study environmental transitions.
+    <b>&#8226; June, 12tg 2023 - Paul Gay, Team member.</b><br>
+    <br><b>Title: </b> Soon...
     <br><b><a style="cursor: pointer">Abstract:</a></b>
   </summary>
-  <p>
-  How can social computing help to understand social behabvior in environment transition ? An important issue for social science researchers is to identify the weight of the different viewpoints and to obtain their evolution over time. By analyzing broadcastnews and social networks, TAL technologies has the potential to provide additional information. In these condition which language model is the best suited for the task at end, and how to favor the design of new language models for social computing. This seminar will present our efforts to build a set of tasks which requires little supervision and enable to compare different models or monitor the performance of a transformer model during its training. These tasks include few shot or zero shot classification and retrieval. Results with standard NLP models (Fasttext, Flaubert, Camembert) will be presented.
+  <p>Soon...
   </p>
 </details>
 
@@ -28,13 +27,14 @@ aside: true
 
 <details>
   <summary>
-    <b>&#8226; February, 13th 2023 - Nicolas Tirel, Team member.</b><br>
+    <b>&#8226; June, 26th 2023 - Matthieu François, Team member.</b><br>
     <br><b>Title: </b> Soon...
     <br><b><a style="cursor: pointer">Abstract:</a></b>
   </summary>
   <p>Soon...
   </p>
 </details>
+
 
 ## Reading group
 
@@ -45,6 +45,88 @@ Our reading group meets quaterly and provides foundations and up-to-date informa
 Click [here](<../reading_group>) to the previous reading group !
 
 ## Past seminars and events
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
+<details>
+  <summary>
+    <b>&#8226; May, 22th 2023 - Nicolas Tirel, Team member.</b><br>
+    <br><b>Title: </b> Automatic Speech Recognition for children voices in MathIA solution
+    <br><b><a style="cursor: pointer">Abstract:</a></b>
+  </summary>
+  <p>
+    With the objective to summarize the work done since the beginning of the collaboration with Prof en Poche, we will go through the whole system of automatic speech recognition and we will see how we deal with children voices without any big dataset available publicly.
+  </p>
+  <a href="/seminars/Seminar_22_05_23-3.pdf">Slides here</a>
+  
+</details>
+
+<details>
+  <summary>
+    <b>&#8226; April, 3th 2023 - Sébastien Loustau, Team member.</b><br>
+    <br><b>Title: </b> Bayesian Deep Active Learning (Bayesian Active Learning)
+    <br><b><a style="cursor: pointer">Abstract:</a></b>
+  </summary>
+  <p> In this talk, I will present the contribution of a new Bayesian optimizer to the problem of selecting new data for text and image classification.
+After an introduction of the Bayesian approach in Deep Learning which will present an optimizer based on a VI (Variationel Inference) approach, and a presentation of the datasets and the learning task (multi-label classification), we will detail the methodology of the computation of the uncertainty in the output of neural networks, allowing to obtain new entropy measures based on the randomness of the Bayesian network. Then we will compare the results of active learning where the selection of data is derived from classical approaches based on the entropy of the output of an Adam-type optimizer, or a Bayesian variational inference optimizer.
+  </p>
+  <a href="/seminars/activelearning.pdf">Slides here</a>
+</details>
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
+<details>
+  <summary>
+    <b>&#8226; March, 20th 2023 - Matthieu François, Team member.</b><br>
+    <br><b>Title: </b> Artificial intelligence integration to crisis management. Part IV. Active Learning and Social Computing
+    <br><b><a style="cursor: pointer">Abstract:</a></b>
+  </summary>
+  <p> In this presentation, we will be discussing our latest developments in Active Learning and uncertainty metrics applied to crisisMMD data. After showcasing our first set of results with the last seminar, we have now gone further by introducing new diversity metrics and presenting more robust results. Additionally, we will delve into the exciting field of social computing and opinion mining.
+  </p>
+  <a href="/seminars/seminaire_20_03_2023.pdf">Slides here</a>
+</details>
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
+<details>
+  <summary>
+    <b>&#8226; March, 6th 2023 - Simon Lebeaud, Team member.</b><br>
+    <br><b>Title: </b> Soon...
+    <br><b><a style="cursor: pointer">Abstract:</a></b>
+  </summary>
+  <p>Soon...
+  </p>
+  <a href="/seminars/Seminar_06_03_23-1.pdf">Slides here</a>
+</details>
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
+<details>
+  <summary>
+    <b>&#8226; February, 13th 2023 - Nicolas Tirel, Team member.</b><br>
+    <br><b>Title: </b> Application of Data Adaptation and Domain Adaptation for Automatic Speech Recognition purposes 
+    <br><b><a style="cursor: pointer">Abstract:</a></b>
+  </summary>
+  <p>Explanation on the construction and the use of Data and Domain Adaptation in the case of Automatic Speech Recognition.
+  </p>
+  <a href="/seminars/Seminar_13_02_22-2.pdf">Slides here</a>
+</details>
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
+<details>
+  <summary>
+    <b>&#8226; January, 30th 2023 - Paul Gay, Team member.</b><br>
+    <br><b>Title: </b> How to build French NLP models to study environmental transitions.
+    <br><b><a style="cursor: pointer">Abstract:</a></b>
+  </summary>
+  <p>
+  How can social computing help to understand social behabvior in environment transition ? An important issue for social science researchers is to identify the weight of the different viewpoints and to obtain their evolution over time. By analyzing broadcastnews and social networks, TAL technologies has the potential to provide additional information. In these condition which language model is the best suited for the task at end, and how to favor the design of new language models for social computing. This seminar will present our efforts to build a set of tasks which requires little supervision and enable to compare different models or monitor the performance of a transformer model during its training. These tasks include few shot or zero shot classification and retrieval. Results with standard NLP models (Fasttext, Flaubert, Camembert) will be presented.
+  </p>
+  <a href="/seminars/seminar_30_01_2023.pdf">Slides here</a>
+</details>
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
 <details>
   <summary>
