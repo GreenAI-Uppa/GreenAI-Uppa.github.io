@@ -56,3 +56,7 @@ navigation_header:
 As you can see, the title will be displayed on the web page, and the url correspond to the page
 - `/` indicates the main page
 - `/#our-research` indicates a subsection, and corresponds to a markdown title, in lower case, and with the spaces replaced by `-`
+
+### add past seminar
+
+modify the ./events.md

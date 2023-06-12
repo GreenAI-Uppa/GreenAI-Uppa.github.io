@@ -15,18 +15,6 @@ aside: true
 
 <details>
   <summary>
-    <b>&#8226; June, 12tg 2023 - Paul Gay, Team member.</b><br>
-    <br><b>Title: </b> Soon...
-    <br><b><a style="cursor: pointer">Abstract:</a></b>
-  </summary>
-  <p>Soon...
-  </p>
-</details>
-
-<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
-
-<details>
-  <summary>
     <b>&#8226; June, 26th 2023 - Matthieu François, Team member.</b><br>
     <br><b>Title: </b> Soon...
     <br><b><a style="cursor: pointer">Abstract:</a></b>
@@ -45,6 +33,18 @@ Our reading group meets quaterly and provides foundations and up-to-date informa
 Click [here](<../reading_group>) to the previous reading group !
 
 ## Past seminars and events
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
+<details>
+  <summary>
+    <b>&#8226; June, 12tg 2023 - Paul Gay, Team member.</b><br>
+    <br><b>Title: </b> Integrating environmental impact of AI in a data center
+    <br><b><a style="cursor: pointer">Abstract:</a></b>
+  </summary>
+  <p> The growing environmental impact of our digital practices is partly due to the development of technologies such as artificial intelligence. Thus, it seems relevant to measure the footprint of these algorithms, at the source, in the data centers in order to benefit from a controlled environment allowing accurate measurements, and to raise the awareness of data scientists, who have an important role in this development. We propose to estimate the carbon footprint and assess the "environmental impact"/"algorithm accuracy" trade-off for deep learning algorithms at data center scale: algorithm iteration, user , node, entire infrastructure. The application context will be centered on the LabIA, a cluster of 12 stations dedicated to AI and used by 5 laboratories. The feedback provided to users will have two objectives: (i) detect bad practices and improve energy efficiency and user experience (ii) Increase awareness regarding the impact of their practices, both arising from the energy that their algorithms use on the cluster, and the consequences and rebound effects of the applications they develop. The data collected will make it possible to identify new opportunities applicable to other large data centers such as the Jean-Zay data center.
+  </p>
+</details>
+
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
