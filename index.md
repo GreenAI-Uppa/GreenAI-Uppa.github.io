@@ -8,7 +8,7 @@ excerpt: "The GreenAI UPPA team is an engaged lab that improves state-of-the-art
 aside: true 
 ---
 
-## Who we are?
+## The team
 
 The GreenAI UPPA team is an engaged lab that improves state-of-the-art machine learning algorithms. Concerned with our impact on earth, we develop low consumption algorithms and tackle environmental challenges. Unlike other research groups, our activities are dedicated to the full pipeline from the math grounding to R&D prototype and in production deployment with industrial partners. We are based in Pau, France, in front of the Pyrénées. 
 
@@ -94,7 +94,8 @@ The objective of this thesis is to implement Computer Vision algorithms in a fru
 ### Florine Lefer
 
 <img src="images/florine.png" align="center" width="220"/>
-Florine is a student of ENSTA Paris in the Computer Science - AI program and is starting a 3-month research internship in statistical data analysis.
+Florine is a student of ENSTA Paris in the Computer Science - AI program and is starting a 3-month research internship in sensory data analysis. The objective of this internship is to conduct a large sensory evaluation over several consumer panels in order to test the ability to distinguish conventional vs organic vs living soils techniques in market gardening. For contact, send an email at florine.lefer@ensta-paris.fr
+
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
