@@ -43,6 +43,7 @@ Click [here](<../reading_group>) to the previous reading group !
   </summary>
   <p> The growing environmental impact of our digital practices is partly due to the development of technologies such as artificial intelligence. Thus, it seems relevant to measure the footprint of these algorithms, at the source, in the data centers in order to benefit from a controlled environment allowing accurate measurements, and to raise the awareness of data scientists, who have an important role in this development. We propose to estimate the carbon footprint and assess the "environmental impact"/"algorithm accuracy" trade-off for deep learning algorithms at data center scale: algorithm iteration, user , node, entire infrastructure. The application context will be centered on the LabIA, a cluster of 12 stations dedicated to AI and used by 5 laboratories. The feedback provided to users will have two objectives: (i) detect bad practices and improve energy efficiency and user experience (ii) Increase awareness regarding the impact of their practices, both arising from the energy that their algorithms use on the cluster, and the consequences and rebound effects of the applications they develop. The data collected will make it possible to identify new opportunities applicable to other large data centers such as the Jean-Zay data center.
   </p>
+  <a href="/seminars/sem30.pdf">Slides here</a>
 </details>
 
 
