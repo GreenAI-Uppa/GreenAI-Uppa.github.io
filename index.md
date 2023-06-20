@@ -98,7 +98,7 @@ Florine is a student of ENSTA Paris in the Computer Science - AI program and is 
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
-### Nathan van Hoevelaken 
+### Nathan van Hoevelaken 
 
 <img src="images/nathan.png" align="center" width="220"/>
 Nathan obtained a scientific baccalaureate (physics-chemistry and biology). He decided to move into the field of biochemistry, in BTS BioAnalyses and Controls. In order to validate his learning, he's doing a 5-week internship at the University of Pau on a research project on agro-ecological transition which aims to better understand the levels of dry matter in vegetables and the organoleptic qualities of vegetables to compare conventional and conservation farming techniques.
