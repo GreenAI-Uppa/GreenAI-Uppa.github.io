@@ -48,7 +48,7 @@ Click [here](<../reading_group>) to the previous reading group !
 
 <details>
   <summary>
-    <b>&#8226; June, 12tg 2023 - Paul Gay, Team member.</b><br>
+    <b>&#8226; June, 12th 2023 - Paul Gay, Team member.</b><br>
     <br><b>Title: </b> Integrating environmental impact of AI in a data center
     <br><b><a style="cursor: pointer">Abstract:</a></b>
   </summary>
