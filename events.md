@@ -15,14 +15,13 @@ aside: true
 
 <details>
   <summary>
-    <b>&#8226; June, 26th 2023 - Matthieu François, Team member.</b><br>
+    <b>&#8226; July, 24rd 2023 - Yann Gahat, Team member.</b><br>
     <br><b>Title: </b> Soon...
     <br><b><a style="cursor: pointer">Abstract:</a></b>
   </summary>
   <p>Soon...
   </p>
 </details>
-
 
 ## Reading group
 
@@ -33,11 +32,28 @@ Our reading group meets quaterly and provides foundations and up-to-date informa
 Click [here](<../reading_group>) to the previous reading group !
 
 ## Past seminars and events
+
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
 <details>
   <summary>
-    <b>&#8226; June, 12tg 2023 - Paul Gay, Team member.</b><br>
+    <b>&#8226; July, 3rd 2023 - Florine Lefer, Team member.</b><br>
+    <br><b>Title: </b>  From soil to plate :  A Comparative Study of Vegetable Quality
+    <br><b><a style="cursor: pointer">Abstract:</a></b>
+  </summary>
+  <p>This presentation introduces the project "From Soil to Plate." The project, funded by EMAC (64), aims to compare the sensory quality of vegetables derived from various agricultural practices and market types, such as conventional, organic, no-till, and direct selling. Agricultural practices pose significant concerns for humanity, including pollution, soil erosion and degradation, increasing food demand, and a decline in nutritional values of products. It is for these reasons that our team has taken on this subject, conducting nutritional and sensory analyses of vegetables from diverse agricultural practices to address the following questions: Are there any differences? Do people have preferences? Do virtuous practices result in better vegetable quality?
+
+  The presentation provides an overview of the current state of the art in sensory and nutritional analysis of vegetables from different agricultural practices. It also delves into the project itself, outlining its methodologies. Lastly, we will present our initial findings.
+
+  </p>
+  <a href="/seminars/seminar_florine.pdf">Slides here</a>
+</details>
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
+<details>
+  <summary>
+    <b>&#8226; June, 12th 2023 - Paul Gay, Team member.</b><br>
     <br><b>Title: </b> Integrating environmental impact of AI in a data center
     <br><b><a style="cursor: pointer">Abstract:</a></b>
   </summary>
