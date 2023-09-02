@@ -91,15 +91,28 @@ The objective of this thesis is to implement Computer Vision algorithms in a fru
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
+### Aamer Sekkari
+
+<img src="images/aamer.png" align="center" width="220"/>
+Aamer is a student from Ecole Centrale Lyon and is doing a 6 month internship on evaluation of deep learning models. On one hand, this includes the environmental impact. To this end, Aamer is developing an online system so that a user can upload a model and retrieve energy consumption and other environmental factors. On the other hand, Aamer also focus on text classification models and their interpretation with Integrated Gradient techniques. The idea is to build a set of ngramms which are impactful to the model decision, as a proxy to visualise which "concepts" are encoded in the text classification model. His work is integrated in the GAIA platform of IAPau.
+
+### Yann Gahat
+
+
+<img src="images/yann.png" align="center" width="220"/>
+
+Yann is doing a master of engineering in . He is doing an internship in the context of the Sobre project which aims at understand the different notions of sufficiency in the French society. To this end, he's building dashboard to visualise clustering of 50 millions of tweets gathered over 2021-2023 (sadly now it is called X and the dataset cannot be simply extended). The Sobre project is funded by CNRS with the Tree laboratory.
+
+
+## Former members
+
+<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
+
 ### Florine Lefer
 
 <img src="images/florine.png" align="center" width="220"/>
 Florine is a student of ENSTA Paris in the Computer Science - AI program and is starting a 3-month research internship in sensory data analysis. The objective of this internship is to conduct a large sensory evaluation over several consumer panels in order to test the ability to distinguish conventional vs organic vs living soils techniques in market gardening. For contact, send an email at florine.lefer@ensta-paris.fr
 
-
-<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
-
-## Former members
 
 ### Jordy Palafox
 
