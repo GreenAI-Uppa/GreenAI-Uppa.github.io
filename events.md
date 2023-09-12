@@ -13,16 +13,6 @@ aside: true
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
-<details>
-  <summary>
-    <b>&#8226; July, 24rd 2023 - Yann Gahat, Team member.</b><br>
-    <br><b>Title: </b> Soon...
-    <br><b><a style="cursor: pointer">Abstract:</a></b>
-  </summary>
-  <p>Soon...
-  </p>
-</details>
-
 ## Reading group
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
