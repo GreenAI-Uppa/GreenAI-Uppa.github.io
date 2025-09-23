@@ -13,7 +13,7 @@ aside: true
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
-- Thursaday 6th November 2025 (French event):  L'IA frugale dans ses différentes dimensions avec la [conférence Verdinum](https://verdinum.sciencesconf.org/), à Cy-Tech Pau.
+- Thursday 6th November 2025 (French event):  L'IA frugale dans ses différentes dimensions avec la [conférence Verdinum](https://verdinum.sciencesconf.org/), à Cy-Tech Pau.
 
 - Wednesday 3rd December 2025 (French event): La collaboration cognitive entre la machine et l'humain. Conférence de vulgarisation par Rachid Alami. Théâtre Saint Louis. Pau
 

@@ -17,9 +17,3 @@ Deep Learning has become extremely popular to solve many supervised machine lear
 
 **Measure the hungriness of your deep learning**: We measure the power consumption of recent architectures on different hardwares through our [AIPowerMeter](https://github.com/GreenAI-Uppa/deep_learning_power_measure) based on RAPL and nvidia-smi. 
 
-![jetson](/images/jetson.jpg){:class="img-responsive"}
-
-
-### Training
-
-We have a long experience in creating training content on machine learning and deep learning towards student and industrial learners. 
