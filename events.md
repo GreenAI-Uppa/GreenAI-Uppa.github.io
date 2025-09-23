@@ -13,11 +13,22 @@ aside: true
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
+- Samedi 24 décembre 
+
+
+- Jeudi 6 novembre 2025:  L'IA frugale dans ses différentes dimensions avec la [conférence Verdinum](https://verdinum.sciencesconf.org/), à Cy-Tech Pau.
+
+
+- Mercredi 3 décembre 2025: La collaboration cognitive entre la machine et l'humain. Conférence de vulgarisation par Rachid Alami. Théâtre Saint Louis. Pau
+
+- Vendredi 5 décembre 2025: Journée IAPau "IA et robots" ateliers le matin et retour d'expérience industriels l'après-midi.
+
 ## Reading group
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
 Our reading group meets quaterly and provides foundations and up-to-date information on topics in power-efficient deep learning, mathematical statistics and optimization. We give participants valuable experience in leading group discussions and share state-of-the-art machine learning. For each session, papers are assigned in advance, and one to two participant guide the discussion.
+
 
 Click [here](<../reading_group>) to the previous reading group !
 
