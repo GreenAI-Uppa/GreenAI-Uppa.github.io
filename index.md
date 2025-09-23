@@ -10,7 +10,8 @@ aside: true
 
 ## The team
 
-The GreenAI UPPA team is an engaged lab that improves state-of-the-art machine learning algorithms. Concerned with our impact on earth, we develop low consumption algorithms and tackle environmental challenges. Unlike other research groups, our activities are dedicated to the full pipeline from the math grounding to R&D prototype and in production deployment with industrial partners. We are based in Pau, France, in front of the Pyrénées. 
+The greenAI Uppa team has been split in 2022. Most of its members are working on sustainability and machine learning in the south west of France. This page will keep on updating news of GreenAI in the region of Pau and around.
+
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
@@ -18,7 +19,13 @@ The GreenAI UPPA team is an engaged lab that improves state-of-the-art machine l
 
 ![mirrordescent](/images/seminar4.png){:class="img-responsive"}
 
-Our research encompasses diverse projects and collaborations around the mathematical foundations of power-efficient deep/machine learning algorithms, and the applications of AI to build a more sustainable world. In this section, we present the mathematical as well as the algorithmic part of our activity. 
+This page is dedicated to topics linking AI with environment. According to the Afnor organism, this corresponds to 
+
+- The need to use an AI system rather than another less energy-intensive solution to achieve the same objective has been demonstrated;
+
+- Best practices are adopted by the producer, supplier, and customer to reduce the environmental impacts of the service using an AI algorithm;
+
+-  Uses and needs are aimed at remaining within planetary boundaries and have been previously questioned.
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
@@ -42,7 +49,7 @@ For contact, send an email at sebastien[dot]loustau[at]univ-pau.fr
 ### Paul Gay
 
 <img src="images/paul.png" align="center" width="200"/>
-Currently researcher at the [LISN](https://www.lisn.upsaclay.fr/) on AI carbon footprint, Paul obtained his phd between [LIUM](https://lium.univ-lemans.fr/) in France and  [IDIAP Reshearch Institut](https://www.idiap.ch/en) in Switzerland in 2014 on unsupervised Audio-visual person identification in broadcast data. Then, he went through a teaching period at the [LIA](https://lia.univ-avignon.fr/) (2015) a Post-doc in computer vision, at [IIT/PAVIS](https://pavis.iit.it/) (2016 - 2018), and worked at the [LumenAI](https://www.lumenai.fr/) on community detection (2019 - 2020). Its other interests include Social Computing, and embedded AI through Early Exit.
+Currently researcher at the [ETIS](https://www.lisn.upsaclay.fr/) on AI carbon footprint, Paul obtained his phd between [LIUM](https://lium.univ-lemans.fr/) in France and  [IDIAP Reshearch Institut](https://www.idiap.ch/en) in Switzerland in 2014 on unsupervised Audio-visual person identification in broadcast data. Then, he went through a teaching period at the [LIA](https://lia.univ-avignon.fr/) (2015) a Post-doc in computer vision, at [IIT/PAVIS](https://pavis.iit.it/) (2016 - 2018), and worked at the [LumenAI](https://www.lumenai.fr/) on community detection (2019 - 2020). Its other interests include Social Computing, and embedded AI through Early Exit.
 
 For contact, send an email at paul[dot]gay[at]univ-pau.fr 
 
@@ -67,14 +74,6 @@ Fatou obtained her master’s degree in Big Data in 2021 at [Université de Pau 
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
-### Simon Lebeaud
-
-<img src="images/simon.png" align="center" width="220"/>
-Simon obtained is engineering degree in 2021 at the [National Institute of Applied Sciences](https://www.insa-rouen.fr/), Rouen Normandie, with a computer science major. Right after graduating he joined GreenAI UPPA in January 2022, where he started a collaboration with [Hizkia Informatique](https://www.hizkia.eu/). For contact, send an email at simon[dot]lebeaud[at]univ-pau.fr \
-[Web page](https://www.linkedin.com/in/simon-lebeaud/)
-
-<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
-
 ### Nicolas Tirel
 
 <img src="images/nicolas.png" align="center" width="220"/>
@@ -91,35 +90,6 @@ The objective of this thesis is to implement Computer Vision algorithms in a fru
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
-### Aamer Sekkari
-
-<img src="images/aamer.png" align="center" width="220"/>
-Aamer is a student from Ecole Centrale Lyon and is doing a 6 month internship on evaluation of deep learning models. On one hand, this includes the environmental impact. To this end, Aamer is developing an online system so that a user can upload a model and retrieve energy consumption and other environmental factors. On the other hand, Aamer also focus on text classification models and their interpretation with Integrated Gradient techniques. The idea is to build a set of ngramms which are impactful to the model decision, as a proxy to visualise which "concepts" are encoded in the text classification model. His work is integrated in the GAIA platform of IAPau.
-
-### Yann Gahat
-
-
-<img src="images/yann.png" align="center" width="220"/>
-
-Yann is doing a master of engineering in . He is doing an internship in the context of the Sobre project which aims at understand the different notions of sufficiency in the French society. To this end, he's building dashboard to visualise clustering of 50 millions of tweets gathered over 2021-2023 (sadly now it is called X and the dataset cannot be simply extended). The Sobre project is funded by CNRS with the Tree laboratory.
-
-
-## Former members
-
-<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
-
-### Florine Lefer
-
-<img src="images/florine.png" align="center" width="220"/>
-Florine is a student of ENSTA Paris in the Computer Science - AI program and is starting a 3-month research internship in sensory data analysis. The objective of this internship is to conduct a large sensory evaluation over several consumer panels in order to test the ability to distinguish conventional vs organic vs living soils techniques in market gardening. For contact, send an email at florine.lefer@ensta-paris.fr
-
-<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
-
-### Nathan van Hoevelaken 
-
-<img src="images/nathan.png" align="center" width="220"/>
-Nathan obtained a scientific baccalaureate (physics-chemistry and biology). He decided to move into the field of biochemistry, in BTS BioAnalyses and Controls. In order to validate his learning, he's doing a 5-week internship at the University of Pau on a research project on agro-ecological transition which aims to better understand the levels of dry matter in vegetables and the organoleptic qualities of vegetables to compare conventional and conservation farming techniques.
-
 ### Jordy Palafox
 
 <img src="images/jordy.png" align="center" width="220"/>
@@ -129,19 +99,6 @@ For contact, send an email at jordy[dot]palafox[at]univ-pau.fr \
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
-### Yanis Chaigneau
-
-<img src="images/yanis.png" align="center" width="220"/>
-Yanis obtained his engineering degree in 2021 at the [ISAE-SUPAERO](https://www.isae-supaero.fr/fr/), Toulouse, France, with a major in computer science and artificial intelligence as well as in environmental and energy studies. After some work in planetology and energy, he joined GreenAI UPPA in January 2022, as a part of a collaboration between the laboratory and Mellisphera. For contact, send an email at yanis[dot]chaigneau[at]univ-pau.fr \
-[Web page](https://www.linkedin.com/in/yanis-chaigneau/) 
-
-<div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
-
-### Lorette Duris
-
-<img src="images/lorette.png" align="center" width="220"/>
-Lorette obtained a bac STAV (Sciences de Technologies de l'Agronomie et du Vivant in french) specialising in agri-food processing. She choses the [BTSA Anabiotec](https://www.enil.fr/formations/bts/btsa-anabiotec) in Toulouse, and currently in second year. To finish her BTS year, she is doing a 3 month internship at the University of Pau on a research project about the agro-ecological transition which aims to better understand the nitrogen and carbon cycles to compare conventional and conservation agriculture techniques. For contact, send an email at durislore[at]gmail.com
-
 ## Contact
 
-Feel free to contact us if you want to contribute: contact [Paul](mailto:paul.gay@univ-pau.fr) or [Sébastien](https://sebastienloustau.github.io)
+Feel free to contact us if you want to contribute: contact [Paul](mailto:paul.gay@univ-pau.fr) 

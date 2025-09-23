@@ -132,16 +132,6 @@ navigation_header:
 - title: AI Power Meter
   url: https://github.com/GreenAI-Uppa/deep_learning_power_measure
 
-navigation_workshop:
-- title: Home
-  url: /power_efficient_deep_learning/
-- title: Call for papers
-  url: /power_efficient_deep_learning/#call-for-papers
-- title: ACML Registration
-  url: http://www.acml-conf.org/2021/participants/registration/
-- title: AI Power Meter
-  url: https://github.com/GreenAI-Uppa/IAPowerMeter
-
 #- title: EDL Competition
 #  url: /acml_competition/
 
@@ -161,10 +151,9 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
 
 ## the news will appear on the right side 
 news:
-  22/06/2023: <a href="https://formation.univ-pau.fr/fr/catalogue/summer-winter-schools/green-it-numerique-responsable/edition2023.html">Meet us</a> at the UPPA GreenIT summer school
+  6/11/2025: <a href=""https://verdinum.sciencesconf.org/review/controlboard>Meet us</a> at the GreenAI Verdinum conference
 pins:
-  ACML: <a href="https://greenai-uppa.github.io/power_efficient_deep_learning/">Power Efficient Deep Learning workshop</a>
-  CoCa4AI: <a href="https://greenai-uppa.github.io/Coca4AI/">Energy Usage on Data centers</a>
+  CoCa4AI: <a href="github.com/GreenAI-Uppa/AIPowerMeter">Measure the power consumption of your deep learning.</a>
 
 #17/11/2021: 'Join us at our <a href="/power_efficient_deep_learning/">ACML Workshop</a> on the power consumption of AI!'
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
