@@ -10,7 +10,9 @@ aside: true
 
 ## The team
 
-The greenAI Uppa team has been split in 2022. Most of its members are working on sustainability and machine learning in the south west of France. This page will keep on updating news of GreenAI in the region of Pau and around.
+The greenAI Uppa team has been split in 2022. Most of its members are still working on sustainability and machine learning in the south west of France. This page will keep on updating news of GreenAI in the region of Pau and around.
+
+This page is under construction and will be updated to highlights GreenAI related initiatives around University of Pau and CY-Tech university.
 
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
@@ -40,6 +42,8 @@ After a PHD thesis defended in 2008, at [Institut de Marseille](https://www.i2m.
 He found the AI start-up [LumeanAI](https://www.lumenai.fr/) in 2015 and the non-profit organization [IAPau](http://www.iapau.fr/) in 2016.
 In 2020, he is researcher at the [LMAP](https://lma-umr5142.univ-pau.fr/fr/index.html) at [Université de Pau et des Pays de l'Adour](https://www.univ-pau.fr/fr/index.html) and created the GreenAI UPPA Group.
 He is now investigating social aspects in agriculture practices, notably the links between sufficiency, resilience, and how focusing on performance can lead to a vulnerable society.
+
+
 For contact, send an email at sebastien[dot]loustau[at]univ-pau.fr
 
 [Web page](https://sebastienloustau.github.io/)
