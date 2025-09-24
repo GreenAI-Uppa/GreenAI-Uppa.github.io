@@ -8,6 +8,8 @@ excerpt: "The GreenAI UPPA team is an engaged lab that improves state-of-the-art
 aside: true 
 ---
 
+We are convinced that today’s world, based on the unwavering belief in technological solutions only, will not last, and therefore the need to develop the necessary perspective when developing, designing, or studying artificial intelligence solutions.
+
 ## The team
 
 The greenAI Uppa team has been split in 2022. Most of its members are still working on sustainability and machine learning in the south west of France. This page will keep on updating news of GreenAI in the region of Pau and around.
@@ -28,6 +30,7 @@ This page is dedicated to topics linking AI with environment. According to the A
 - Best practices are adopted by the producer, supplier, and customer to reduce the environmental impacts of the service using an AI algorithm;
 
 -  Uses and needs are aimed at remaining within planetary boundaries and have been previously questioned.
+
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
 
