@@ -38,8 +38,8 @@ We wish to bring together different people from different communities but with o
 <img src="images/sebastien.png" align="center" width="200"/>
 After a PHD thesis defended in 2008, at [Institut de Marseille](https://www.i2m.univ-amu.fr) Sebastien worked as Associated professor at [Université d'Angers](https://www.univ-angers.fr/fr/index.html) in the lab [LAREMA](https://math.univ-angers.fr/LAREMA/) where he defended his Habilitation thesis in 2014.
 He found the AI start-up [LumeanAI](https://www.lumenai.fr/) in 2015 and the non-profit organization [IAPau](http://www.iapau.fr/) in 2016.
-Since 2020, he is researcher at the [LMAP](https://lma-umr5142.univ-pau.fr/fr/index.html) at [Université de Pau et des Pays de l'Adour](https://www.univ-pau.fr/fr/index.html) and created the GreenAI UPPA Group.
-His research interest are online learning, mathematical statistics, information theory for machine learning  and more recently, in the applications of these activities to deep learning techniques and environmental challenges. 
+In 2020, he is researcher at the [LMAP](https://lma-umr5142.univ-pau.fr/fr/index.html) at [Université de Pau et des Pays de l'Adour](https://www.univ-pau.fr/fr/index.html) and created the GreenAI UPPA Group.
+He is now investigating social aspects in agriculture practices, notably the links between sufficiency, resilience, and how focusing on performance can lead to a vulnerable society.
 For contact, send an email at sebastien[dot]loustau[at]univ-pau.fr
 
 [Web page](https://sebastienloustau.github.io/)
@@ -49,7 +49,7 @@ For contact, send an email at sebastien[dot]loustau[at]univ-pau.fr
 ### Paul Gay
 
 <img src="images/paul.png" align="center" width="200"/>
-Currently researcher at the [ETIS](https://www.lisn.upsaclay.fr/) on AI carbon footprint, Paul obtained his phd between [LIUM](https://lium.univ-lemans.fr/) in France and  [IDIAP Reshearch Institut](https://www.idiap.ch/en) in Switzerland in 2014 on unsupervised Audio-visual person identification in broadcast data. Then, he went through a teaching period at the [LIA](https://lia.univ-avignon.fr/) (2015) a Post-doc in computer vision, at [IIT/PAVIS](https://pavis.iit.it/) (2016 - 2018), and worked at the [LumenAI](https://www.lumenai.fr/) on community detection (2019 - 2020). Its other interests include Social Computing, and embedded AI through Early Exit.
+ Paul obtained his phd between [LIUM](https://lium.univ-lemans.fr/) in France and  [IDIAP Reshearch Institut](https://www.idiap.ch/en) in Switzerland in 2014 on unsupervised Audio-visual person identification in news video. Then, he went through a teaching period at the [LIA](https://lia.univ-avignon.fr/) (2015) a Post-doc in computer vision, at [IIT/PAVIS](https://pavis.iit.it/) (2016 - 2018), and worked at the [LumenAI](https://www.lumenai.fr/) on community detection (2019 - 2020). He is currently researcher at the [ETIS](https://www.etis-lab.fr/) working on environmental and social consequences of AI, by building monitoring tools and running qualitative studies. 
 
 For contact, send an email at paul[dot]gay[at]univ-pau.fr 
 
@@ -60,7 +60,8 @@ For contact, send an email at paul[dot]gay[at]univ-pau.fr
 ### Matthieu Francois
 
 <img src="images/matthieu.png" align="center" width="200"/>
-Matthieu obtained his Master's degree in 2020 at [Université de Grenoble Alpes](https://www.univ-grenoble-alpes.fr/). After some experiences as Data Scientist, he joined GreenAI UPPA Team in Septembre 2021.
+Matthieu obtained his Master's degree in 2020 at [Université de Grenoble Alpes](https://www.univ-grenoble-alpes.fr/). He is currently doing a PHD in social computing with the [Tree laboratory](https://tree.univ-pau.fr), where he analyses how environmental topics are discussed in large social media corpus.
+
 For contact, send an email at matthieu[dot]francois[at]univ-pau.fr \
 [Web page](https://www.linkedin.com/in/matthieufran%C3%A7ois/)
 
@@ -69,7 +70,9 @@ For contact, send an email at matthieu[dot]francois[at]univ-pau.fr \
 ### Fatou Kiné Sow
 
 <img src="images/fatou.png" align="center" width="220"/>
-Fatou obtained her master’s degree in Big Data in 2021 at [Université de Pau et des Pays de l’Adour](https://www.univ-pau.fr/). After a year of experience as Data Scientist, she joined Green AI in December 2021 in collaboration with Prof en Poche on a computer vision and AR project.  For contact, send an email at fksow[at]univ-pau.fr \
+Fatou obtained her master’s degree in Big Data in 2021 at [Université de Pau et des Pays de l’Adour](https://www.univ-pau.fr/). After a year of experience as Data Scientist, she joined Green AI in December 2021 in collaboration with Prof en Poche on a computer vision and AR project.  She now works as an independant data scientist. 
+
+For contact, send an email at fksow[at]univ-pau.fr \
 [Web page](https://www.linkedin.com/in/fatou-kine-sow-6b2145152/)
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
@@ -77,7 +80,11 @@ Fatou obtained her master’s degree in Big Data in 2021 at [Université de Pau 
 ### Nicolas Tirel
 
 <img src="images/nicolas.png" align="center" width="220"/>
-Nicolas graduated from the engineering school [CYTech](https://www.linkedin.com/school/cy-tech/) (ex-EISTI) at Pau, France in 2021 with a speciality in Computer Science and Artificial Intelligence. He is passionated about Data Science since he went to Taïwan for an Exchange Semester during his school time. Thus, he decided to join GreenAI UPPA team on a project about two fields that are really meaningful for him : education and environment. For contact, send an email at nicolas[dot]tirel[at]univ-pau.fr \
+Nicolas graduated from the engineering school [CYTech](https://www.linkedin.com/school/cy-tech/) (ex-EISTI) at Pau, France in 2021 with a speciality in Computer Science and Artificial Intelligence. He is passionated about Data Science since he went to Taïwan for an Exchange Semester during his school time. Thus, he decided to join GreenAI UPPA team on a project about two fields that are really meaningful for him : education and environment. He is currently doing a Phd with the [Liuppa laboratory](https://liuppa.univ-pau.fr) and university of Zaragossa. His research focus on techniques for deploying computing tasks on servers to reduce the carbon footprint of digital services.
+
+He also facilitates scientific collective intelligence workshops to raise environmental awareness, focusing on climate, biodiversity, and digital issues, within the @Baskula association, in order to understand the challenges and levers for action in favor of a more sustainable and just world.
+
+For contact, send an email at nicolas[dot]tirel[at]univ-pau.fr \
 [Web page](https://www.linkedin.com/in/nicolas-tirel-427b42172/)
 
 <div style="margin-top:0px;margin-bottom:40px;height:1px;width:70px;margin:20px auto 25px;background:#ebebeb;display:block;border:none;"></div>
@@ -93,7 +100,8 @@ The objective of this thesis is to implement Computer Vision algorithms in a fru
 ### Jordy Palafox
 
 <img src="images/jordy.png" align="center" width="220"/>
-Jordy defended his Phd Thesis in 2018 at [UPPA](https://www.univ-pau.fr/fr/index.html) [LMAP](https://lma-umr5142.univ-pau.fr/fr/index.html). After a post-doc in 2018-2019 at La Rochelle in the lab [LASIE](https://lasie.univ-larochelle.fr/), he taught at CY Tech two years and followed training in Data Science. He joined GreenAI UPPA group in Septembre 2021.
+Jordy defended his Phd Thesis in 2018 at [UPPA](https://www.univ-pau.fr/fr/index.html) [LMAP](https://lma-umr5142.univ-pau.fr/fr/index.html). After a post-doc in 2018-2019 at La Rochelle in the lab [LASIE](https://lasie.univ-larochelle.fr/), he is now an assitant professor at Cy Tech Pau, and leader on the Verdinum Project on education for responsible ICT.
+
 For contact, send an email at jordy[dot]palafox[at]univ-pau.fr \
 [Web page](https://www.linkedin.com/in/jpalafox1242/)
 
